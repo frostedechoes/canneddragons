@@ -1,0 +1,1 @@
+In a more just world, we would have heard as much about Thich Nhat Hanh's death as we did Meatloaf's. 

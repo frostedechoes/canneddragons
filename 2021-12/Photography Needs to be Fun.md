@@ -1,0 +1,5 @@
+Matt Birchler writes in [Photography Needs to be Fun](https://birchtree.me/blog/photography-needs-to-be-fun/) about how the new Glass photography network feels a bit too stilted and more like Unsplash than Instagram.
+
+> Meanwhile, Twitter and instagram are teeming with pros, amateurs, and everyone else, and they’re just more rich photography experiences for me. Social networks have cultures that form around them, and my feeling is that the culture in Glass is way too buttoned up and monolithic. I want photography to be diverse and fun, and the monolithic feeds I see in Glass don’t check either of those boxes for me now.
+
+I [wrote a few months ago](https://frostedechoes.com/2021/08/19/a-picture-is.html) about how Micro.blog fits into the Glass equation. I’ve seen some amazing photographs on the M.b. platform and there are people I follow that have near-professional photography skills. There are quite a few amateur shots, as well. It feels like a really nice balance. I don’t feel intimidated posting photos, like I would on some of the more refined networks. 

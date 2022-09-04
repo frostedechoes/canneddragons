@@ -1,0 +1,1 @@
+I can't help but feel sometimes that *Loki* is kind of like *Odd Squad* for adults. 

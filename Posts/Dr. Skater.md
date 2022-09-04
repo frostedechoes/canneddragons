@@ -1,0 +1,3 @@
+I was really inspired by this tweet from Dr. Indigo Willing. She picked up skateboarding at 41, after getting her PhD. I traded my regular skateboard in for a cruiser at 40, so I wouldn't be tempted to do tricks. Now, I suffer from post-exertional malaise, but would love to take up casual skating again. I hope I can get past the fatigue and try some of what Dr. Willing is demoing here again. 
+
+https://twitter.com/indigowilling/status/1440817132132995075?s=12

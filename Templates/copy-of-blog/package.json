@@ -1,0 +1,65 @@
+{
+  "name": "Minimal Nord",
+  "locals": {
+    "page_size": "12",
+    "text_color": "#EEEEEE",
+    "background_color": "#2F3440",
+    "link_color": "#99AD87",
+    "hide_dates": false,
+    "date_display": "MMMM D, Y",
+    "body_font": {
+      "id": "system-sans",
+      "font_size": "17",
+      "line_height": "1.4",
+      "name": "System sans-serif",
+      "stack": "-apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif",
+      "line_width": 38,
+      "styles": ""
+    }
+  },
+  "views": {
+    "archives.html": {
+      "url": "/archives",
+      "partials": {
+        "title": "Archives - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}"
+      }
+    },
+    "meta.html": {
+      "url": "/meta"
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest entries posted on {{{title}}}"
+      }
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "{{{tag}}} - {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}"
+      }
+    },
+    "Bigfoot.min.js": {
+      "url": "/bigfoot.min.js"
+    },
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    }
+  }
+}

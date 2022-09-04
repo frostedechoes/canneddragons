@@ -1,0 +1,7 @@
+As a student of psychology, I've always been fascinated and disturbed by the concept of failure to thrive. It is distressing to learn all the ways our most closely related animal cousins have been treated in order to test out theories about this phenomenon. However, I never would have thought to link failure to thrive to remote learning. 
+
+{{more}}
+
+> We labor under the myth of being an “information-based” society. We imagine that we are deeply informed, have ready access to massive amounts of information on the basis of which we are able to make free and well-considered decisions. This over-simplification of our human experience is deeply flawed. Among the things we’ve learned in the past year-and-a-half is that “distance education” doesn’t work very well. There’s a good reason for that: education is not merely about the acquisition of information. Interaction with a computer screen in insufficient. We are social beings and require the presence and direct interaction with others in order to learn well and fully. Our mistake about all of this could be compared to imagining that infants merely need milk and not touch, cuddling, cooing, and the human face. We know the result of such mistaken notions: babies die, suffering from “failure to thrive.”
+
+### [The Perpetual Catechumen - Glory to God for All Things](https://blogs.ancientfaith.com/glory2godforallthings/2021/09/06/the-perpetual-catechumen/)

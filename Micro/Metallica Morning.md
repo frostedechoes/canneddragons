@@ -1,0 +1,1 @@
+TFW your son wakes you up on a Saturday morning to talk about how ridiculous the snare drum sounds are on Metallica’s *St. Anger*.

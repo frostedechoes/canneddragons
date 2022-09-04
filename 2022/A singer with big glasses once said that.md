@@ -1,0 +1,1 @@
+A singer with big glasses once said that Saturdays are alright for fighting. I think they are better for reading and writing blog posts in an IDE. 

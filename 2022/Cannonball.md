@@ -1,0 +1,20 @@
+---
+Title: Cannonball
+Date: 9/2/2022
+Tags: Friday Night Video, Noise
+---
+
+
+# 🎵 Cannonball
+
+![](_cannonball.png)
+
+If you look back at the music I've shared on this blog, you wouldn't doubt my devotion to nostalgic 80s retro-inspired sounds. Bring on the sports cars, sunglasses, synthesizers, and neon signs. Lately, though, I've been wishing for a 90s resurgence. Let's have some flannel and baby doll dresses. In that spirit, I wanted to share this dead-on, straight cover of "Cannonball" by the Breeders performed by Courtney Barnett. Barnett has been on my radar for a while, but now I have a reason to check out her stuff. She and her band nail this track. It's hard to believe that it is just the three of them because the sound feels so full. 
+
+{{more}}
+
+"Cannonball" has always been a song to get you moving. If you find yourself in possession of a bass guitar, it's one of the first songs you have to learn. Its lurching, bouncing bassline is so much fun. The song has just the right amount of distortion and noise in the mix to make it feel at home in the era of grunge, but is lighthearted enough to transcend some of the period's tropes and still be relevant today.  
+
+[https://youtu.be/3RoNHwoLLPA](https://youtu.be/3RoNHwoLLPA)
+
+

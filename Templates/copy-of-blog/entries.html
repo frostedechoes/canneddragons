@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  <body>
+  <!-- Place your kit's code here -->
+ <script src="https://kit.fontawesome.com/4ea0c97945.js" crossorigin="anonymous"></script>
+    {{> header}}
+    <div class="container">
+      <div class="main">
+        {{#entries}}
+        <div class="entry">
+          {{{teaser}}}
+			{{#more}}
+			<a class="more" href="{{{url}}}">Read more</a>
+			{{/more}}
+          <p>
+
+          <a class="small date" href="{{{url}}}">{{date}}</a>
+
+          {{#tags}}
+          <a class="small tag" href="/tagged/{{slug}}">{{name}}</a>
+          {{/tags}}
+          </p>
+          
+          <div class="clear"></div>
+        </div>
+        {{/entries}}
+        {{#pagination}}
+        <div class="pagination">
+          {{#previous}}
+            <a href="/page/{{previous}}">&larr; Newer</a>
+          {{/previous}}
+          Page {{current}} of {{total}}
+          {{#next}}
+            <a href="/page/{{next}}">Older &rarr;</a>
+          {{/next}}
+        </div>
+        {{/pagination}}
+              
+      </div>
+    </div>
+    
+  </body>
+  {{> footer}}
+  {{> meta}}
+</html>
