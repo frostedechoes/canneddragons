@@ -1,6 +1,13 @@
+---
+Title: Amor Fati
+Date: 9/7/2022
+Tags: faith
+Thumbnail: /_Resources/nord echo twitter size@2x.png
+---
+
 # Amor Fati
 
-DHH from 37Signals, who is not a believer, writes about nihilism and God's will. Nietzsche promoted the idea of Amor Fate (love your fate). Heinemeier Hanson relishes the idea of intellectual surrender that comes from faith. He brings in Kierkegaard's leap of faith concept. 
+DHH from 37Signals, who is not a believer, writes about nihilism and God's will. Nietzsche promoted the idea of Amor Fati (love your fate). Heinemeier Hanson relishes the idea of intellectual surrender that comes from faith. He brings in Kierkegaard's leap of faith concept. 
 
 {{more}}
 
