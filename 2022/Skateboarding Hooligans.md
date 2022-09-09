@@ -1,3 +1,7 @@
+---
+Summary: Skateboarders don't always fit the stereotypes you see in the media.
+---
+
 # Skateboard Hooligans
 
 I was reading my friend Adam's newsletter, [Tendrils](https://world.hey.com/adamwood/tendrils-017-just-because-something-looks-ugly-doesn-t-mean-that-it-s-morally-wrong-75b1eb7d), and I came upon some quick thoughts about the movie *mid90s* in a collection of mini-reviews of [A24 movies](https://letterboxd.com/zioibi/list/a24/). While Adam enjoyed the movie because it brought back some skateboarding nostalgia, I hated it for much the same reason. It seems like every recent movie or documentary dealing with skateboarding, from *mid90s* to *Minding the Gap*, makes it seem like skateboarders are a bunch of lawless teenage punks who have trouble with school or work. I was big into skateboarding in the early 90s, and I didn't find the stereotype to be true. Some of my friends from that era became software development managers, architects, and worked at major record labels. I would rather not make it sound like a career is the only measurement of success, but these guys clearly didn't meet the stereotype you see of skateboarders in the media.
