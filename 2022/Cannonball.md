@@ -2,6 +2,7 @@
 Title: Cannonball
 Date: 9/2/2022
 Tags: Friday Night Video, Noise
+Thumbnail: ![](_cannonball.png)
 ---
 
 
