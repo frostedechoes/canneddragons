@@ -1,5 +1,6 @@
 ---
 Date: 09/05/2022
+Tags: faith
 ---
 
 # Institutions Absorb Anxiety
