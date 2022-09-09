@@ -14,6 +14,6 @@ If you look back at the music I've shared on this blog, you wouldn't doubt my de
 
 "Cannonball" has always been a song to get you moving. If you find yourself in possession of a bass guitar, it's one of the first songs you have to learn. Its lurching, bouncing bassline is so much fun. The song has just the right amount of distortion and noise in the mix to make it feel at home in the era of grunge, but is lighthearted enough to transcend some of the period's tropes and still be relevant today.  
 
-[https://youtu.be/3RoNHwoLLPA](https://youtu.be/3RoNHwoLLPA)
+https://youtu.be/3RoNHwoLLPA
 
 
