@@ -1,3 +1,7 @@
+---
+Date: 09/05/2022
+---
+
 # Institutions Absorb Anxiety
 
 ![](../Resources/_church.jpeg)
