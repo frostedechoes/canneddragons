@@ -1,7 +1,10 @@
 ---
 Draft: no
+Summary: Kaitlyn Tiffany profiles the changes in Tumblr over the years. 
 Tags: tech
 ---
+
+# The Rise and Fall of Tumblr
 
 Over the past few years, I've read a handful of pieces on the rise and fall of Tumblr, but [this one by Kaitlyn Tiffany](https://www.theatlantic.com/technology/archive/2022/02/tumblr-internet-legacy-survival/621419/) was still worth taking in. One thing that stood out to me immediately was the account of former CEO Jeff D’Onofrio, who replaced founder David Karp, left under a cloud of secrecy in January. Matt Mullenweg of Tumblr owner Automattic says that he didn't announce the departure for D'Onofrio's "privacy and safety." 
 
