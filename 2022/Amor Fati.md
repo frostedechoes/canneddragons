@@ -2,7 +2,7 @@
 
 DHH from 37Signals, who is not a believer, writes about nihilism and God's will. Nietzsche promoted the idea of Amor Fate (love your fate). Heinemeier Hanson relishes the idea of intellectual surrender that comes from faith. He brings in Kierkegaard's leap of faith concept. 
 
-<!--more-->
+{{more}}
 
 > God's will as a concept is a scalable form of Amor Fati. That's just a fascinating frame of focus for looking at culture and meaning. 
 
