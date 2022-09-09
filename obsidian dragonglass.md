@@ -1,6 +1,6 @@
 ---
 Title: Obsidian Dragonglass
-Date: 8/7/2022 19:00
+Date: 9/7/2022 19:00
 Tags: tech
 Draft: no
 ---
