@@ -1,5 +1,7 @@
 # Institutions Absorb Anxiety
 
+![](../Resources/_church.jpeg)
+
 I'm not sure what to think of [this piece](https://mereorthodoxy.com/panic/) from _Mere Orthodoxy_ on panic over the direction of Western civilization and its implications for Christians. For one thing, it sides mostly with Rod Dreher, someone with whom I am not usually in agreement. Dreher tends toward the Chicken Little end of the Christian spectrum, and his hand wringing often seems counterproductive. Things can surely get more difficult for Christians as societal mores shift, but the sky will not fall as long as God's creation stands, and we are part of that creation. Perhaps, despite the references used, the piece brings up important points about the protective effect of institutions for our emotional well-being. 
 
 {{more}}
