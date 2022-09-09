@@ -1,13 +1,12 @@
 ---
 Title: Cannonball
 Date: 9/2/2022
+Thumbnail: ![](_cannonball.png)
 Tags: Friday Night Video, Noise
 ---
 
 
 # 🎵 Cannonball
-
-![](_cannonball.png)
 
 If you look back at the music I've shared on this blog, you wouldn't doubt my devotion to nostalgic 80s retro-inspired sounds. Bring on the sports cars, sunglasses, synthesizers, and neon signs. Lately, though, I've been wishing for a 90s resurgence. Let's have some flannel and baby doll dresses. In that spirit, I wanted to share this dead-on, straight cover of "Cannonball" by the Breeders performed by Courtney Barnett. Barnett has been on my radar for a while, but now I have a reason to check out her stuff. She and her band nail this track. It's hard to believe that it is just the three of them because the sound feels so full. 
 
