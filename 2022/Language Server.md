@@ -13,5 +13,5 @@ A singer with big glasses once said "Saturday nights are alright for fighting." 
 
 Bierner's post has a list of new features. I can already say that autocompletion of image paths has been a game changer for me. It allows me to store my images in a "Resources" folder and easily implement them when I'm blogging. 
 
-I've been a huge fan of markdown since I discovered it years ago. It used to be hard to come by apps that use it, but that has no longer been the case, in the last few years. It's nice to see the development of VS Code helping to "push Markdown tooling forward for everyone."
+I've been a huge fan of markdown since I discovered it years ago. Sometimes I *think* in the format. It used to be hard to come by apps that use it, but that has no longer been the case, in the last few years. It's nice to see the development of VS Code helping to "push Markdown tooling forward for everyone."
 
