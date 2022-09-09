@@ -10,6 +10,6 @@ I took a brother typewriter to college with me. It's nice to bring back some of 
 
 → [The Obsessive Pleasures of Mechanical-Keyboard Tinkerers](https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers)
 
-![Photo of a Brother tyoewriter by Laura Rivera](_typewriter.jpeg)
+![Photo of a Brother typewriter by Laura Rivera](_typewriter.jpeg)
 
 [image source](https://unsplash.com/photos/9ZQzrLWV52M)
