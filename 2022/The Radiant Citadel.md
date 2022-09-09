@@ -1,5 +1,6 @@
 # The Radiant Citadel
-{|<} ![](_radiantcitadel.png)
+
+![](_radiantcitadel.png)
 
 One of the co-creators of the latest official D&D adventure, *Journeys Through the Radiant Citadel*, Ajit George, [compares the setting of the book](https://youtu.be/5IC0AbjlIJM) to solarpunk. I wrote about solarpunk in [issue no. 8 of the newsletter](https://frostedechoes.net/newsletter/issue-no-8/). Wikipedia [defines it this way](https://en.wikipedia.org/wiki/Solarpunk):
 
