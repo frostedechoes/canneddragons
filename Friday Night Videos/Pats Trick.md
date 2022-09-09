@@ -6,6 +6,8 @@ Draft: no
 thumbnail: /_Resources/Helium.png
 ---
 
+# 🎵 Pat's Trick
+
 Last week, Frosted Echoes featured a Breeder's cover as the Friday Night Video and this week, we're following closely behind with a song by the band Helium. "Pat's Trick" is the opening track from the debut record from thd band. It has the buzziness of "Cannonball" and that mid-nineties Big Muff grunginess. Indie rockers during this period had no problems mimicking the catchy chorus technique of their major label cousins and this track showcases that dynamic.  
 
 Though indie videos from the 90s didn't have the highest production values, the colorful set and clothing contrasts highlight a band in its prime. Mary Timony is winsome as the force behind Helium and Ash Bowie (from Polvo) strikes playful poses with his bass. 
