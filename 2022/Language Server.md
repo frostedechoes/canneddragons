@@ -2,7 +2,7 @@
 Title: Markdown Language Server In VS Code
 Date: 9/10/2022 18:00
 Tags: Tech
-Thumbnail: /_Resources/nord echo@2x.png
+Thumbnail: /_Resources/nord echo twitter size@2x.png
 ---
 
 A singer with big glasses once said "Saturday nights are alright for fighting." I tend to think they are better for reading and writing blog posts in an IDE, though. If you've never tried writing a blog post in an interactive development environment like Visual Studio Code, now might be the time to check it out. They've just added support for a Markdown Language Server, which Matt Bierner details in [this post](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server).
