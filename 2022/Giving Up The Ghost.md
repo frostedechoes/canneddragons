@@ -10,7 +10,11 @@ Draft: no
 
 ![](/_Resources/Ghost%402x.png)
 
-I have been trying out the blogging platform [Ghost](https://ghost.org) on and off for a couple of years now. It's a powerful tool, and one that many people make good use of. It offers:
+I have been trying out the blogging platform [Ghost](https://ghost.org) on and off for a couple of years now. It's a powerful tool, and one that many people make good use of. 
+
+{{more}}
+
+Ghost offers:
 
 - The ability to treat blog posts and newsletters the same (and post them by either delivery method).
 - Granular management of social posts, with the ability to specify individual images and text for different social networks. 
