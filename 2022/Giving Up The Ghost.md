@@ -3,7 +3,7 @@ Title: Giving Up The Ghost
 Date: 09/10/2022 18:00
 Tags: Tech
 Summary: The Ghost blogging platform is impressive, but it just wasn't right for me.
-Draft: no
+Draft: yes
 ---
 
 # Giving Up The Ghost
