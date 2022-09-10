@@ -1,1 +1,1 @@
-I'm tempted to post somethign extremely provacative (but not so provacative that Jean would have to protect the M.b. community guidelines) to test webmentions on the blog. 
+I'm tempted to post something extremely provacative (but not so provacative that Jean would have to protect the M.b. community guidelines) to test webmentions on the blog. 
