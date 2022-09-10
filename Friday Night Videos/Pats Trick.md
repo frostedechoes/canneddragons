@@ -8,7 +8,7 @@ thumbnail: /_Resources/Helium.png
 
 # 🎵 Pat's Trick
 
-Last week, Frosted Echoes featured a Breeder's cover as the Friday Night Video and this week, we're following closely behind with a song by the band Helium. "Pat's Trick" is the opening track from the debut record from thd band. It has the buzziness of "Cannonball" and that mid-nineties Big Muff grunginess. Indie rockers during this period had no problems mimicking the catchy chorus technique of their major label cousins and this track showcases that dynamic.  
+Last week, Frosted Echoes featured a Breeder's cover as the Friday Night Video and this week, we're following closely behind with a song by the band Helium. "Pat's Trick" is the opening track off the debut record by the band. It has the buzziness of "Cannonball" and that mid-nineties Big Muff grunginess. Indie rockers during this period had no problems mimicking the catchy chorus technique of their major label cousins and this track showcases that dynamic.  
 
 {{more}}
 
