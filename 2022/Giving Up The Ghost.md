@@ -1,12 +1,14 @@
 ---
 Title: Giving Up The Ghost
-Date: 09/10/2022
+Date: 09/10/2022 18:00
 Tags: Tech
 Summary: The Ghost blogging platform is impressive, but it just wasn't right for me.
-Draft: yes
+Draft: no
 ---
 
 # Giving Up The Ghost
+
+![](/_Resources/Ghost%402x.png)
 
 I have been trying out the blogging platform [Ghost](https://ghost.org) on and off for a couple of years now. It's a powerful tool, and one that a lot of people make good use of. It offers:
 
