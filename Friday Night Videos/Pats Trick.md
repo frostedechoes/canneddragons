@@ -12,7 +12,7 @@ Last week, Frosted Echoes featured a Breeder's cover as the Friday Night Video a
 
 {{more}}
 
-Though indie videos from the 90s didn't have the highest production values, the colorful set and clothing contrasts highlight a band in its prime. Mary Timony is winsome as the force behind Helium and Ash Bowie (from Polvo) strikes playful poses with his bass. 
+Though indie videos from the 90s didn't have the highest production values, the colorful set and clothing contrasts highlight a band in its prime. Mary Timony is winsome but smirky as the force behind Helium and Ash Bowie (from Polvo) strikes playful poses with his bass. 
 
 If you dig the track, checkout the rest of the record *The Dirt of Luck*. It's one of those albums where nearly every song feels like a video-worthy single. 
 
