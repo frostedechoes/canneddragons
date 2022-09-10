@@ -6,7 +6,7 @@ Tags: noise
 
 # Encase My Heart In Amber (or at least plastic)
 
-![](_Beautiful Noise.jpeg)
+![](/_Resources/_Beautiful%20Noise.jpeg)
 
 **Beautiful Noise**. A simple title to a record label compilation, but a more accurate descriptor could not have been employed. *Beautiful Noise* from Sunday Records is just that, slices of mostly synthetic instrumental dream pop that are as ethereal and gorgeous as any your imagination could conjure. Almost every song is uniquely transportational, taking the listener to a different liminal space, but the pervading aesthetic fuses the parts together as a magnificent whole. By the time the drums pads hit on the second track, “Million Years” by Mariana In Our Heads, you will likely be someplace else entirely.
 
