@@ -1,0 +1,42 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{> title}}</title>
+    <meta name="description" content="{{> description}}">
+    
+    <!-- Begin proprietary meta tags for sharing on social media -->
+    <meta property="og:title" content="{{> title}}">
+    <meta property="og:description" content="{{> description}}">
+    <meta property="og:type" content="website">
+    {{#entry}}
+    {{#thumbnail.large}}
+    <meta property="og:image" content="{{{url}}}">
+    <meta name="twitter:card" content="summary_large_image">
+    {{/thumbnail.large}}
+    <meta property="og:url" content="{{{absoluteURL}}}">
+    {{/entry}}
+    <!-- End proprietary meta tags for sharing on social media -->
+
+    <link rel="alternate" type="application/rss+xml" title="{{title}}" href="{{{blogURL}}}{{{feedURL}}}">
+    {{#avatar}}<link rel="icon" href="{{{avatar}}}" type="image/x-icon">{{/avatar}}
+    <link rel="stylesheet" href="{{{cssURL}}}">
+    
+   <!-- Webmentions -->
+    <link rel="me" href="http://github.com/frostedechoes" />
+    <link rel="me" href="mailto:robert@frostedechoes.net" />
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
+    
+    <link rel="webmention" href="https://webmention.io/frostedechoes.net/webmention" />
+<link rel="pingback" href="https://webmention.io/frostedechoes.net/xmlrpc" />
+    
+  <!-- Bigfoot
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" ></script>
+	<script type="text/javascript" src="/bigfoot.js"></script>
+	<link rel="stylesheet" type="text/css" href="/bigfoot.css">
+	<script type="text/javascript">
+  		$.bigfoot();
+	</script>
+    -->
+</head>
