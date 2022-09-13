@@ -1,6 +1,7 @@
 ---
 Title: Culture Wars Come To Middle Earth
 Date: 9/11/2022
+Tags: culture 
 Draft: no
 ---
 
