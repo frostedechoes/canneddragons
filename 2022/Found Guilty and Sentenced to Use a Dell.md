@@ -24,8 +24,6 @@ After a lot of research, I ended up choosing a mid-range Dell.[^1] I had high ho
 
 ![](/_Resources/scrambled%20screen.png)
 
-![](/_Resources/scrambled%20screen%202.png)
-
 In summary, I hate this monitor and the horse it rode in on. Perhaps it's a good monitor to use with a PC, but it's terrible with a Mac. I wouldn't wish in on my worst enemy. It's really a shame that the PC and monitor manufacturers have such lower quality standards than Apple. No matter how many issues I have with Apple, their hardware and software combination blows away their competitors. It's not even close.  
 
 _Dude, I hope you're not getting a Dell. _
