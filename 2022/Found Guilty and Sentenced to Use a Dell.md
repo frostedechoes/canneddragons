@@ -1,6 +1,6 @@
 ---
 Title: Found Guilty and Sentenced to Use a Dell Monitor
-Date: 2022-09-14 19:00
+Date: 2022-09-14 18:30
 Tags: tech
 Draft: no
 ---
