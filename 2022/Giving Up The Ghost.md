@@ -4,6 +4,7 @@ Date: 09/10/2022 18:00
 Tags: Tech
 Summary: The Ghost blogging platform is impressive, but it just isn't right for me.
 Draft: no
+Link: /giving_up_the_ghost
 ---
 
 # Giving Up The Ghost
