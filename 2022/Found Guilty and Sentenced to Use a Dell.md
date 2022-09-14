@@ -5,7 +5,7 @@ Tags: tech
 Draft: no
 ---
 
-# Found Guilty and Sentenced to Use a Dell Monitor
+# Found Guilty And Sentenced To Use A Dell Monitor
 
 Recently, I had to give up one of my favorite pieces of electronics — my M1 iMac. The process wasn't easy. It was love at first sight when I saw the new, colorful M1 iterations of the iconic Mac desktop. The aluminum and glass combination was sturdy, aesthetically pleasing, and the choice of colors made the machines feel personal. I was grateful to be able to afford a refurbished version. My previous iMac, which I had to give to my son for remote schooling, is over 10 years old (yes, he's still using it and perfectly happy). I bought the blue iMac the funds I acquired selling my Star Wars pinball machine. 
 
