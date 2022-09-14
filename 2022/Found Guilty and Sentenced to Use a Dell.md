@@ -1,5 +1,5 @@
 ---
-Title: Found Guilt and Sentenced to Use a Dell Monitor
+Title: Found Guilty and Sentenced to Use a Dell Monitor
 Date: 2022-09-14 19:00
 Tags: tech
 Draft: no
