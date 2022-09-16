@@ -2,7 +2,7 @@
 Draft: no
 ---
 
-# Freestyling Fever
+# Freestyle Fever
 
 A [fellow microblogger][1] has been posting videos of himself freestyle skateboarding and it has reminded me of how artistic the form can be. One of my favorite freestylers is the Rodney Mullen-influenced Japanese skater [Isamu Yamamoto][3]. Yamamoto is sponsored by Powell Peralta (yep, *that* [Powell Peralta][2]). Looking for his videos on the Powell site led me to another amazing freestyler, Killian Martin. 
 
