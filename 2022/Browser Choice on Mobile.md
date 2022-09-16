@@ -1,6 +1,8 @@
 ---
+Title: Browser Choice on Mobile
 Date: 2022-07-19
 Tags: tech
+Summary: iOS users would benefit from true alternatives to Safari on the platform.
 ---
 
 Steve Best writes about the problems with only having one choice of browser rendering engine on iOS. Despite the fact that there are plenty of browsers competing on the platform, they all use Safari’s WebKit renderer. Which essentially means they are all Safari with different chrome and options. It also means, as Best points out in his post, that any WebKit security vulnerability affects all the browsers on iOS.
@@ -9,4 +11,4 @@ Steve Best writes about the problems with only having one choice of browser rend
 
 I’ve always envied Android users having the option to truly have alternative browsers on the platform.
 
-→ [Browser Choice on iOS | Steve Best])https://steve-best.github.io/browser-choice-ios)
+→ [Browser Choice on iOS | Steve Best](https://steve-best.github.io/browser-choice-ios)
