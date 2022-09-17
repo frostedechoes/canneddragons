@@ -1,5 +1,5 @@
 ---
-title: Caturday Skate
+URL: /caturday-skate
 Tags: skateboarding
 ---
 
