@@ -1,3 +1,9 @@
+---
+Link: /minimal-mac
+Date: 08/25/2022
+Tags: tech
+---
+
 # Minimal Mac
 
 https://images.unsplash.com/photo-1622437553759-451cc114babb?ixlib=rb-1.2.1&dl=n-tho-duc-e4VMuIINdPs-unsplash.jpg
