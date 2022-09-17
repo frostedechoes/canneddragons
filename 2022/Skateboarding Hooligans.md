@@ -1,5 +1,6 @@
 ---
 Summary: Skateboarders don't always fit the stereotypes you see in the media.
+Tags: skateboarding
 ---
 
 # Skateboard Hooligans
