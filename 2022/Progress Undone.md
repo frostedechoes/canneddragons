@@ -1,6 +1,6 @@
 ---
 Summary: We can still fight racism and acknowledge gains along the way. 
-Date: 09/18/2022 19:00
+Date: 09/18/2022 18:00
 Thumbnail: /_Resources/nord echo twitter size@2x.png
 Tags: culture
 ---
