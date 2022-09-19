@@ -1,6 +1,7 @@
 ---
 Draft: no
 Date: 2022-09-16 19:30
+Tags: skateboarding
 Url: freestyle-fever
 Summary: Freestyle skateboarding hasn't gone out of style. 
 Thumbnail: /_Resources/KillianMartin.png

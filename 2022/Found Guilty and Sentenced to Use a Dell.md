@@ -11,7 +11,7 @@ Recently, I had to give up one of my favorite pieces of electronics — my M1 iM
 
 {{more}}
 
-Unfortunately, not long after getting my new machine, I realized that it was going to be a problem working from home with it. It couldn't be used for work, since I had to use my company-provided MacBook Pro. I had to get a monitor that would work with both a personal machine and a work machine. I set out to find a screen (and a new computer) that would fit with my work-from-home needs. It was almost a foregone conclusion that I would get a Mac mini (I'm not switching to Windows for many reasons). However, the monitor was something I was not sure about. The Apple-made Studio monitor starts at $1500, so that was out of the question. 
+Unfortunately, not long after getting my new machine, I realized that it was going to be a problem working from home with it. It couldn't be used for work, since I had to use my company-provided MacBook Pro. I had to get a monitor that would work with both a personal machine and a work machine. I set out to find a screen (and a new computer) that would fit my work-from-home needs. It was almost a foregone conclusion that I would get a Mac mini (I'm not switching to Windows for many reasons). However, the monitor was something I was not sure about. The Apple-made Studio monitor starts at $1500, so that was out of the question. 
 
 After a lot of research, I ended up choosing a mid-range Dell.[^1] I had high hopes for the device. It had USB-C, HDMI and display port inputs, so it would allow me to switch between my work and personal machines. It had a good resolution that was reviewed as crisp and vivid. Unfortunately, the monitor has been a disappointment in _many_ ways. 
 
