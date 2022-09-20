@@ -7,7 +7,9 @@ Draft: yes
 
 # Social Networks For Children
 
-My son recently asked his mom and I if he could setup an Instagram account. Nevermind that I just paid for a blog that he could use and he hasn't touched it. I have to say, as someone who hasn't posted much on Instagram in the past year and who barely ever gives the site any attention, I'm not inclined to grant his request. 
+My son recently asked his mom and me if he could setup an Instagram account. Nevermind that I just paid for a blog that he could use and he hasn't touched it. I have to say, as someone who hasn't posted much on Instagram in the past year and who barely ever gives the site any attention, I'm not inclined to grant his request. 
+
+{{more}}
 
 I'm frequently beset by the idea that the worst thing a parent can do for a child is to be passive in the face of things that just seem like, well, bad ideas. Will it cause my son major harm to join Instagram? Maybe not. Will it benefit him in any meaningful way? Again, the answer is most likely no. Ezra Klein writes for the NYT about how the medium really does matter when posting things online. 
 
