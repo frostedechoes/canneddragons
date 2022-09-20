@@ -1,10 +1,9 @@
 ---
-Date: 09/19/2022
+Date: 09/20/2022 19:00
 Tags: tech 
 Thumbnail: /_Resources/nord echo twitter size@2x.png
 Draft: yes
 ---
-
 
 # Social Networks For Children
 
