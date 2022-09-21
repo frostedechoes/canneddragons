@@ -1,7 +1,7 @@
 ---
 Date: 9/23/2022 19:00
 Tags: friday night video, noise
-Thumbnail: _Resources/Ladytron.png
+Thumbnail: /_Resources/Ladytron.png
 ---
 
 # True Mathematics
