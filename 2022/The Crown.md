@@ -1,10 +1,11 @@
 ---
 Date: 09/20/2022 19:00
-Thumbnail: /_Resources/Crown.JPG
 Draft: no
 ---
 
 # The Crown
+
+![](../_Resources/Crown.JPG)
 
 I completely understand why my wife and others have no use for the British monarchy. For one thing, my wife is Irish, so amicable feelings for the royals in England does not come naturally. For another, obviously the concept of monarchy and someone who lives in luxury to be a sort of figurehead flies in the face of our shared sensibilities about good stewardship and distributing wealth equitably. 
 
