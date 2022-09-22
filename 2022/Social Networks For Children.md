@@ -11,7 +11,9 @@ My son recently asked his mom and me if he could setup an Instagram account. Nev
 
 {{more}}
 
-I'm frequently beset by the idea that the worst thing a parent can do for a child is to be passive in the face of things that just seem like, well, bad ideas. Will it cause my son major harm to join Instagram? Maybe not. Will it benefit him in any meaningful way? Again, the answer is most likely no. Ezra Klein writes for the NYT about how the medium really does matter when posting things online. 
+I'm frequently beset by the idea that the worst thing a parent can do for a child is to be passive in the face of things that just seem like, well, bad ideas. Will it cause my son major harm to join Instagram? Maybe not. Will it benefit him in any meaningful way? Again, the answer is most likely no. 
+
+Ezra Klein writes for the NYT about how the medium really does matter when posting things online. 
 
 > I think that’s true, but it coexists with an opposite truth: Americans are capitalists, and we believe nothing if not that if a choice is freely made, that grants it a presumption against critique. That is one reason it’s so hard to talk about how we are changed by the mediums we use. That conversation, on some level, demands value judgments. This was on my mind recently, when I heard Jonathan Haidt, a social psychologist who’s been collecting data on how social media harms teenagers, say, bluntly, “People talk about how to tweak it — oh, let’s hide the like counters. Well, Instagram tried — but let me say this very clearly: There is no way, no tweak, no architectural change that will make it OK for teenage girls to post photos of themselves, while they’re going through puberty, for strangers or others to rate publicly.”
 
