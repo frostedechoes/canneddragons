@@ -1,6 +1,7 @@
 ---
 Date: 09/24/2022 19:00
 Tags: faith
+Draft: yes
 ---
 
 # The Graying Of The Fun Crowd
