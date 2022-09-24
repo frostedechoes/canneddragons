@@ -1,6 +1,7 @@
 ---
-Date: 09/20/2022 19:00
-Draft: no
+Date: 09/21/2022
+Thumbnail: /_Resources/Crown.JPG
+Draft: yes
 ---
 
 # The Crown
