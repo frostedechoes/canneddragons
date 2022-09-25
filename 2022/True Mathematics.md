@@ -7,7 +7,7 @@ URL: true-mathematics
 
 # True Mathematics
 
-Frank Yang commemorates the 20th anniversary of Ladytron's *Light & Magic* LP [in a post on Space Echo](https://spaceecho.chromewaves.net/2022/09/19/20-years-of-ladytrons-light-magic/). Completely unaware of the significance of the date, I was listening to the album the other day. My favorite song remains the track in the pole position, "True Mathematics." I'm excited to see a newly produced video for the song. I'm even happier that the video version of the song is different from the album version and has a bit more punch. The vocals are still in Bulgarian, which gives them a certain edge. 
+Frank Yang commemorates the 20th anniversary of Ladytron's *Light & Magic* LP [in a post](https://spaceecho.chromewaves.net/2022/09/19/20-years-of-ladytrons-light-magic/) on his blog *Space Echo*. Completely unaware of the significance of the date, I was listening to the album the other day. My favorite song remains the track in the pole position, "True Mathematics." I'm excited to see a newly produced video for the song. I'm even happier that the video version of the song is different from the album version and has a bit more punch. The vocals are still in Bulgarian, which gives them a certain edge. 
 
 {{more}}
 
