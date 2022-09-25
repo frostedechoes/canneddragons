@@ -7,7 +7,7 @@ Draft: yes
 
 # Andor Depicts War Amongst The Stars
 
-{>} ![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
+{>}![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
 
 I’ll start by showing my cards here by admitting that I can’t wait to see *Andor*, the latest of the Star Wars shows to premiere on Disney+. The only reason I haven’t already dipped back into the Star Wars universe is that my imagination is currently in Middle Earth, where the harfoots are undertaking a perilous journey and Sauron and his juicy, sunscreen-hoarding orcs are on the move. If I weren’t so deep into the story that *Rings of Power* is weaving, I would have settled down in front of the big screen with the lights off and watched for that familiar Star Wars logo that has brought joy to me since I was a kid. I’ve been waiting for a while for *Andor* to come out and I have greater expectations for this show than any of the previous Star Wars episodic TV shows (although I ended up enjoying them all). 
 
@@ -23,7 +23,7 @@ In a [post for The Verge][1], Charles Pulliam-Moore summarizes *Andor* by way of
 
 > Rogue One, director Gareth Edwards’ harrowing, shell-shocked, but ultimately optimistic story about the small group of freedom fighters who won the Rebel Alliance’s first victory against the Galactic Empire, was unlike any other Star Wars story when it debuted in 2016. As part of a franchise that — at the time — felt increasingly incapable of escaping the gravitational pull of its nostalgia-logged core mythology and its players, Rogue One was a sophisticated and hard-edged reminder that there’s always been so much more to Star Wars than the Skywalker saga. Andor, from Rogue One writer-turned-showrunner Tony Gilroy, doesn’t at all stray too far from the tone, scale, or frankness about the human costs of warring with fascists that defined the film it’s building up to.
 
-Since becoming an adult, I've felt like war and violence are often depicted in a very glossy way on screen. Either that or they are gratuitously showcased. Either ware is glamorized or gritty, with reality settling somewhere outside the bounds of the cinematic universe from which the films come. *Rogue One* changed the way a Star Wars property treated war, with its painful casualties and disappointing losses. It felt like the first Star Wars film for adults.[^fn1] In a time when many "fans" accuse the changes in the Star Wars universe of retroactively ruining their childhoods, a series that's unashamedly aimed at adults seems almost necessary.
+Since becoming an adult, I've felt like war and violence are often depicted in a very glossy way on screen. Either that or they are gratuitously showcased. So war is glamorized or gritty, with reality settling somewhere outside the bounds of the cinematic universe from which the films come. *Rogue One* changed the way a Star Wars property treated war, with its painful casualties and disappointing losses. It felt like the first Star Wars film for adults.[^fn1] In a time when many "fans" accuse the changes in the Star Wars universe of retroactively ruining their childhoods, a series that's unashamedly aimed at adults seems almost necessary.
 
 [1]: https:/www.theverge.com/2022/9/20/23353104/andor-star-wars-review-disney-plus
 
