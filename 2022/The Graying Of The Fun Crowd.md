@@ -1,12 +1,12 @@
 ---
 Date: 09/24/2022 19:00
 Tags: faith
-Draft: yes
+Draft: no
 ---
 
 # The Graying Of The Fun Crowd
 
-An [opinionated tweet](https://twitter.com/gshanemorris/status/1562108779818254340?s=21&t=x_GySLGc_jBZ1P-TZSqILA) recently provoked a strong reaction. That happens many times a day and is hardly news. This Twitter firestorm caught my attention, though, because it shows how people today are coming from profoundly different views of life.
+An [opinionated tweet](https://twitter.com/gshanemorris/status/1562108779818254340?s=21&t=x_GySLGc_jBZ1P-TZSqILA) recently provoked a strong reaction. That happens many times a day and is hardly news. This Twitter firestorm caught my eye, though, because it shows how people today are coming from profoundly different views of life.
 
 {{more}}
 
@@ -14,7 +14,9 @@ The tweet was first brought to my attention by [a post by Jake Meador](https://m
 
 https://twitter.com/gshanemorris/status/1562108779818254340?s=21&t=yZdGUuTVEE2aS5VLwQoxvg
 
-Meador explains the confusion.
+Many people responded by defending their late-stage sexiness. Still others attacked Morris under the assumption that he wanted to have kids to keep himself from being lonely in middle age. Though nuance is not something best done on Twitter, Morris would admit not everyone is cut out to have kids. When a large plurality of people don't understand the generative instinct, though, it may signal a problem. 
+
+Meador explains some of the confusion.
 
 > What was striking about the backlash to Morris’s comments was how critics read into his remarks. Virtually all of his many, many critics read him as suggesting that children are essentially a consumable good we create to console ourselves and deal with our own loneliness and unhappiness as we reach middle age.
 
