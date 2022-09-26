@@ -2,7 +2,7 @@
 Title: Andor Depicts War Amongst The Stars
 Date: Sep 25, 2022, at 5:55 PM
 Tags: culture
-Draft: yes
+Draft: no
 ---
 
 # Andor Depicts War Amongst The Stars
