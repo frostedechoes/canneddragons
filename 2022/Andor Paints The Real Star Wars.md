@@ -7,7 +7,7 @@ Draft: no
 
 # Andor Depicts War Amongst The Stars
 
-{>} ![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
+{|>} ![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
 
 I’ll start by showing my cards here by admitting that I can’t wait to see *Andor*, the latest of the Star Wars shows to premiere on Disney+. The only reason I haven’t already dipped back into the *Star Wars* universe is that my imagination is currently in Middle Earth, where the harfoots are undertaking a perilous journey and Sauron and his juicy, sunscreen-hoarding orcs are on the move. If I weren’t so deep into the story that *Rings of Power* is weaving, I would have settled down in front of the big screen with the lights off and watched for that familiar *Star Wars* logo that has brought joy to me since I was a kid. I’ve been waiting for a while for *Andor* to come out and I have greater expectations for this show than any of the previous *Star Wars* episodic TV shows (although I ended up enjoying them all). 
 
