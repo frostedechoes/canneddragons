@@ -7,7 +7,7 @@ Draft: no
 
 # Andor Depicts War Amongst The Stars
 
-c ![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
+{>} ![Andor is out now on Disney+](/_Resources/andor%20art.jpeg)
 
 I’ll start by showing my cards here by admitting that I can’t wait to see *Andor*, the latest of the Star Wars shows to premiere on Disney+. The only reason I haven’t already dipped back into the *Star Wars* universe is that my imagination is currently in Middle Earth, where the harfoots are undertaking a perilous journey and Sauron and his juicy, sunscreen-hoarding orcs are on the move. If I weren’t so deep into the story that *Rings of Power* is weaving, I would have settled down in front of the big screen with the lights off and watched for that familiar *Star Wars* logo that has brought joy to me since I was a kid. I’ve been waiting for a while for *Andor* to come out and I have greater expectations for this show than any of the previous *Star Wars* episodic TV shows (although I ended up enjoying them all). 
 
@@ -17,7 +17,7 @@ The main reason that I’ve got such high hopes for *Andor* is that I loved the 
 
 For me, modern *Star Wars* movies peaked with *Rogue One*. Not longer after it debuted, we’ve now come to expect more television-style shows from the franchise than actual films. Moviegoing and television watching are completely different experiences. I remember vividly going to view the newer movies at *Cinebistro*, one of those theaters where you are served dinner before reclining in a luxurious oversized chair to watch the film you came to see. We would go as a development team from work and take up a few rows of the theater. I would always get the richest chocolate lava cake you can ever conceive of and deal with the stomach ache to go with it later. I loved seeing the movies as a group and then gathering around in the lobby later to discuss the merits of the films. We introduced more than one *Star Wars* newbie to the franchise that way, giving them homework of seeing the original trilogy. 
 
-{>} > In a time when many "fans" accuse the changes in the Star Wars universe of retroactively ruining their childhoods, a series that's unashamedly aimed at adults seems almost necessary.
+{>} In a time when many "fans" accuse the changes in the Star Wars universe of retroactively ruining their childhoods, a series that's unashamedly aimed at adults seems almost necessary.
 
 *Rogue One*, a story of how the resistance against the Galactic Empire won its first victory, hit at a time when resistance seemed like a real thing that was brewing. Donald Trump had just been elected president, and already there were concerns about his ties with Russia and potential criminality. As I drove home from the theater, I heard then president Obama speaking about the allegations. “Resist” became a slogan, and the sci-fi story of the resistance that became a rebellion seemed timely and frankly, somewhat inspirational. Opposing a tyrannical government no longer seemed so abstract to those in America.
 
