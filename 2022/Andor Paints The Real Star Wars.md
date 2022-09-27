@@ -1,3 +1,7 @@
+---
+Tags: culture
+---
+
 # Andor Depicts War Amongst The Stars
 
 {|<} ![Andor is out now on Disney+](../_Resources/andor art.jpeg)
