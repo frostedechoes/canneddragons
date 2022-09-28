@@ -15,7 +15,7 @@ Seriously, I can think of few things more relaxing than tinkering with my home o
 
 > Some people find this in computer games, some find it in reading, but mine is writing and tinkering with my blog. I can only truly escape from the world for a bit whilst typing away on my keyboard doing my thing, and I only figured this out because I haven’t been doing it so much lately.  
 
-{<} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
+{>} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
 
 I know my wife wonders why I'm tinkering so much when she sees me working on my blog, but I feel justified in the fact that I am actually writing in addition to tinkering. Many people have fun setting up a blog but hardly ever post to it. I’ll admit, though, that designing the look and feel of a fresh weblog is almost half the fun. In fact, I’m revamping my blog with a new coat of paint right now (the accent color is called “Fresh Blue of Bel Air”). Pruning your blog, like gardening, is its own kind of zen. Something like tweaking the decoration on your links can inspire a feeling of craftsmanship. 
 
