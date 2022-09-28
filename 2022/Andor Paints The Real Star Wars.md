@@ -5,7 +5,7 @@ Summary: Andor is the prequel to the most exciting Star Wars movie to come out i
 
 # Andor Depicts War Amongst The Stars
 
-<div class="postsum">{{entry.metadata.summary}}</div>
+<span class="postsum">{{entry.metadata.summary}}</span>
 
 {|<} ![Andor is out now on Disney+](../_Resources/andor art.jpeg)
 
