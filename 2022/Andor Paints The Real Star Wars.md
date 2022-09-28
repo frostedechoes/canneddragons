@@ -1,8 +1,11 @@
 ---
 Tags: culture
+Summary: Andor is the prequel to the most exciting Star Wars movie to come out in the last 30 years.
 ---
 
 # Andor Depicts War Amongst The Stars
+
+<div class="postsum">{{entry.metadata.summary}}</div>
 
 {|<} ![Andor is out now on Disney+](../_Resources/andor art.jpeg)
 
