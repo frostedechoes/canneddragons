@@ -37,9 +37,9 @@ Therapists prescribe journaling to help their clients process their thoughts. Bl
 
 Blogging doesn't necessarily have to be about self-disclosure, though. For example, one of my favorite types of content to publish is link posts. With link posts, you find things that interest you online and attempt to convey that feeling with others. Link posts force you to look outside yourself for material but also help you to focus and make sense of what is being discussed. Then there are blogs that focus on a particular subject. I was just going through the Ghost blog directory the other day and you wouldn't believe how many blogs about tech there are (or maybe you would). Your blog is yours, and you should feel free to publish the kind of posts that suite you.  
 
-# The Mission Continues
+## The Mission Continues
 
-I'm currently trying to get my 16-year-old son to take up blogging. He showed some interest, but hasn't yet made his first post. He keeps mumbling something about being busy. If you can fit a hobby like blogging into your schedule, though, it's usually time well spent. 
+I'm currently trying to get my 16-year-old son to take up blogging. He showed some interest, but hasn't yet made his first post. He keeps mumbling something about being busy. As a junior in high school in an accelerated IT program, he does have a lot to keep up with. I really think the practice would benefit him, though. If you can fit a hobby like blogging into your schedule, it's usually time well spent. 
 
 
 [1]: https://www.gr36.com/2022/09/27/my-blog-my.html
