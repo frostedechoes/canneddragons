@@ -1,11 +1,14 @@
 ---
 Date: 9/28/2022 19:00
+Author: Robert Rackley
 Tags: tech
 Summary: Blogging can be a way to escape the everyday while still keeping your head out of the clouds. 
 draft: yes
 ---
 
 # Blogging As Self-Care
+
+{{entry.metadata.summary}}
 
 I've been on a sort of crusade to get more people to blog lately.  If I come across someone who is interesting and has something to say, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging *is* my self-care time.
 
@@ -21,7 +24,11 @@ I know my wife wonders why I'm tinkering so much when she sees me working on my 
 
 Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be pretty satisfying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out a quick statement simply to release them can pick up serious traction. It keeps things interesting when you don’t know what will resonate. The feelings that engenders are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
 
+Blogging doesn’t shut the world out, though. It brings the world into your frame of reference. In that respect, it’s like journaling. If you do an internet search for “keeping a journal mental health” you’ll come up with no shortage of articles extolling the benefits of journaling to improve your mindset. The following passage is from [an article on WebMD](https://www.webmd.com/mental-health/mental-health-benefits-of-journaling).
 
+> Journaling about your feelings is linked to decreased mental distress. In a study, researchers found that those with various medical conditions and anxiety who wrote online for 15 minutes three days a week over a 12-week period had increased feelings of well-being and fewer depressive symptoms after one month. Their mental well-being continued to improve during the 12 weeks of journaling.
+
+Therapists prescribe journaling to help their clients filter their thoughts. Blogging can be a similar exercise. One of my favorite types of content to publish is link posts. Link posts force you to look outside yourself for material but also help you to focus and make sense of what is being discussed.  
 
 
 
