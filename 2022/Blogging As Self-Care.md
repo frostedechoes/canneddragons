@@ -3,7 +3,7 @@ Date: 9/28/2022 21:00
 Author: Robert Rackley
 Tags: tech
 Summary: Blogging can be a way to escape the everyday while still keeping your head out of the clouds. 
-draft: yes
+draft: no
 ---
 
 # Blogging As Self-Care
@@ -25,7 +25,7 @@ I know my wife wonders why I'm tinkering so much when she sees me working on my 
 <!-- Pull Quote -->
 {|<} > As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on barely seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate.
 
-Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that engenders are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
+Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that brings up are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
 
 ## Can Blogging = Journaling In Public?
 
