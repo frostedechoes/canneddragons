@@ -1,5 +1,5 @@
 ---
-Date: 9/28/2022 19:00
+Date: 9/28/2022 21:00
 Author: Robert Rackley
 Tags: tech
 Summary: Blogging can be a way to escape the everyday while still keeping your head out of the clouds. 
@@ -12,7 +12,7 @@ draft: yes
 
 {|<} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
 
-I've been on a sort of crusade to get more people to blog recently. If I come across someone who is interesting and has something worthwhile to share, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging *is* my self-care time.
+I've been on a sort of crusade to get more people to blog recently. If I come across someone who is interesting and has something worthwhile to share, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates about the conflict to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging *is* my self-care time.
 
 {{more}}
 
@@ -24,19 +24,21 @@ I know my wife wonders why I'm tinkering so much when she sees me working on my 
 
 {|<} > As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate.
 
-Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be pretty satisfying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that engenders are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
+Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that engenders are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
 
-## Does Blogging = Journaling In Public?
+## Can Blogging = Journaling In Public?
 
 Blogging doesn’t shut the world out, though. It can bring the world into your frame of reference. In that respect, it’s like journaling. If you do an internet search for “keeping a journal mental health” you’ll come up with no shortage of articles extolling the benefits of journaling to improve your mindset. The following passage is from [an article on WebMD][2].
 
 > Journaling about your feelings is linked to decreased mental distress. In a study, researchers found that those with various medical conditions and anxiety who wrote online for 15 minutes three days a week over a 12-week period had increased feelings of well-being and fewer depressive symptoms after one month. Their mental well-being continued to improve during the 12 weeks of journaling.
 
-Therapists prescribe journaling to help their clients filter their thoughts. Blogging can be a similar exercise. For example, one of my favorite types of content to publish is link posts. With link posts, you find things that excite you online and attempt to convey that feeling with others. Link posts force you to look outside yourself for material but also help you to focus and make sense of what is being discussed. 
+Therapists prescribe journaling to help their clients process their thoughts. Blogging can be a similar exercise. There are also people who blog as they would journal and the only difference is that the journal is for the public to view. Jack Baty, for example, does this quite a bit on [his blog][3]. Matt Mullenweg, CEO of Automattic, which makes Wordpress, the internet’s most popular blogging software, [describes journaling in the app][4] *Day One* as keeping a “local blog.” 
 
-There are also people who blog as they would journal and the only difference is that the journal is for the public to view. Jack Baty, for example, does this quite a bit on [his blog][3]. 
-Matt Mullenweg, CEO of Automattic, which makes Wordpress, the internet’s most popular blogging software, [describes journaling in the app][4] *Day One* as keeping a “local blog.” 
+Blogging doesn't necessarily have to be about self-disclosure, though. For example, one of my favorite types of content to publish is link posts. With link posts, you find things that interest you online and attempt to convey that feeling with others. Link posts force you to look outside yourself for material but also help you to focus and make sense of what is being discussed. Then there are blogs that focus on a particular subject. I was just going through the Ghost blog directory the other day and you wouldn't believe how many blogs about tech there are (or maybe you would). Your blog is yours, and you should feel free to publish the kind of posts that suite you.  
 
+# The Mission Continues
+
+I'm currently trying to get my 16-year-old son to take up blogging. He showed some interest, but hasn't yet made his first post. He keeps mumbling something about being busy. If you can fit a hobby like blogging into your schedule, though, it's usually time well spent. 
 
 
 [1]: https://www.gr36.com/2022/09/27/my-blog-my.html
