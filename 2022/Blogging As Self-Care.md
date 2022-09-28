@@ -8,7 +8,7 @@ draft: yes
 
 # Blogging As Self-Care
 
-<div class="postsum">{{entry.metadata.summary}}</div>
+<span class="postsum">{{entry.metadata.summary}}</span>
 
 {|<} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
 
