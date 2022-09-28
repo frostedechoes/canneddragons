@@ -1,10 +1,14 @@
 ---
 title: Inside the Gallery
 date: 2021-01-10 21:49:36 +0000
+tags: tech
 link: /2021/01/10/inside-the-gallery.html
+summary: Social media companies are hosting something similar to privately owned but publicly available art galleries. They can refuse to host certain content.
 ---
+
 # Inside the Gallery
 
+<div class="postsum">{{entry.metadata.summary}}</div>
 
 <img src="http://frostedechoes.com/uploads/2021/89ef633e03.jpg" alt="Photo by Ruben Ramirez from Unsplash" />
 
