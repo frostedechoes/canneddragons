@@ -10,7 +10,7 @@ draft: no
 
 <span class="postsum">{{entry.metadata.summary}}</span>
 
-{|<} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
+{|<} ![Micro.blog: A great place to share your blog posts.][image-1]
 
 I've been on a sort of crusade to get more people to blog recently. If I come across a person who is interesting and has something worthwhile to share, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates about the conflict to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging *is* my self-care time.
 
@@ -19,13 +19,13 @@ I've been on a sort of crusade to get more people to blog recently. If I come ac
 Seriously, I can think of few things more relaxing than tinkering with my home on the web. I'm not alone. Greg Morris writes about feeling the same way in [My Blog, My Escape][1].  He finds the way for him to "switch off" is through blogging. 
 
 > Some people find this in computer games, some find it in reading, but mine is writing and tinkering with my blog. I can only truly escape from the world for a bit whilst typing away on my keyboard doing my thing, and I only figured this out because I haven’t been doing it so much lately.  
-
+> 
 I know my wife wonders why I'm tinkering so much when she sees me working on my blog, but I feel justified in the fact that I am actually writing in addition to tinkering. Many people have fun setting up a blog but hardly ever post to it. I’ll admit, though, that designing the look and feel of a fresh weblog is almost half the fun. In fact, I’m revamping my blog with a new coat of paint right now (the accent color is called “Fresh Blue of Bel Air”). Pruning your blog, like gardening, is its own kind of zen. Something like tweaking the decoration of your links can inspire a feeling of craftsmanship. 
 
 <!-- Pull Quote -->
 {|<} > As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on barely seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate.
 
-Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that brings up are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
+Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that brings up are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^1]
 
 
 
@@ -44,9 +44,11 @@ However, blogging doesn't necessarily have to be about self-disclosure. For exam
 I'm currently trying to get my 16-year-old son to take up blogging. He showed some interest, but hasn't yet made his first post. He keeps mumbling something about being busy. As a junior in high school in an accelerated IT program, he does have a lot to keep up with. I really think the practice would benefit him, though. If you can fit a hobby like blogging into your schedule, it's usually time well spent. 
 
 
-[1]: https://www.gr36.com/2022/09/27/my-blog-my.html
-[2]: https://www.webmd.com/mental-health/mental-health-benefits-of-journaling
-[3]: https://baty.net
-[4]: https://ma.tt/2021/06/day-one-at-automattic/
+[^1]:	Picture a rat pushing its feeder bar when it doesn’t know whether food will come out or a gambler shoving coins into a slot machine hoping for a chance to hit pay dirt.
 
-[^fn1]: Picture a rat pushing its feeder bar when it doesn’t know whether food will come out or a gambler shoving coins into a slot machine hoping for a chance to hit pay dirt.
+[1]:	https://www.gr36.com/2022/09/27/my-blog-my.html
+[2]:	https://www.webmd.com/mental-health/mental-health-benefits-of-journaling
+[3]:	https://baty.net
+[4]:	https://ma.tt/2021/06/day-one-at-automattic/
+
+[image-1]:	/_Resources/microblog.png
