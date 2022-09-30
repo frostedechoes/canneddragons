@@ -27,6 +27,8 @@ I know my wife wonders why I'm tinkering so much when she sees me working on my 
 
 Sharing your blog with others, whether it’s through a dedicated blogging network like Micro.blog or a dominant social platform like Twitter, is a method of expression that can be gratifying. You never know what is going to land with people. As I’ve read many times, and also experienced, sometimes the posts you worked the hardest on hardly seem to get any notice, while the thoughts that clutter your brain until you bang out quick statements simply to release them can pick up serious traction. It keeps things interesting when you have no idea what will resonate. The feelings that brings up are probably based on the fact that humans respond to variable reward structures by continuing or even intensifying the behavior that brings the rewards.[^fn1]
 
+
+
 ## Can Blogging = Journaling In Public?
 
 Blogging doesn’t have to completely shut the world out, though. It can bring the world into your frame of reference. In that respect, it’s like journaling. If you do an internet search for “keeping a journal mental health” you’ll come up with no shortage of articles extolling the benefits of journaling to improve your mindset. The following passage is from [an article on WebMD][2].
