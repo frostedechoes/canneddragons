@@ -2,7 +2,7 @@
 Date: September 30, 2022 19:00
 Tags: friday night video, noise
 Thumbnail: /_Resources/BillieToppy.jpg
-Link: fnv-billie-toppy
+Link: video-billie-toppy
 ---
 
 # Billie Toppy
