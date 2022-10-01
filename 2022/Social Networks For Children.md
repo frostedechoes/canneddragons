@@ -1,8 +1,8 @@
 ---
 Title: Social Networks For Children  
-Date: 10/1/2022 19:00   
+Date: 10/1/2022 12:00   
 Tags: tech  
-Draft: yes  
+Draft: no
 ---
 
 # Social Networks For Children
@@ -21,7 +21,7 @@ My feelings were further underscored after reading [this post](https://www.bbc.c
 
 > His narrative conclusion continued: "Molly subscribed to a number of online sites. She had access to images, video clips and text concerned with self-harm and suicide, or that were otherwise negative or depressing in nature."
 
-As has been experienced by others, this is the case of someone who had negative emotions and they were exacerbated by an online "community." I'm not sure how many times we'll have to read about a racist who was inspired by content on some obscure internet enclave shooting up a grocery store or a teen who commits suicide because of cyber-bullying before we start putting real measures in place to prevent these things. 
+As has been experienced by others, this is the case of someone who had negative emotions and they were exacerbated by an online "community." I'm not sure how many times we'll have to read about a racist who was inspired by content on some obscure internet enclave shooting up a grocery store or a teen who commits suicide because of cyberbullying before we start putting real measures in place to prevent these things. 
 
 ---- 
 
