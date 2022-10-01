@@ -7,7 +7,7 @@ Draft: no
 
 # Social Networks For Children
 
-My son recently asked his mom and I if he could setup an Instagram account. Nevermind that I just paid for a blog that he could use and he hasn't touched it. I have to say, as someone who hasn't posted much on Instagram in the past year and who barely ever gives the site any attention, I'm not inclined to grant his request. 
+My son recently asked his mom and me if he could setup an Instagram account. Nevermind that I just paid for a blog that he could use and he hasn't touched it. I have to say, as someone who hasn't posted much on Instagram in the past year and who barely ever gives the site any attention, I'm not inclined to grant his request. 
 
 {{more}}
 
