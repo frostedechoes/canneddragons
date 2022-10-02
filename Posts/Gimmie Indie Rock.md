@@ -2,15 +2,14 @@
 Title: Gimmie Indie Rock
 Date: 09/28/2021 19:00
 Tags: noise
+Summary: 1995 was a good year for independent music. The indie rock scene was maturing and new artists were building on what their predecessors had created.
 ---
 
 # Gimmie Indie Rock
 
-### 1995 was a good year for independent music. The indie rock scene was maturing and new artists were building on what their predecessors had created.
+<span class="postsum">{{entry.metadata.summary}}</span>
 
-![Sebadoh - Gimmie Indie Rock](_Indie-rock.jpeg)
-
-###### Image source: author
+![Sebadoh - Gimmie Indie Rock (Image source: Author)](_Indie-rock.jpeg)
 
 Garrett Martin [writes for Paste Magazine][1] about the seminal year for indie rock that was 1995 and the top 20 albums in the loosely knit genre from that year.
 {{more}}
