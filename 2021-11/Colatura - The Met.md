@@ -2,10 +2,11 @@
 Title: Colatura "The Met"
 Tags: friday night video, noise
 Date: 11/05/2021 19:00
+Thumbnail: _Collatura-TheMet.jpg
 Draft: no
 ---
 
-{|<} ![](_Collatura-TheMet.jpg)
+
 
 # Colatura “The Met”
 
