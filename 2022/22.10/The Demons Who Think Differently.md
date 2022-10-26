@@ -3,11 +3,11 @@ Tags: politics, draft
 Draft: yes
 ---
 
-# The Demons Who Think Differently
+# The Demon Of Intellectual Diversity
 
 ![A demon in school](_schooldemon.png)
 
-I was planning on reading the two books by author Phil Christman, but he really lost my interest after [his latest Substack rant](https://philipchristman.substack.com/p/a-cul-de-sac). I'm not sure what it's going to take to make people like Christman, who consider themselves progressive, realize that some parents don't want their children learning sexual morality in school. Christman and others can hurl all of the insults they can think of, accuse these people of being pathological, having maggots for brains or being demons or whatever, but it's probably not going to win anyone over or solve anything. 
+I was planning on reading the two books by author Phil Christman, but he lost my interest after [his latest Substack rant](https://philipchristman.substack.com/p/a-cul-de-sac). I'm not sure what it's going to take to make people like Christman, who consider themselves progressive, realize that some parents don't want their children to learn sexual morality in school. Christman and others can hurl all of the insults they can think of, accuse these people of being pathological, having maggots for brains or being demons or whatever, but it's probably not going to win anyone over or solve anything. 
 
 {{more}}
 
