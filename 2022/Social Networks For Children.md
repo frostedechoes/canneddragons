@@ -1,11 +1,11 @@
 ---
-Title: Social Networks For Children  
+Title: Social Networks For Kids  
 Date: 10/1/2022 12:00   
 Tags: tech  
 Draft: no
 ---
 
-# Social Networks For Children
+# Social Networks For Kids
 
 My son recently asked his mom and me if he could setup an Instagram account. Nevermind that I just paid for a blog that he could use and he hasn't touched it. I have to say, as someone who hasn't posted much on Instagram in the past year and who barely ever gives the site any attention, I'm not inclined to grant his request. 
 

@@ -5,7 +5,7 @@ Tags: faith
 
 # Institutions Absorb Anxiety
 
-![](../_Resources/_church.jpeg)
+![Church by Robin Spielmann](../_Resources/_church.jpeg)
 
 I'm not sure what to think of [this piece](https://mereorthodoxy.com/panic/) from _Mere Orthodoxy_ on panic over the direction of Western civilization and its implications for Christians. For one thing, it sides mostly with Rod Dreher, someone with whom I am not usually in agreement. Dreher tends toward the Chicken Little end of the Christian spectrum, and his hand wringing often seems counterproductive. Things can surely get more difficult for Christians as societal mores shift, but the sky will not fall as long as God's creation stands, and we are part of that creation. Perhaps, despite the references used, the piece brings up important points about the protective effect of institutions for our emotional well-being. 
 
@@ -25,4 +25,4 @@ Is the rise in mental health problems commensurate with the fall of institutions
 
 I won't go too in depth analyzing the opposite side of the coin — the networks that create or strengthen divisions. I've done a lot of that in the past, and will most likely continue to look at those networks from a technical and sociological perspective. It strikes me as fascinating that we are potentially leaving the institutions that have protective effects against emotional health issues to rot as we pour more of our time and energy into the networks that are detrimental to our mental well-being. 
 
-(📷 Image source: Robin Spielmann on [Unsplash](https://unsplash.com/photos/XuIQmhdGUMY))
+[Image source](https://unsplash.com/photos/XuIQmhdGUMY)

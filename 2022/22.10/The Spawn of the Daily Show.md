@@ -1,0 +1,28 @@
+---
+Tags: politics
+---
+
+# The Spawn of The Daily Show
+
+
+If you are as interested in media trends and their implications as I am, an article in *The New Atlantis* about how Jon Stewart laid the foundations for the type of show we see from Tucker Carlson may be the most fascinating thing you read all year. Its author, Jon Askonas, an assistant professor of politics at the Catholic University of America, makes the case in a provocative and insightful way. He takes aim at polarization in new media and how Stewart unintentionally built-up this polarization. 
+
+{{more}}
+
+> You can flatter your audience over and over every day by showing them proof of how insane the people they despise are becoming. You can tell them what they want to hear about how everyone else is just hearing what they want to hear. You can even build an entire new media business model on this.
+
+Askonas nails how The Daily Show effectively ridiculed other new shows and always portrayed itself as above-the-fray because it was billed as a humor show on a comedy network. The fact that the show was preceded by fare like *Crank Yankers* gave them plenty of license to get away with things that no one else could. Under Stewart, the Daily Show perfected the art of nailing their opponents with a well-guarded secret process of digging up just the right archival footage to humiliate them. Tucker Carlson learned his lesson when Stewart came on Carlson's show *Crossfire* and savaged the hosts. It was after that encounter that he began to hone his craft.
+
+> Carlson hosts hard-hitting interviews, field segments that underline the outrages and absurdities in American life as his audience sees it, and clip compilations that emphasize the show’s underlying themes. He is a master at sifting through masses of information to find the material that shows how hypocritical, foolish, and insane his adversaries are. Just like Stewart, Tucker has the receipts.
+
+{|<} ![Jon Stewart at Bagram Air Field, Afghanistan in 2018](_Stewart.jpg)
+
+Though I'm admittedly not a fan of consensus comedy, I think Stewart is ultimately less culpable for the rise of Carlson than Askonas would have you believe. Stewart legitimately believes in what he broadcasts. The same cannot be said of Carlson, who manipulates the news and his audience for his own popularity. He knows what he is doing. Stewart may have come up with the process, but it's Carlson who truly weaponized it in ways that are dangerous for the republic. 
+
+This is a long piece (40 pages printed), but it's well worth the time it takes to get through it. 
+
+
+
+→ [How Stewart Made Tucker | The New Atlantis](https://www.thenewatlantis.com/publications/how-stewart-made-tucker)
+
+([img src](https://commons.wikimedia.org/wiki/File:180426-D-SW162-2161.jpg))

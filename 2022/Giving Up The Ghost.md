@@ -9,7 +9,10 @@ Link: /giving_up_the_ghost
 
 # Giving Up The Ghost
 
-![](/_Resources/Ghost.png)
+<span class="postsum">{{entry.metadata.summary}}</span>
+
+![Ghost is a powerful blogging and newsletter platform](/_Resources/Ghost.png)
+
 
 I have been trying out the blogging platform [Ghost](https://ghost.org) on and off for a couple of years now. It's a powerful tool and one that many people make good use of. 
 
@@ -28,6 +31,8 @@ Ghost offers:
 - Ability to limit posts to site subscribers. 
 
 Those are just a few of the features of Ghost that stood out to me. It really is a pleasure to use such a thoughtful and well-polished blogging tool. 
+
+{|<} > As I mentioned in the list of offerings from Ghost, you can use their hosting service or self-host. I've tried them both and neither option is a bad way to go. Customer support is excellent, even on the lowest Ghost Pro level, and with self-hosting, you can be the master of your own domain. 
 
 However, Ghost ultimately just wasn't the right fit for my blogging. The main reason is that the service is geared towards making your blogging into a profit-driven enterprise. Their slogan, "Turn your audience into a business" says it all. Does that preclude the use of the tool, if remuneration for writing isn't your aim? Certainly not. It does mean, though, that many of the features that are released for the platform won't fit your use case. It also means, that when you open up the app, you'll be presented with a dashboard of your subscriber metrics, prodding you into getting more subscribers. "Follower growth" is the name of the game. 
 

@@ -1,0 +1,110 @@
+{
+  "name": "Frosted Echoes Nord Update",
+  "locals": {
+    "page_size": "10",
+    "text_color": "#FFFEFC",
+    "background_color": "#272727",
+    "accent_color": "#88C0D0",
+    "alt_color": "#BF616A",
+    "quote_color": "#A3BE8C",
+    "hide_dates": false,
+    "date_display": "MMMM D, Y",
+    "body_font": {
+      "id": "system-sans",
+      "font_size": "17",
+      "line_height": "1.4",
+      "name": "System sans-serif",
+      "stack": "-apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif",
+      "line_width": 38,
+      "styles": ""
+    },
+    "navigation_font": {
+      "id": "system-sans",
+      "font_size": "15",
+      "line_height": "1.4",
+      "name": "System sans-serif",
+      "stack": "-apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif",
+      "line_width": 38,
+      "styles": ""
+    },
+    "color_schemes": {
+      "light": {
+        "text_color": "#232323",
+        "background_color": "#fff",
+        "accent_color": "#004984"
+      },
+      "dark": {
+        "text_color": "white",
+        "background_color": "black",
+        "accent_color": "orange"
+      },
+      "red": {
+        "text_color": "red",
+        "background_color": "pink",
+        "accent_color": "purple"
+      },
+      "blue": {
+        "text_color": "MidnightBlue",
+        "background_color": "LightCyan",
+        "accent_color": "Blue"
+      }
+    },
+    "index_layout": "post_in_full",
+    "index_layout_options": [
+      "titles",
+      "title_and_summary",
+      "post_in_full"
+    ],
+    "navigation_alignment": "left",
+    "navigation_alignment_options": [
+      "justified",
+      "left",
+      "right",
+      "center"
+    ],
+    "navigation_position": "top",
+    "navigation_position_options": [
+      "top",
+      "bottom"
+    ]
+  },
+  "views": {
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    },
+    "archives.html": {
+      "url": "/archives",
+      "partials": {
+        "title": "Archives - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}"
+      }
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest entries posted on {{{title}}}"
+      }
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "{{{tag}}} - {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}"
+      }
+    }
+  }
+}
