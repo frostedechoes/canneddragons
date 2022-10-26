@@ -5,6 +5,7 @@ URL: sophists-and-frost-giants
 
 # Sophists and Frost Giants
 
+<br>
 <blockquote class="quoteback" darkmode="yes" data-title="" data-author="Rogers Cadenhead" data-avatar="https://micro.blog/rcade/avatar.jpg" cite="https://rcade.micro.blog/2022/09/05/i-never-stop.html"><p>I never stop wanting to love the New York Times and they never stop stopping me by publishing dopes like Ross Douthat, David Brooks and Maureen Dowd.</p>
 <footer>Rogers Cadenhead <cite><a href="https://rcade.micro.blog/2022/09/05/i-never-stop.html" class="u-in-reply-to">https://rcade.micro.blog/2022/09/05/i-never-stop.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script>
 
