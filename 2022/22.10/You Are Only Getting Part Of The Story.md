@@ -8,7 +8,7 @@ Summary: Evidence of bias in news is easy to spot when you know what it looks li
 
 # You're Only Getting Part Of The Story
 
-![](_NPRdotorg.jpg)
+![](../../_Resources/_NPRdotorg.jpg)
 
 I have been writing a fair amount about bias in journalism and how it's leading to more polarization. [One such piece](https://frostedechoes.net/sophists-and-frost-giants/) received a comment about how NPR had the most journalistic integrity out of the organizations I singled out. In terms of bias, I don't think NPR is the worst offender, but I can see clearly that the organization's view of the world shapes what it reports on and how those things are reported. I included NPR and Fox News in the same sentence on bias, and perhaps that was a bit unfair. After all, my wife and I are sustainers of our local NPR affiliate, WUNC, and I would certainly never say the same of an organization like Fox News (even if it was using a publicly sustained model).  
 
@@ -34,7 +34,7 @@ I was thinking about the best way to illustrate the bias at organizations like N
 
 As they say, it's funny because it's true. Substitute "the press" with "NPR" and you have a match. I wasn't content to simply let this sort of humor get by without any empirical evidence, though. I actually did some searches on NPR.org to find out if the premise of the joke, which is so easy to accept, has validity. I already knew that you couldn't swing a dead cat without hitting an article about the far-right on NPR.[^1] All I had to do there was take a screenshot of the day's homepage. 
 
-![](_homepage.png)
+![](../../_Resources/_homepage.png)
 
 Just to make sure I was on the right track, though, I also did a search for "far right" on the site. There were multiple results just from the past few days. When I searched for "far left," the stories were much fewer and farther spread apart. The only time I could see the phrase "far left" used in an editorial way was in articles about France. Apparently, that's the only place the far-left exists. Well, that and in the minds of those on the far-right. The other places that the phrase was to be found was in quotes from right-wing politicians.[^2] 
 
