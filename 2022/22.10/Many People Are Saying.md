@@ -6,7 +6,7 @@ Summary: A ridiculous rumor has spread startlingly fast and wide.
 
 # Many People Are Saying…
 
-![Japanese litter box](_Litterbox.jpeg)
+![Japanese litter box](../../_Resources/_Litterbox.jpeg)
 
 Several times a week, I get an email from my son's high school with a link to a newsletter-type of page that details events at the school. To be honest, I don't often read it. I assume that if there's anything important going on, my son will tell me. One thing I'm not concerned about is the newsletter informing me that the school is installing litter boxes for students who identify as furries. That may sound crazy, but some parents are truly worried. 
 
