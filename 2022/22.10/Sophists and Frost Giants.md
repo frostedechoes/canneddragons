@@ -17,7 +17,7 @@ We typically don't want to hear from those with whom we disagree. I use the word
 
 Publications should feature different voices because it's the only way they can engender widespread trust. I've [been critical of Ross Douthat in the past][1], but frankly, the New York Times needs the views of someone like Douthat. Without the people named in the above post, the publication risks becoming a monoculture.[^1]
 
-{|<} ![A sophist and a frost giant](../../_Resources/_sophist.jpg) 
+![A sophist and a frost giant](../../_Resources/_sophist.jpg) 
 
 Why has trust in journalistic institutions dropped so much in the past few decades? People don't trust them because their reporting has become one-sided and normative. Andrey Mir [calls this post-journalism][2]. People realize when they are not just reading news reports, but spin in favor of the publication's preferred ideology. I can't take reporting on hot button issues from Fox News or NPR at face value because I know they've got an agenda. 
 
