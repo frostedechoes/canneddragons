@@ -2,7 +2,10 @@
 Title: ''
 Date: 2022-10-25
 Tags: Tech, Digest
+Thumbnail: /_Resources/WeekOnTheWeb.png
 ---
+
+![](/_Resources/WeekOnTheWeb.png)
 
 Stephan Ango, who created the excellent new default Obsidian theme for the 1.0 launch (as well as the Minimal theme) writes about how text manipulation tools are in their infancy. Ango envisions that there will be much more we can do with text, in the same way that we can do so much with photos now. 
 
