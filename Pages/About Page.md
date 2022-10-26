@@ -6,7 +6,7 @@ Frosted Echoes is a personal web log by a prolific notetaker named [Robert](http
 
 Before the ascendency of social media, the blogosphere used to be referred, in a derogatory way, as an echo chamber. The “echoes” in the site name refers, in a positive way, to the fact that this blog pulls in thoughts from other independent blogs as well as social media accounts and major publishers. This project is an effort to celebrate the earlier days of blogging. This project is an effort to celebrate the earlier days of blogging.
 
-Frosted Echoes is built with a stack of plain text files and <a href="https://blot.im">Blot</a>. 
+Frosted Echoes is built with a stack of plain text files, a git repository and <a href="https://blot.im">Blot</a>. 
 
 ---
 
