@@ -1,6 +1,5 @@
 ---
 Tags: parenting
-Summary: How do you explain to a child that we tend to overcorrect for past mistakes?
 ---
 
 # Everything Is Awesome
@@ -20,4 +19,4 @@ I honestly can't remember how I responded. How do you explain to a 6-yr.-old tha
 
 It's not an easy thing to understand, at that age, how the pendulum swings to overcorrect for past inequities and that we must endure current inequities to atone for the past. 
 
-Boys may not get the sort of positive affirmation that girls do these days, but the situation isn't too dire. When I recollected the incident to my now 10-yr.-old son, he replied with, "I was so stupid back then."
+Boys may not get the sort of positive affirmation that girls do these days, but the situation doesn't always seem too dire. When I recollected the incident to my now 10-yr.-old son, he replied with, "I was so stupid back then."
