@@ -15,7 +15,7 @@ The photo made me remember the time my son (then six) and I were watching PBS Ki
 
 I honestly can't remember how I responded. How do you explain to a 6-yr.-old that, due to historical mistakes ("Math is hard" t-shirts for girls), there was now more cultural capital in going an inch for girls than a mile for boys? How do you explain that, though there is a [clearly documented educational crisis for boys](https://www.theatlantic.com/magazine/archive/2000/05/the-war-against-boys/304659/), it's not of much concern to our culture?
 
-![_boysdontrule.png](../_Resources/_boysdontrule.png)
+![Articles from The Atlantic about boys troubles in schools](../_Resources/_boysdontrule.png)
 
 It's not an easy thing to understand, at that age, how the pendulum swings to overcorrect for past inequities and that we must endure current inequities to atone for the past. 
 
