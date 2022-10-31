@@ -2,10 +2,10 @@
 Title: Tough Love
 Date: 9/2/2021 18:00
 Tags: faith
+Summary: Mars Hill Church reveled in being Christian the manly way.
 ---
 
 # Tough Love
-**Mars Hill Church reveled in being Christian the manly way.**
 
 ![Mark Driscoll](./../_Resources/_Driscoll.jpeg)
 
