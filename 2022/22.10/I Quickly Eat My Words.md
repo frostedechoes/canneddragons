@@ -1,6 +1,6 @@
 # I Quickly Eat My Words
 
-Welp, it looks like things are already going south on Twitter. For the first time (maybe ever), someone I follow liked [a racist tweet](https://twitter.com/ramzpaul/status/1585997681372983297?s=61&t=HA8n6wNO0awti3psOkDwfA). *I hope this isn't a sign of things to come*, I thought as I unfollowed the individual who boosted the tweet. Then I saw that Elon Musk was promoting a conspiracy theory about the attack on Paul Pelosi on Twitter.[^fn1] *So, this is going well*. 
+Welp, it looks like things are already going south on Twitter. For the first time (maybe ever), someone I follow liked [a racist tweet](https://twitter.com/ramzpaul/status/1585997681372983297?s=61&t=HA8n6wNO0awti3psOkDwfA). *I hope this isn't a sign of things to come*, I thought as I unfollowed the individual who boosted the tweet. Then I saw that Elon Musk was promoting a conspiracy theory about the attack on Paul Pelosi on Twitter.[^fn1]
 
 {{more}}
 
