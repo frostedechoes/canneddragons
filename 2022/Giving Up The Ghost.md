@@ -9,8 +9,6 @@ Link: /giving_up_the_ghost
 
 # Giving Up The Ghost
 
-<span class="postsum">{{entry.metadata.summary}}</span>
-
 ![Ghost is a powerful blogging and newsletter platform](/_Resources/Ghost.png)
 
 
