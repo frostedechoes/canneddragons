@@ -6,6 +6,7 @@ Summary: How do you explain to a child that we tend to overcorrect for past mist
 # Everything Is Awesome
 
 I saw a cool picture of shoes on Micro.blog the other day, and it brought up a memory of a few years ago.
+
 <blockquote class="quoteback" data-title="" data-author="Omar" data-avatar="https://micro.blog/Omrrc/avatar.jpg" cite="https://www.omrrc.com/2022/10/29/girls-are-awesome.html"><p>Girls are awesome</p>
 
 <p><img src="https://micro.blog/photos/1000x/https%3A%2F%2Fwww.omrrc.com%2Fuploads%2F2022%2F4a1eaad241.jpg" width="600" height="450" alt="" loading="lazy"></p>
