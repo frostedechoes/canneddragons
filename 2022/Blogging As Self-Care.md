@@ -8,8 +8,6 @@ draft: no
 
 # Blogging As Self-Care
 
-<span class="postsum">{{entry.metadata.summary}}</span>
-
 {|<} ![Micro.blog: A great place to share your blog posts.](/_Resources/microblog.png)
 
 I've been on a sort of crusade to get more people to blog recently. If I come across a person who is interesting and has something worthwhile to share, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates about the conflict to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging *is* my self-care time.
