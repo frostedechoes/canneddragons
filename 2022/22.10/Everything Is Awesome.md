@@ -1,5 +1,6 @@
 ---
 tags: parenting
+date: 2022-10-31 19:00
 ---
 
 # Everything Is Awesome
