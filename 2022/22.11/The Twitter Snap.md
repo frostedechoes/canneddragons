@@ -1,5 +1,5 @@
 ---
-Thumbnail: /../../_Resources/CannedDragonsTwitter.png
+Thumbnail: ../../_Resources/CannedDragonsTwitter.png
 ---
 
 
