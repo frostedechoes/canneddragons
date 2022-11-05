@@ -1,3 +1,8 @@
+---
+Thumbnail: /../../_Resources/CannedDragonsTwitter.png
+---
+
+
 # The Twitter Snap
 
 It wasn't a well-kept secret that Elon Musk had layoffs in mind from Twitter the moment he started considering acquiring the social network. The size and haste of the layoffs was a bit shocking, though. Approximately 50% of the company gone within a week of the acquisition is something to marvel at. It's like Musk is Thanos performing "the snap" (also officially referred to as "The Decimation") on his very own universe.
