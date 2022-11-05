@@ -1,7 +1,7 @@
 ---
 Title: 'Text Manipulation'
 Date: 2022-10-25
-Tags: Tech, Digest
+Tags: Tech
 Thumbnail: /_Resources/WeekOnTheWeb.png
 ---
 
