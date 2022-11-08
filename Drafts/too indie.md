@@ -1,7 +1,7 @@
-```yaml
+---
 Summary: Thinking about the size of an independent publisher when assessing your needs.
 Draft: yes
-```
+---
 
 # When Is Software Too Indie?
 
