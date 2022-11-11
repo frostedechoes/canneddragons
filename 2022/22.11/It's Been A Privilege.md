@@ -1,3 +1,6 @@
+---
+Tags: tech
+---
 
 # It's Been A Privilege
 
