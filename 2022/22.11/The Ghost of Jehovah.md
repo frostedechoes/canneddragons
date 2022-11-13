@@ -20,7 +20,7 @@ The fruits of this emphasis on charity are manifest. In his book, *The Righteous
 
 The problem, for Christians at least, occurs when we start to develop ideologies that innovate, or go beyond the mandate given by the progenitors of our faith. It is in this effort that we start to frame even that we worship in a modern, secular conception of what it means to be a human guided by the true, the good and the beautiful. My fear for some time has been that the idea of progress can become an idol that we chase. This chase of whatever is currently the cause célèbre comes at the expense of timeless wisdom on the subject of justice.
 
-### Vibe Shift
+## Vibe Shift
 
 [Samuel Son](https://www.presbyterianmission.org/today/author/samuel-sonpcusa-org/) has been writing a series for Presbyterians Today on the hot subjects of our time — diversity, equity, and inclusion — and how those concepts apply within the church. In his latest column, my fears for the eventual trajectory of this line of questioning come to pass. Even Christ (the "author and perfecter of our faith") is not exempt from the author's critique around inclusion. In his latest column, *Diversity isn't inclusivity* (not yet available on the web), Son praises Jesus' group of followers for including women and being diverse in this way. However, he laments that women were not usually part of the inner circle.
 
