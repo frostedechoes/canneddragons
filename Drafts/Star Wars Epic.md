@@ -10,6 +10,6 @@ Jack Mitchell brings to us *The Odyssey of Star Wars,* [an epic poem in blank ve
 
 I have a copy of Star Wars done in the style of Shakespeare, and though I've never read it, I really enjoy the stylistic illustrations. Still, I'm tempted to put this on my Christmas list. 
 
-Star Wars related: [The Wooszoo Etsy shop](https://thephilvischerpodcast.libsyn.com/episode-535-what-does-the-global-church-believe-about-guns-with-morgan-lee) has prints of Star Wars action figures (more recent than the ones from my youth) frozen in blocks of ice and set against blackboards explaining pieces of their background. They are *amazing*. 
+Star Wars related: [The Wooszoo Etsy shop](https://www.etsy.com/shop/wooszoo) has prints of Star Wars action figures (more recent than the ones from my youth) frozen in blocks of ice and set against blackboards explaining pieces of their background. They are *amazing*. 
 
 ![](/_Resources/bobafett.jpg)
