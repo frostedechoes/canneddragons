@@ -1,3 +1,7 @@
+---
+tags: tech
+---
+
 # The Creator Of Mastodon Is Running On Fumes
 
 ![Mastodon logo](/_Resources/mastodon.jpg)
