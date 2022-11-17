@@ -1,12 +1,13 @@
 ---
 tags: tech
+summary: Mastodon is not quite ready for the sudden influx of new users.
 ---
 
 # The Creator Of Mastodon Is Running On Fumes
 
 ![Mastodon logo](/_Resources/mastodon.jpg)
 
-The creator of Mastodon, Eugen Rochko, [speaks to Wired magazine's Will Knight](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/) about what it has been like since Elon Musk took over Twitter and the federated service became flooded with new users.
+**The creator of Mastodon**, Eugen Rochko, [speaks to Wired magazine's Will Knight](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/) about what it has been like since Elon Musk took over Twitter and the federated service became flooded with new users.
 
 > People probably want to hear that it's been great—all this growth and success—but I would prefer to be watching from the sidelines. There is more work, there are more fires to put out. It's incredibly stressful. I’m pulling 14-hour workdays, sleeping very little, and eating very little.
 
