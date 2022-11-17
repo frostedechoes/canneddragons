@@ -5,14 +5,16 @@ date: 2022-10-31 19:00
 
 # Everything Is Awesome
 
-I saw a cool picture of shoes on Micro.blog the other day, and it brought up a memory of a few years ago.
+I saw a picture of some cool shell toes on Micro.blog the other day, and it brought up a memory of a few years ago.
+
+{{more}}
 
 <blockquote class="quoteback" data-title="" data-author="Omar" data-avatar="https://micro.blog/Omrrc/avatar.jpg" cite="https://www.omrrc.com/2022/10/29/girls-are-awesome.html"><p>Girls are awesome</p>
 
 <p><img src="https://micro.blog/photos/1000x/https%3A%2F%2Fwww.omrrc.com%2Fuploads%2F2022%2F4a1eaad241.jpg" width="600" height="450" alt="" loading="lazy"></p>
 <footer>Omar <cite><a href="https://www.omrrc.com/2022/10/29/girls-are-awesome.html" class="u-in-reply-to">https://www.omrrc.com/2022/10/29/girls-are-awesome.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script>
 
-{{more}}
+
 
 The photo made me remember the time my son (then six) and I were watching PBS Kids and they had a "girls rule" announcement on. My son started to get upset, wondering why he always saw t-shirts and other things that promoted how awesome girls were, but he never saw those kinds of things about boys. 
 

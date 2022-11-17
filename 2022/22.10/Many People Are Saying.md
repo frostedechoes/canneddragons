@@ -8,9 +8,9 @@ Summary: A ridiculous rumor has spread startlingly fast and wide.
 
 ![Japanese litter box](../../_Resources/_Litterbox.jpeg)
 
-Several times a week, I get an email from my son's high school with a link to a newsletter-type of page that details events at the school. To be honest, I don't often read it. I assume that if there's anything important going on, my son will tell me. One thing I'm not concerned about is the newsletter informing me that the school is installing litter boxes for students who identify as furries. That may sound crazy, but some parents are truly worried. 
+**Several times a week**, I get an email from my son's high school with a link to a newsletter-type of page that details events at the school. To be honest, I don't often read it. I assume that if there's anything important going on, my son will tell me. One thing I'm not concerned about is the newsletter informing me that the school is installing litter boxes for students who identify as furries. That may sound crazy, but some parents are truly worried. 
 
-{{more}}
+{|<} > Theoretically, the proliferation of media should have brought about easy dismissals of stories like this after simple fact checking. Many news outlets have looked into these claims and found no evidence of their veracity. However, that is not a barrier to the spread of even the silliest rumors in a post-truth society.
 
 Why on earth would parents think a school would install litter boxes in bathrooms? Some Republican politicians and Republican-adjacent types like Joe Rogan are claiming this is a thing. Although they don't have any evidence, they hardly need it to penetrate the overactive imaginations of their constituents and listeners. Tyler Kingkade [has the story](https://www.nbcnews.com/tech/misinformation/urban-myth-litter-boxes-schools-became-gop-talking-point-rcna51439) (and a wonderfully surreal image to go with it) for _NBC News_. 
 
