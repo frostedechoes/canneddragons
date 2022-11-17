@@ -6,9 +6,11 @@ Summary: What does it do to Christian thought when even Jesus is considered "pro
 
 ![The Prophets](/_Resources/_prophets.jpg)
 
+**This week I got the latest issue** of *Presbyterians Today*, the periodical from the Presbyterian Church USA. The magazine, like the denomination itself, has a pretty progressive slant. It's not filled with numerous biblical references, or spiritual content, but with social justice activism. 
+
 {|<} > In the Christian conception, we come to view the world through the eyes of Christ. That is, with compassion and grace. To invert that process and view Christ through the eyes of the world, and its ever-changing standards sets a dangerous precedent.
 
-**This week I got the latest issue** of *Presbyterians Today*, the periodical from the Presbyterian Church USA. The magazine, like the denomination itself, has a pretty progressive slant. It's not filled with numerous biblical references, or spiritual content, but with social justice activism. I'm not pointing this out to condemn social justice activism. After all, the prophets and Jesus remind us constantly of the value of social justice. In fact, I think it's sad that if you look up "Christian social justice" on Amazon, many of the books the search pulls up are negative. Titles like _Why Social Justice Is Not Biblical Justice: An Urgent Appeal to Fellow Christians in a Time of Social Crisis_ and _Christianity and Social Justice: Religions in Conflict_ are bestsellers. 
+I'm not pointing this out to condemn social justice activism. After all, the prophets and Jesus remind us constantly of the value of social justice. In fact, I think it's sad that if you look up "Christian social justice" on Amazon, many of the books the search pulls up are negative. Titles like _Why Social Justice Is Not Biblical Justice: An Urgent Appeal to Fellow Christians in a Time of Social Crisis_ and _Christianity and Social Justice: Religions in Conflict_ are bestsellers. 
 
 Social justice is an important part of a well-rounded and robust Christian faith. The prophet Isaiah frames this well for Jews and Christians in the first chapter of the book bearing his name:
 
