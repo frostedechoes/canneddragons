@@ -4,7 +4,7 @@ Summary: What does it do to Christian thought when even Jesus is considered "pro
 
 # The Ghost of Jehovah
 
-![](/_Resources/_prophets.jpg)
+![The Prophets](/_Resources/_prophets.jpg)
 
 {|<} > In the Christian conception, we come to view the world through the eyes of Christ. That is, with compassion and grace. To invert that process and view Christ through the eyes of the world, and its ever-changing standards sets a dangerous precedent.
 
