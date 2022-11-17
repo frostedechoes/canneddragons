@@ -2,7 +2,7 @@
 
 ![Mastodon logo](/_Resources/mastodon.jpg)
 
-The creator of Mastodon, Eugen Rochko, speaks to Wired magazine's Will Knight about what it has been like since Elon Musk took over Twitter and the federated service became flooded with new users.
+The creator of Mastodon, Eugen Rochko, [speaks to Wired magazine's Will Knight](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/) about what it has been like since Elon Musk took over Twitter and the federated service became flooded with new users.
 
 > People probably want to hear that it's been great—all this growth and success—but I would prefer to be watching from the sidelines. There is more work, there are more fires to put out. It's incredibly stressful. I’m pulling 14-hour workdays, sleeping very little, and eating very little.
 
@@ -11,8 +11,6 @@ It's interesting to hear Rochko discuss the feature requests coming from users t
 > Another feature requested by users is quote tweets. It has been debated for years, and when Twitter introduced them, around the time I left the platform, I wasn’t a fan. Even if it's not always toxic, it can definitely tempt you to do what people call dunks. That being said, I don't feel as strongly about that now, as I used to back then, and I'm definitely taking into account how often people ask for this feature. It's not all set in stone.
 
 I know people have different opinions about the quote tweet, but I, personally, hope Mastodon keeps it out. I hate the tweet dunks for which it gets used.
-
-→ [The Man Behind Mastodon Built It for This Moment | Wired Magazine]([https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/](url))
 
 While users flock to Mastodon (and Rochko loses sleep), in the wake of the Elon Musk takeover of Twitter, some longtime users of the platform are feeling [like their homes are being invaded](https://www.hughrundle.net/home-invasion/).
 
