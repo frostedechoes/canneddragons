@@ -4,7 +4,9 @@
 
 Illustration by [Sharon Hinchliffe on Flickr](https://flic.kr/p/8pQ1rg) — Also available through Etsy [as a print](http://www.etsy.com/shop/delartful).
 
-For a few years now, I’ve followed a “read the Bible in a year” program. Last year, I used the plan from Bible Class Material, which presents the readings in a more-or-less chronological order that I’ve found extremely helpful for following the Old Testament material.
+{|<} > The message that we can take away from the book of Jonah is that the creator God makes, and yes, even cherishes, our enemies. It’s a bold and disconcerting lesson. It likely brings us no more comfort than it brought Jonah.
+
+**For a few years now**, I’ve followed a “read the Bible in a year” program. Last year, I used the plan from Bible Class Material, which presents the readings in a more-or-less chronological order that I’ve found extremely helpful for following the Old Testament material.
 
 Every year that I have read the Bible, I have gained new insights and different passages have stuck out to me in different ways. It’s been a new experience, each time. Heraclitus said that “a man never stands in the same river twice, for it’s not the same river and he’s not the same man.” This has perhaps rarely been more apparent to me than when wading through the river of life-giving waters that is holy scripture. When I bring to the reading fresh experiences from my own life, I see the verses through different eyes.
 
