@@ -1,5 +1,5 @@
 ---
-Thumbnail: /_Living.jpeg
+Thumbnail: _Living.jpeg
 Tags: noise
 URL: living-all-over
 ---
