@@ -1,5 +1,5 @@
 ---
-Thumbnail: /_Resources/Living.jpeg
+Thumbnail: ../_Resources/Living.jpeg
 Tags: noise
 ---
 
