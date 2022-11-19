@@ -1,6 +1,6 @@
 # Predicted Collapse 
 
-![](file:///var/mobile/Library/Mobile%20Documents/27N4MQEA55~pro~writer/Documents/DSM_Building_Collapse_2013.jpg)
+![](collapse.jpeg)
 
 My degree is in psychology, and though I focused on family and child counseling, industrial/organizational psychology was a close second in my affections. I loved taking a case study from a disaster at NASA — like the Challenger shuttle explosion — and looking at what went wrong organizationally to allow that to happen. So, as you can imagine, I’m riveted by the Twitter saga. The twists and turns. The [overall smugness of the CEO](https://twitter.com/elonmusk/status/1593455727611215872?s=61&t=SJEu-HhtPaZVoq_oJyLdwQ) in the face of a serious threat to the product’s existence. The ultimatums and the promises that staying at the company could be at the expense of any life outside your job. The employees wandering the virtual halls of Slack, trying to figure out if they still have a manager, [but who can’t check with HR because HR is gone](https://www.nytimes.com/2022/11/18/technology/elon-musk-twitter-workers-quit.html). 
 
