@@ -1,6 +1,7 @@
 ---
-Thumbnail: ../_Resources/Living.jpeg
+Thumbnail: _Living.jpeg
 Tags: noise
+URL: living-all-over
 ---
 
 # You’re Killing Me
