@@ -4,7 +4,7 @@ summary: Finishing the book of Jonah for insight into God’s love for humanity.
 
 # Ignoring The Big Fish In The Room
 
-{<>} ![](/_Resources/jonah.jpg)
+![](/_Resources/jonah.jpg)
 
 **For a few years now**, I’ve followed a “read the Bible in a year” program. Last year, I used the plan from Bible Class Material, which presents the readings in a more-or-less chronological order that I’ve found extremely helpful for following the Old Testament material.
 
