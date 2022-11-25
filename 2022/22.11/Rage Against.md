@@ -3,6 +3,8 @@ Title: Rage Against
 draft: no
 ---
 
+# Rage Against
+
 Adam Fleming Petty [writes for *The Bulwark*](https://www.thebulwark.com/rage-against-the-machine-and-the-narrow-90s/ "") about how differently Rage Against the Machine's politics play out now versus when they began. I can attest to his belief that, back in the nineties, we just didn't pay as close attention to the politics in music or entertainment. Rich frat boys were like, *sure, free Mumia, why not?* 
 
 > It’s for this reason that I’ve come to think of the decade as the Narrow ’90s: narrow in the sense that fewer albums, books, and movies were available—the internet was only just arriving in our homes then—and when something genuinely out of left field arrived, we may not have recognized it for what it really was because our ability to engage with it was so circumscribed.
