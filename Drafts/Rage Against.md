@@ -1,9 +1,6 @@
 ---
-Title: Rage Against
-Date: November 24, 2022
+Title: ''
 ---
-
-# Rage Against
 
 Adam Fleming Petty [writes for *The Bulwark*](https://www.thebulwark.com/rage-against-the-machine-and-the-narrow-90s/ "") about how differently Rage Against the Machine's politics play out now versus when they began. I can attest to his belief that, back in the nineties, we just didn't pay as close attention to the politics in music or entertainment. Rich frat boys were like, *sure, free Mumia, why not?* 
 
