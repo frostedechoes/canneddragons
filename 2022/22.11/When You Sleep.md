@@ -8,8 +8,6 @@ Tags: noise
 ![](../../_Resources/_DIIV.jpeg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=878547020/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/track=183256331/transparent=true/" seamless><a href="https://diiv.bandcamp.com/album/live-at-the-murmrr-theatre">Live at The Murmrr Theatre by DIIV</a></iframe>
-<br>
-
 
 Perhaps the definitive cover of My Bloody Valentine's "When You Sleep," from their seminal album, *Loveless*, is Memoryhouse's [version from their 2010 *Yours Truly* live session](https://youtu.be/oSm_5TQiccM). The song was breathlessly passed around the internet and gained Memoryhouse a fair amount of attention. When I saw Memoryhouse play live, I asked the band's Even Abeele if they were ever going to record a studio version of the cover. He told me they were setup to do just that, in New York, with James Iha from the Smashing Pumpkins, no less. Unfortunately, someone contributing to the session got in a car accident on the way to record. What a missed opportunity. 
 

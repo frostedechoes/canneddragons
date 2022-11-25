@@ -1,4 +1,10 @@
+---
+Summary: DIIV brings a slower paced, more intimate sound to a newly released live record.
+---
+
 # When You Sleep
+
+
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=878547020/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/track=183256331/transparent=true/" seamless><a href="https://diiv.bandcamp.com/album/live-at-the-murmrr-theatre">Live at The Murmrr Theatre by DIIV</a></iframe>
 <br>
@@ -10,7 +16,8 @@ As compensation, I'll take DIIV's live album, recorded in 2017 at the Murmrr The
 
 The My Bloody Valentine cover is followed directly by my favorite song by DIIV, a heroin fix called "Dopamine." With this version and other songs on the recording, you get a more relaxed and starker realization of the songs than appear on the proper albums. It's done to gorgeous effect and is perfect for this time of year. Just huddle under a blanket by the fire and let it sink into you.   
 
-via [Space Echo](https://spaceecho.chromewaves.net/2022/11/17/diiv-live-at-the-murmrr-theatre/) (no relation to Frosted Echoes)
+via [Space Echo](https://spaceecho.chromewaves.net/2022/11/17/diiv-live-at-the-murmrr-theatre/)
+
 ---- 
 
 *Side note*: Not to get all big business monkey when talking about a piece of art, but this release is the kind of content strategy that makes sense done through Bandcamp. Release your primary albums through all available channels, but keep collector's artifacts off the all-you-can-eat streaming platforms and release them through independent paid download channels. If an artist is concerned about exposure *and* revenue streams, this seems like the best strategy. 
