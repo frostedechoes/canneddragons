@@ -22,6 +22,6 @@ However, surprisingly enough, the Ninevites did heed the prophecy from the Lord 
 
 The message that we can take away from the book of Jonah is that the creator God makes, and yes, even cherishes, our enemies. It’s a bold and disconcerting lesson. It likely brings us no more comfort than it brought Jonah. We should keep the book of Jonah in mind when we read that Jesus taught us to love our enemies and pray for those who persecute us. There is a consistency of thought there stretching from the prophets of the Old Testament to the teachings of the Son of God in the New Testament. It’s almost as if, though not many people, if any at all, can actually follow these teachings, they help us to understand the heart of God. They help to shape our perception of who God is and what He values.
 
----- 
+•••
 
 _This was originally [published on Medium](https://medium.com/@canneddragons/ignoring-the-big-fish-in-the-room-217c44cbf382), a few years ago. Since we are about to begin a class focused on Jonah at church, I wanted to republish it on my current blog._ 
