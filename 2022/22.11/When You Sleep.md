@@ -17,6 +17,6 @@ The My Bloody Valentine cover is followed directly by my favorite song by DIIV, 
 
 via [Space Echo](https://spaceecho.chromewaves.net/2022/11/17/diiv-live-at-the-murmrr-theatre/)
 
----- 
+•••
 
 *Side note*: Not to get all big business monkey when talking about a piece of art, but this release is the kind of content strategy that makes sense done through Bandcamp. Release your primary albums through all available channels, but keep collector's artifacts off the all-you-can-eat streaming platforms and release them through independent paid download channels. If an artist is concerned about exposure *and* revenue streams, this seems like the best strategy. 
