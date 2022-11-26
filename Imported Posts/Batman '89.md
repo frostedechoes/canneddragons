@@ -11,7 +11,6 @@ Tags: culture
 
 <p>When Batman came out in 1989, I was in peak comic mode and playing the <a href="https://en.wikipedia.org/wiki/Marvel_Super_Heroes_(role-playing_game)">Marvel Super Heroes role-playing game by TSR</a> pretty heavily. I had a promotional magazine for the movie that I pored over daily. My dresser drawer contained a Batman t-shirt (drawn more in the comic books style) and it was my favorite piece of clothing. The trip to the theater with my dad, where I wore my t-shirt proudly, felt like a holiday ritual.</p>
 
-<!--more-->
 
 <p>There’s little chance that I’m going to break out the nonsensical “Batdance,” but the concept of a continuation of Tim Burton’s <a href="https://consequenceofsound.net/2021/02/tim-burton-batman-universe-dc/">Batman from 1989 in comic form</a>, written by Sam Hamm, the original screenwriter, does pique my interest.<sup><a href="#fn1-8686" id="fnr1-8686" title="see footnote" class="footnote">1</a></sup> Throughout the many iterations, Michael Keaton’s portrayal of Batman is the one that I most identify with the superhero. Though Burton’s dark deco Gotham may have been a influential precursor to the later descent of comic book movies into the grimdark mold, I still admire the original vision. </p>
 
