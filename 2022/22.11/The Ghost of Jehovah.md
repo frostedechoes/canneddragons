@@ -1,5 +1,6 @@
 ---
 Summary: What does it do to Christian thought when even Jesus is considered "problematic?"
+Tags: faith
 ---
 
 # The Ghost of Jehovah

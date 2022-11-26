@@ -1,3 +1,7 @@
+---
+Tags: tech
+---
+
 # Predicted Collapse 
 
 ![Photo by Muhammad Mahdi Karim](_collapse.jpeg)
