@@ -1,6 +1,6 @@
 ---
-Title: Rage Against
-Date: November 24, 2022
+Title: Rage Against 
+draft: no
 ---
 
 # Rage Against
@@ -13,5 +13,5 @@ Now, though, times have changed. My brother went to see Rage Against the Machine
 
 > But this is 2022, and the political climate is far more volatile and, more to the point, far more legible. Even the most comfortable members of this country’s demographic majority—middle-class white men—can’t simply ignore politics with the same ease that they did in the Narrow ’90s. It’s everywhere. It’s out there in your backyard, right now.
 
-Having grown up in the early nineties, I can vouch for Petty's interpretation of that apolitical stance that most people took towards music. It's probably better that we are now paying attention, but our sensitivity has been heightened to such an extent that it's no longer healthy, either. We should be able to pay attention and engage the ideas we might not like, and not act reflexively.
+ It's probably better that we are now paying attention to politics, but our sensitivity has been heightened to such an extent that it's no longer healthy, either. We should be able to pay attention and engage the ideas we might not like, and not act reflexively.
 
