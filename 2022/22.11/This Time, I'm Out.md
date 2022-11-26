@@ -1,3 +1,7 @@
+---
+Tags: tech
+---
+
 # This Time, I'm Out
 
 After 14 years and over 10,000 tweets, I've deactivated my Twitter account. I've been critical of Twitter for a long time now without actually leaving the platform. Obviously, things have changed rapidly for the worse. When, on Saturday, Elon Musk let DT back on the platform, while including a little blasphemy with his announcement, that was the last straw. Almost all of my tweets were syndicated from [Micro.blog](https://Micro.blog), anyway. I thought about pinning a tweet that pointed to where you can find me now, but if you have been following my account for any length of time, you already have that information.
