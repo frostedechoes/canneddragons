@@ -1,3 +1,7 @@
+---
+Tags: tech
+---
+
 # Community in Technology
 
 Spencer Greenhalgh [writes about](https://spencergreenhalgh.com/work/some-thoughts-on-platforms-and-community/) how believing that bonds forged by shallow online interactions are sturdy — may be overly optimistic. 
