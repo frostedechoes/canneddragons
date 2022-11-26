@@ -42,11 +42,9 @@ categories: faith
 
 <p>If these seem like difficult objectives, it might be helpful to study the history of the ancient Christians and the evidence of their fidelity to these teachings. The book <a href="https://micro.blog/books/1481304747">Destroyer of the Gods</a> by Larry W. Hurtado proves especially instructional here, as it accounts the early Christians, what made them distinctive, and what put them at odds with their neighbors.</p>
 
-<hr />
 
-***I do think that some US Christians have developed a sense of persecution beyond what is warranted, particularly when drawn in comparison to the persecutions in other countries and those that are set in the cement of history.***
+{|<} > I do think that some US Christians have developed a sense of persecution beyond what is warranted, particularly when drawn in comparison to the persecutions in other countries and those that are set in the cement of history.
 
-<hr />
 
 <p>Ancient Christians were put to death by the Roman Empire for their faith. They were martyred for being “obstinate,” in the translated words of the much venerated (even now) stoic philosopher and Roman Emperor Marcus Aurelias, and refusing to worship the Roman Emperor. Nevertheless, in the face of violence, they did not return in kind. They held fast to the words of Jesus (and Paul) that were cited by Professor Jacobs above. </p>
 
