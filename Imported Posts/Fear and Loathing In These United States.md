@@ -12,8 +12,6 @@ categories: faith
 
 <p>By most accounts, evangelical Christians are concerned about the path this country is taking and encroaching restrictions on religious liberty. This is usually cited as their main reason for supporting the former president, despite the fact that he possessed almost every character trait they had vocally opposed in past leaders. Beyond supporting the president, they have appeared, at times, to almost want to <a href="https://frostedechoes.com/2020/01/10/we-demand-a.html">make him their king</a>. </p>
 
-<!--more-->
-
 <p>Attitudes among evangelicals are shifting on a number of topics. NPR reporter Tom Gjelton from “Morning Edition” <a href="https://text.npr.org/966498544">cites a disturbing new survey</a> that shows a number of Americans consider violence a legitimate political tool to achieve their desired outcomes. </p>
 
 <blockquote>
