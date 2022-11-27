@@ -6,9 +6,9 @@ Menu: no
 
 # Author Bio
 
-![](/_Resources/_fenwaypark.jpg)
+{||} ![](_author_portrait.jpeg)
 
-**Robert** is a Christian, aspiring minimalist, inveterate notetaker, software dev manager and paper airplane mechanic located in North Carolina. 
+{||} **Robert** is a Christian, aspiring minimalist, inveterate notetaker, software dev manager and paper airplane mechanic located in North Carolina. 
 
 
 
