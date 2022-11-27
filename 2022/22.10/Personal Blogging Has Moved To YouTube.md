@@ -1,3 +1,7 @@
+---
+Tags: tech
+---
+
 # Personal Blogging Has Moved To YouTube
 
 Linda Holmes writes about how blog culture was once sharing your whole lives with strangers on the internet — and how those strangers soon began to feel entitled to that personal information. She makes the point that YouTubers have recreated that culture through a different medium.
