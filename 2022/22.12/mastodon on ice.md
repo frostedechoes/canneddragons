@@ -7,7 +7,7 @@ Draft: yes
 
 # A Mastodon Frozen In Time
 
-**Mastodon was created in 2016**, and the site still harkens back to its origins, a time when [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) and the atrocious harassment of women in tech on Twitter were still very fresh in our minds. The platform was a reaction to that and the rising toxic atmosphere on social media. At the time, Twitter was also in the throes of dealing with the side effects of a Donald Trump candidacy and subsequent presidency. As such, one of the primary features of Mastodon was to stamp out hate and harassment. It's a laudable goal, and very much needed in today's technology landscape. There's a problem there, though, in that Mastodon seems to define itself, at least in part, [as the anti-Twitter](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html). 
+**Mastodon was created in 2016**, and the site still harkens back to its origins, a time when [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) and the atrocious harassment of women in tech on Twitter were still very fresh in our minds. The platform was a reaction to that and the rising toxic atmosphere on social media. At the time, Twitter was also in the throes of dealing with the side effects of a Donald Trump candidacy and subsequent presidency. As such, one of the primary features of Mastodon was to stamp out hate and harassment. It's a laudable goal, and very much needed in today's technology landscape. There might be a problem there, though, in that Mastodon seems to define itself, at least in part, [as the anti-Twitter](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html). 
 
 {{more}}
 
