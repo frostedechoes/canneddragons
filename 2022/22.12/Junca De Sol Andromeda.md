@@ -1,7 +1,7 @@
 ---
 Title: Junca De Sol Andromeda
 Tags: Noise
-Draft: yes
+Draft: no
 ---
 
 # Junca De Sol Andromeda
