@@ -8,7 +8,7 @@ Draft: no
 
 I was already a fan of the angular and noisy Truman's Water, Glen Galloway's former band, when he launched Soul-Junk. The new group was conceived after Galloway had a tour van conversion to Christianity. My friend, who was not a believer, but was a fan of Shrimper Records, made me a mix tape with Soul-Junk's "I Turned My Back On You." I listened to the mix tape while I was exploring a return to Christianity. The lyrics spoke to me about my own wandering away from faith and subsequently finding my way back. 
 
-Though many of Soul-Junk's songs take their lyrics directly from the Bible, "I Turned My Back On You" merely riffs on biblical themes. It reminds me of the psalms.
+Though many of Soul-Junk's songs take their lyrics directly from the Bible, "I Turned My Back On You" merely riffs on biblical themes. It reminds me of the Psalms.
 
 > Where can I go from your Spirit? Where can I flee from your presence? If I go up to the heavens, you are there; if I make my bed in the depths, you are there. If I rise on the wings of the dawn, if I settle on the far side of the sea, even there your hand will guide me, your right hand will hold me fast. *(Psalm 139: 7-10)*
 
