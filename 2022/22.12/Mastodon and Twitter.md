@@ -1,7 +1,8 @@
 ---
 Title: Is Mastodon Really Is The Spiritual Successor To Twitter?
 Tags: tech
-Draft: yes
+Date: 12/10/2022 18:00
+Draft: no
 Summary: By defining itself as the anti-Twitter, Mastodon feels like a reactionary platform.
 ---
 
@@ -19,7 +20,7 @@ Users of Mastodon spill a lot of digital ink writing about what is commonly refe
 
 You would be forgiven for thinking that perhaps Mastodon is an overcorrection for the sins of Twitter. Joining most Mastodon instances (servers) is an exercise in immediately learning what types of people and speech they will not permit. Literally, that's the screen that appears first. The prohibitions list usually consists of made-up pathologies you might find in a fake DSM. Ever heard of a _terve_? If I have to look up the meaning of words just to know what is tolerated, I'm not super likely to join. From what I've seen, Mastodon users and moderators seem more interested in policing speech they don't like than in having interesting discussions with diverse viewpoints. It doesn't initially sound like much fun.[^1]
 
-You have to apply for membership in some Mastodon servers. It seems pretty exclusive. Presumably, if Steve Rubell lets you behind the velvet rope, then you are in the Studio 54 of social networks. However, you need to watch what you say. Many Mastodon users seem to spend their time trying to get each other banned. From the article in the NYT quoted above — on journa.host, a user was banned for referring to someone trying to get him banned [as an "activist](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html)." The woman who successfully got him banned was shortly thereafter banned herself. It all sounds a bit like an early season of *Survivor,* minus the lush tropical surroundings. If the goal is not to get voted off the island, you have to play a very political game. 
+You have to apply for membership in some Mastodon servers. It seems pretty exclusive. Presumably, if Steve Rubell lets you behind the velvet rope, then you are in the Studio 54 of social networks. However, you need to watch what you say. Many Mastodon users seem to spend their time trying to get each other banned. From the article in the NYT quoted above — on journa.host — a user was banned for referring to someone trying to get him banned [as an "activist](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html)." The woman who successfully got him banned was shortly thereafter banned herself. It all sounds a bit like an early season of *Survivor,* minus the lush tropical surroundings. If the goal is not to get voted off the island, you have to play a very political game. 
 
 ## Raspberry parade
 
