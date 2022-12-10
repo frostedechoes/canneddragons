@@ -1,6 +1,6 @@
 ---
 Title: Rooted In Place
-Date: 12/8/2022 18:00
+Date: 12/9/2022 18:00
 Tags: faith
 ---
 
