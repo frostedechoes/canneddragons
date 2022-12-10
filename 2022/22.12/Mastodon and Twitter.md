@@ -1,12 +1,12 @@
 ---
-Title: Is Mastodon Really Is The Spiritual Successor To Twitter?
+Title: Is Mastodon Really The Spiritual Successor To Twitter?
 Tags: tech
 Date: 12/10/2022 18:00
 Draft: no
 Summary: By defining itself as the anti-Twitter, Mastodon feels like a reactionary platform.
 ---
 
-# Is Mastodon Really Is The Spiritual Successor To Twitter?
+# Is Mastodon Really The Spiritual Successor To Twitter?
 
 **Mastodon was created in 2016**, and the site still harkens back to its origins, a time when [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) and the atrocious harassment of women in tech on Twitter was still very fresh in our minds. The platform was in a way a reaction to that and the rising toxic atmosphere on social media. At the time, Twitter was also in the throes of dealing with the side effects of a Donald Trump candidacy and subsequent presidency. As such, one of the primary features of Mastodon was to stamp out hate and harassment. It's a laudable goal, and very much needed in today's technology landscape. There's a problem there, though, in that Mastodon seems to define itself, at least in part, [as the anti-Twitter](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html). 
 
