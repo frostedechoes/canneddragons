@@ -1,8 +1,7 @@
 ---
 Title: Is Mastodon Really The Spiritual Successor To Twitter?
 Tags: tech
-Date: 12/10/2022 18:00
-Draft: yes  
+Draft: no  
 Summary: By defining itself as the anti-Twitter, Mastodon feels like a reactionary platform.
 ---
 
