@@ -1,3 +1,7 @@
+---
+Tags: tech
+---
+
 # Dark Mode
 
 I've recently been going through a lot of mental back and forth about having a dark mode on my blog. I tend to think light mode looks better and is more readable, but I want be accommodating and accessible. Kev Quirk examines the claim that dark mode is easier on your eyes. 
@@ -10,7 +14,7 @@ Quirk examines the benefits of dark mode in a few areas:
 - eye strain
 - battery life
 
-He comes to the conclusion that dark mode may have a slight benefit in battery life, but nowhere else. 
+He comes to the conclusion that dark mode may have a slight benefit in battery life, but not anywhere else. 
 
 → [Is Dark Mode Good For Your Eyes?](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 
