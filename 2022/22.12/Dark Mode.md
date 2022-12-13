@@ -8,7 +8,7 @@ I've recently been going through a lot of mental back and forth about having a d
 
 > Humans have evolved to hunt during the day. On a biological level, our eyes prefer the contrast between a light background and dark foreground. When I was in the military, a key tactic of camouflage was to never, under any circumstances, expose yourself on a hilltop or similar, where your silhouette could be easily identified. A dark blob on a light background is far easier for the human eye to see, than the reverse.
 
-Quirk examines the benefits of dark mode in a few areas:
+Quirk looks at the benefits of dark mode in a few areas:
 
 - readability
 - eye strain
