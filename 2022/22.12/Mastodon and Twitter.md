@@ -7,6 +7,8 @@ Summary: By defining itself as the anti-Twitter, Mastodon feels like a reactiona
 
 # Is Mastodon Really The Spiritual Successor To Twitter?
 
+![](_mammothonice.jpg)
+
 **Mastodon was created in 2016**, and the site still harkens back to its origins, a time when [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) and the atrocious harassment of women in tech on Twitter was still very fresh in our minds. The platform was in a way a reaction to that and the rising toxic atmosphere on social media. At the time, Twitter was also in the throes of dealing with the side effects of a Donald Trump candidacy and subsequent presidency. As such, one of the primary features of Mastodon was to stamp out hate and harassment. It's a laudable goal, and very much needed in today's technology landscape. There's a problem there, though, in that Mastodon seems to define itself, at least in part, [as the anti-Twitter](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html). 
 
 {{more}}
@@ -14,8 +16,6 @@ Summary: By defining itself as the anti-Twitter, Mastodon feels like a reactiona
 > But because so much news happens on Twitter — and because Twitter itself is such a news story — the social network symbolized by a tiny bird casts a very large shadow over the social network named after a giant prehistoric beast.
 
 Users of Mastodon spill a lot of digital ink writing about what is commonly referred to there as "the bird site." The overall environment on Mastodon is very meta. It's social media about social media.  
-
-![](_mammothonice.jpg)
 
 You would be forgiven for thinking that perhaps Mastodon is an overcorrection for the sins of Twitter. Joining most Mastodon instances (servers) is an exercise in immediately learning what types of people and speech they will not permit. Literally, that's the screen that appears first. The prohibitions list usually consists of made-up pathologies you might find in a fake DSM. Ever heard of a _terve_? If I have to look up the meaning of words just to know what is tolerated, I'm not super likely to join. From what I've seen, Mastodon users and moderators seem more interested in policing speech they don't like than in having interesting discussions with diverse viewpoints. It doesn't initially sound like much fun.[^1]
 
@@ -39,4 +39,4 @@ In a sense, Mastodon seems frozen in time, a reactionary monument to an ugly tim
 
 [^1]:	I remain mindful, though, that it could also be protective if you have been exposed to harassment somewhere else on the internet.
 
-[^2]:	The extent to which safety is a functional concern is almost never actually discussed.
+[^2]:	The extent to which safety is a functional concern is rarely discussed.
