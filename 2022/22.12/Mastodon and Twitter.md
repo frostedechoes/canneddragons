@@ -23,6 +23,8 @@ You have to apply for membership in some Mastodon servers. It seems pretty exclu
 
 ## Raspberry parade
 
+{|<} > Now that Twitter is trending to become more of a right-leaning network, Mastodon, in defining itself as the anti-Twitter, seems on the way to becoming more left-wing. On both networks, users that don’t follow the dominant belief system there are getting “blocked and reported.”
+
 More recently, [there was a firestorm of controversy](https://birchtree.me/blog/main-character-of-the-day-on-mastodon/) around Raspberry Pi hiring a guy who was a surveillance officer in a previous life. When people objected, the Raspberry Pi folks were dismissive, calling the accusations "childish," and telling people who were critical "bye bye." As a result, the agitators worked to get Raspberry Pi "defederated." To be defederated in Mastodon terms is to have other servers in the fediverse refuse to talk with the one you are on. It's the modern equivalent of being excommunicated from the techno-church. [This GitHub Gist](https://gist.github.com/aurynn/618e721eaf72ae38bab2c918d2973e5a) outlines the chain of events that led to Raspberry Pi getting defederated. It takes the stance that users who objected to the company's hiring decisions were "insulted." It also implies that those making the complaints were made unsafe by the responses.
 
 > The business instance being defederated will be a huge blow to any reach that might have been gained, as administrators and moderators seeking to ensure safety for their users are able to remove tens of thousands of their users in a few clicks.
