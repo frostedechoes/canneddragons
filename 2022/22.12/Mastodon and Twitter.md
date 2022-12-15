@@ -21,9 +21,9 @@ You would be forgiven for thinking that perhaps Mastodon is an overcorrection fo
 
 You have to apply for membership in some Mastodon servers. It seems pretty exclusive. Presumably, if Steve Rubell lets you behind the velvet rope, then you are in the Studio 54 of social networks. However, you need to watch what you say. Many Mastodon users seem to spend their time trying to get each other banned. From the article in the NYT quoted above — on journa.host — a user was banned for referring to someone trying to get him banned [as an "activist](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html)." The woman who successfully got him banned was shortly thereafter banned herself. It all sounds a bit like an early season of *Survivor,* minus the lush tropical surroundings. If the goal is not to get voted off the island, you have to play a very political game. 
 
-## Raspberry parade
-
 {|<} > Now that Twitter is trending to become more of a right-leaning network, Mastodon, in defining itself as the anti-Twitter, seems on the way to becoming more left-wing. On both networks, users that don’t follow the dominant belief system there are getting “blocked and reported.”
+
+## Raspberry parade
 
 More recently, [there was a firestorm of controversy](https://birchtree.me/blog/main-character-of-the-day-on-mastodon/) around Raspberry Pi hiring a guy who was a surveillance officer in a previous life. When people objected, the Raspberry Pi folks were dismissive, calling the accusations "childish," and telling people who were critical "bye bye." As a result, the agitators worked to get Raspberry Pi "defederated." To be defederated in Mastodon terms is to have other servers in the fediverse refuse to talk with the one you are on. It's the modern equivalent of being excommunicated from the techno-church. [This GitHub Gist](https://gist.github.com/aurynn/618e721eaf72ae38bab2c918d2973e5a) outlines the chain of events that led to Raspberry Pi getting defederated. It takes the stance that users who objected to the company's hiring decisions were "insulted." It also implies that those making the complaints were made unsafe by the responses.
 
