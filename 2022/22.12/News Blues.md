@@ -22,4 +22,4 @@ That applies to TV journalists as well. I'm concerned that my son will carry bia
 
  
 
-[^1]:	Heavy are the shoulders that wear John Oliver's head.
+[^1]:	Heavy are the shoulders that carry John Oliver's head.
