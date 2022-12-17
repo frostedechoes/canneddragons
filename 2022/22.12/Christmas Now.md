@@ -1,11 +1,11 @@
 ---
 Tags: noise
-Draft: yes
+Draft: no
 ---
 
 # It's Christmas Now
 
-![](Ice%20choir.jpeg)
+![](_Ice%20choir.jpeg)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4226990862/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://icechoir.bandcamp.com/album/pure-holiday">Pure Holiday by Ice Choir</a></iframe>
 
