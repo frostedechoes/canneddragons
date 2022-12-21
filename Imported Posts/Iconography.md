@@ -13,8 +13,6 @@ tags: faith
 
 <p>I am a Protestant, but I can appreciate the purpose of icons that remind us of the great communion of saints. I have a hard time imagining asking for intercessory prayers from a saint, but a Catholic friend once put it to me as being like asking a friend to pray for you. I have to admit that made some sense, though I still don’t know about veneration.</p>
 
-<!--more-->
-
 <p>It seems like reminders of the great cloud of witnesses are more important than ever. This past year has been disruptive to religious and political beliefs alike. Aarik Danielsen touches on this in his piece <a href="https://christandpopculture.com/blessed-are-the-weary-for-they-will-find-rest/">Blessed Are the Weary, for They Will Find Rest</a> for Christ and Pop Culture.</p>
 
 <blockquote>
