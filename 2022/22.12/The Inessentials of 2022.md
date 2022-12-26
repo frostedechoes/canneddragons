@@ -5,7 +5,7 @@ Tags: culture
 
 # The Inessentials of 2022
 
-It's getting close to the end of the year, and as usual, we're treated to a slew of year-end best of lists. These lists can be really helpful in picking out new media to check out. They can also be incredibly performative, when it reads     like the authors are trying harder to project an image of cool than they are to actually convey what they liked during the year. If this is your stock in trade, it's a performance that must feel obligatory. Or, at least, it certainly seems that way from a sampling of these lists.  
+It's getting close to the end of the year, and as usual, we're treated to a slew of year-end best of lists. These lists can be really helpful in picking out new media to check out. They can also be incredibly performative, when it reads like the authors are trying harder to project an image of cool than they are to actually convey what they liked during the year. If this is your stock in trade, it's a performance that must feel obligatory. Or, at least, it certainly seems that way from a sampling of these lists.  
 
 {{more}}
 
