@@ -5,7 +5,7 @@ Title: Patina
 
 # Patina
 
-{>|} ![](_Tallies_Patina.jpeg)
+{>|} ![Tallies - Patina](_Tallies_Patina.jpeg)
 
 One band that Apple Music introduced to me this year in my Friday New Music playlist was Tallies. I was immediately smitten with the indie pop and shoegaze mixture in "No Dreams of Fayres." It wasn't until later on the year, though, that I read the band mentioned elsewhere and decided to dive deeper into their catalog. 
 
