@@ -1,7 +1,7 @@
 ---
 Title: Bullet Journaling in 2023
 Tags: productivity
-Date: 2022-12-30 17:00
+Date: 2022-12-30 16:00
 ---
 
 # Bullet Journaling in 2023
