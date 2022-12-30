@@ -14,13 +14,13 @@ I also imagined myself using my bullet journal as a scrapbook of my daily life o
 
 > The reality of my truly terrible handwriting meant this never really came to pass, but that didn’t stop my notebook from becoming a half-decent planner.
 
-I ended up in the same place, with the bujo becoming a good planning device. Like Porter, I found my bullet journal falling into disuse.
+I ended up in the same place, with the bujo becoming a good planning device. Like Porter, I eventually found my bullet journal falling into disuse.
 
 > It wasn’t that I grew tired of the writing, but eventually, I got sick of having to carry around a physical notebook. A friend would remind me about a film I wanted to watch while we were in the pub, and I’d have to note it down in a notes app before transcribing it into my physical notebook later. Or I’d be passing a grocery store on the way home and not have my physical shopping list with me. Eventually, the allure of keeping things digital on my phone and with me at all times grew too strong.
 
 I'm picking my bujo back up, though, because I've found it helps me focus on tasks, without getting distracted by digital apps. It helps even if the task is one that I have to do on the computer. If I've got it written down in my bullet journal, next to other tasks, I tend to do the task and then be done. That prevents me from getting lost down a rabbit hole of whatever the internet wants to show me. 
 
-Where I really find the bullet journal valuable is when I've got a screen time limitation on my devices, so I put them away at 9:30. I'll pick up a book and read it, perhaps making notes in my bullet journal. If an idea that I would like to research comes up, instead of going to a device and getting lost in it, I'll write it as a research todo in my journal. I find that works to keep me off my devices and help me focus, as well as go to bed earlier. 
+Where I really find the bullet journal valuable is when I've got a screen time limitation on my devices, so I put them away at 9:30 pm. I'll pick up a book and read it, perhaps making notes in my bullet journal. If an idea that I would like to research comes up, instead of going to a device and losing track of time, I'll write it as a research todo in my journal. I find that not only works to keep me off my devices and help me focus, but also helps me go to bed earlier. 
 
 •••
 
