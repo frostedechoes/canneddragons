@@ -6,7 +6,7 @@ Date: 12/30/2022 18:00
 
 # No Roof, No Floor
 
-{>|} ![Scout Gillette - No Roof No Floor](_scoutgillett.jpeg)
+{>|} ![Scout Gillette](/_Resources/_Scout-Gillett.jpg)
 
 I generally don't do year-end lists, but I like to share a couple of my favorite things from the past year. In this interstitial time between Christmas and New Year's, I get a chance to reflect on what I've enjoyed while having very few demands on my time. 
 
