@@ -1,6 +1,6 @@
 ---
 Title: Being Wrong in 2023
-Draft: yes
+Draft: no
 ---
 
 # Being Wrong in 2023
