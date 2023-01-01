@@ -9,7 +9,7 @@ Patrick Miller provides an [apologetic for video games](https://christandpopcult
 
 > But should Christians value fun at all? Frowning Puritans notwithstanding, our theology of Sabbath recreation gives us a resounding answer: Yes! Recreation is a form of rest not only because we cease labor, but also because we honor the fecundity of creation by using our God-given minds and bodies to draw out hitherto unimagined worlds and possibilities. Recreation invites creatures into re-creation. We play with the raw material of a good world, reconfigure it into new worlds, and find ourselves wonderfully rejuvenated—and thus prepared for more productive labor.
 
-Video games have evolved into more than just playing Pac-Man in an 80s arcade cabinet, or even shooting aliens in Doom, but it seems the arguments against gaming haven't really caught up. Miller uses the Final Fantasy VII RPG as an example of a game that has impact beyond simply providing simple entertainment to the player. 
+Video games have evolved into more than just playing Pac-Man in an 80s arcade cabinet, or even shooting aliens in Doom, but it seems the arguments against gaming haven't really caught up. Miller uses the Final Fantasy VII RPG as an example of a game that has impact beyond simply providing easy entertainment to the player. 
 
 > After selling more than 13 million copies, there’s little doubt that this story affected gamers deeply, but how did it do this? The game is not a 36-hour TV show, spoon-feeding plot points between action sequences. Rather, Final Fantasy VII draws the player into the story through gameplay. This experience of entering a story is what game critics call “immersion.”
 
