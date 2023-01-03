@@ -1,6 +1,10 @@
+---
+Title: The Best Words I Wrote In 2022
+---
+
 # The Best Words I Wrote In 2022
 
-I thought about doing a post on my favorite or most popular things that I wrote in 2022. There's a problem with that concept, though, in that I do a lot of link blogging. If I'm being completely honest, most of the best words I wrote in 2022 originated from other people. You know what, though? I'm fine with that.  
+I thought about doing a post on my favorite or most popular things that I wrote in 2022. However, there's a problem with that concept. I do a lot of link blogging. If I'm being completely honest, most of the best words I wrote in 2022 originated from other people. You know what, though? I'm fine with that.  
 
 {{more}}
 
