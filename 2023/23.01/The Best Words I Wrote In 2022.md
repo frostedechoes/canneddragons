@@ -12,4 +12,4 @@ Clive Thompson [writes about his link blogging](https://clivethompson.medium.com
 
 > This is particularly true of writing my Linkfests. They’re old-school linkblogging; the goal is to find incredibly cool stuff for my readers. They’re a blast to write, but they require me to inhale the Internet the way a bowhead whale devours krill — mouth wide open, swimming eternally forward.
 
-That about sums up my process as well. Like a whale devouring krill, loading up articles saved in Pocket onto my Kobo, and devouring them for the nutrients that I can extract. I write the most when I'm reading a sizable amount. I write best when I'm absorbing the thoughts of others. I can parse through those thoughts while bringing my own ideas and experiences to bear on the subjects. 
+That about sums up my process as well. Like a whale devouring krill, loading up articles saved in Pocket onto my Kobo, and digesting them for the nutrients that I can extract. I write the most when I'm reading a sizable amount. I write best when I'm absorbing the thoughts of others. I can parse through those thoughts while bringing my own ideas and experiences to bear on the subjects. 
