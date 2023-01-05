@@ -6,7 +6,6 @@ Tags: tech
 ---
 
 <p>CJ Chivers <a href="https://www.cjchilvers.com/blog/a-love-letter-to-the-link-post">writes about</a> a type of writing for the web that I hope to firmly remain in the tradition of: link blogging. </p>
-<!--more-->
 
 
 > It was respectful of your time, both as a reader and a creator. The pickier you were (the more respectful you were), the better the links. You built trust and authority as the editor of your tiny corner of the web.

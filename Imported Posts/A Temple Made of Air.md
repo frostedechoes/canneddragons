@@ -6,7 +6,6 @@ link: /2021/01/29/a-temple-made.html
 <p>https://youtu.be/9KMPdtmRjlU</p>
 
 <p>Giorgia Angiuli is a musical polymath. I don’t know my electronic subgenres as well as I should, so I have a hard time pinning her music down into a simple descriptor, but this video is incredible.<sup><a href="#fn1-27620" id="fnr1-27620" title="see footnote" class="footnote">1</a></sup> However you may want to label the songs (“A rose by any other name,” etc, etc.), the variety of instruments and watching what goes into making the sounds coalesce is mesmerizing. </p>
-<!--more-->
 
 <p>From the description of Angiuli’s album  <i>In A Pink Bubble</i>.</p>
 
