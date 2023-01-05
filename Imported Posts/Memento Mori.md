@@ -1,6 +1,7 @@
 ---
 title: Memento Mori
 date: 2021-02-25 23:43:09 +0000
+tags: faith
 link: /2021/02/25/memento-mori.html
 ---
 # Memento Mori
@@ -9,7 +10,6 @@ link: /2021/02/25/memento-mori.html
 <img src="http://frostedechoes.com/uploads/2021/1283e27969.jpg"  alt="A Memento Mori" />
 
 <p>The latest episode of the <em>Fountains of Carrots</em> podcast features an interview with Sister Theresa Aletheia Noble, who is the nun <a href="https://twitter.com/pursuedbytruth?s=21">known on Twitter</a> for having a skull on her desk. Sister Theresa regularly meditates on her own death, in the Memento Mori tradition. </p>
-<!--more-->
 
 <blockquote>
 <p>Sister shares with us about how she was drawn to practice the contemplation of death and shares how we can all begin to do this so that we can prepare our hearts and live well rather than navigating the world in dread.</p>

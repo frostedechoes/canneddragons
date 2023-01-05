@@ -2,7 +2,7 @@
 title: "Grayscale Phone"
 date: 2021-05-27 01:46:45 +0000
 Link: /2021/05/26/i-showed-my.html
-categories: tech
+Tags: tech
 ---
 # Grayscale Phone
 
