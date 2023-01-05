@@ -5,7 +5,7 @@ tags: parenting
 
 # Parenting With Music
 
-Back to the subject of stagnant musical tastes and "music was better back then," Ajay Kalia from Spotify [writes about the music taste of parents](http://skynetandebert.com/2015/04/22/music-was-better-back-then-when-do-we-stop-keeping-up-with-popular-music/) for his blog, _Skynet and Ebert_. Kalia looks at listening trends and has identified an inflection point where most people stop listening to much new music: when they become parents. This transition to parenthood is marked by a sudden uptick in listening to children's music. 
+Back to the subject of stagnant musical tastes and "music was better back then," Ajay Kalia from Spotify [writes about the music tastes of parents](http://skynetandebert.com/2015/04/22/music-was-better-back-then-when-do-we-stop-keeping-up-with-popular-music/) for his blog, _Skynet and Ebert_. Kalia looks at listening trends and has identified an inflection point where most people stop listening to much new music: when they become parents. This transition to parenthood is marked by a sudden uptick in listening to children's music. 
 
 {{more}}
 
