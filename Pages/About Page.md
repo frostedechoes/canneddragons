@@ -2,7 +2,7 @@
 
 ![](_microblogs-me.jpeg)
 
-Canned Dragons is a personal web log by a prolific notetaker named [Robert](https://canneddrsgons.net/robert-bio). This site follows the [POSSE](https://indieweb.org/POSSE) "Publish (on your) Own Site, Syndicate Elsewhere" model, which is described as “a content publishing model that starts with posting content on your own domain first, then syndicating out copies to 3rd party services with [permashortlinks](https://indieweb.org/permashortlink) back to the original on your site.” 
+Canned Dragons is a personal web log by a prolific notetaker named [Robert](https://canneddragons.net/robert-bio). This site follows the [POSSE](https://indieweb.org/POSSE) "Publish (on your) Own Site, Syndicate Elsewhere" model, which is described as “a content publishing model that starts with posting content on your own domain first, then syndicating out copies to 3rd party services with [permashortlinks](https://indieweb.org/permashortlink) back to the original on your site.” 
 
 This blog pulls in thoughts from other independent blogs as well as social media accounts and major publishers. The project is an effort to celebrate the earlier days of blogging. 
 
