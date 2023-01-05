@@ -2,15 +2,12 @@
 title: "Female Leads"
 date: 2021-04-21 23:38:04 +0000
 url: /2021/04/21/female-leads.html
-categories:
-- "widescreen"
 ---
 # Female Leads
 
 <img src="http://frostedechoes.com/uploads/2021/b4dbbfbcba.jpg" alt="" />
 
 <p>When Ursula Le Guin wrote the <em>The Tombs of Atuan</em> (published in 1970), the second book in the Earthsea series, female leads in fantasy books were almost nonexistent. It was countercultural for her to include Arha, a young priestess, as the main character. She discusses this in the more recently written afterward to the book. </p>
-<!--more-->
 
 <blockquote>
 <p>These days there are plenty, though I wonder about some of them. The women warriors of current fantasy epics—ruthless swordswomen with no domestic or sexual responsibility who gallop about slaughtering baddies—to me they look less like women than like boys in women’s bodies in men’s armor.</p>

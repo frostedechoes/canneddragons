@@ -8,7 +8,6 @@ Tags: noise
 # Bandcamp Versus Spotify
 
 <p>Damon Krukowski <a href="https://www.npr.org/2020/08/19/903547253/a-tale-of-two-ecosystems-on-bandcamp-spotify-and-the-wide-open-future">writes for NPR</a> about the differences between Bandcamp and Spotify. Though I would expect as much from an independent musician like Krukowski, the piece is not exactly kind to Spotify. Although they are not one of my favorites, Galaxy 500, of which he was a part, are one of the most influential bands of their generation. I would guess all their streams on Spotify have netted them a meager sum. </p>
-<!--more-->
 
 <p>What comes out most profoundly in this piece is the difference in the missions of the two services and how they characterize their businesses. </p>
 

@@ -8,7 +8,7 @@ Tags: tech
 # Mozilla Has All The Cookies
 
 <p>On the <a href="https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/">Mozilla Security blog</a>, the Firefox team details their new implementation of cross-site browsing protection by keeping cookies from each site you visit in their own, separate containers. Firefox has had the ability to use different containers with separate cookies explicitly for some time with their “Containers” feature (I love to use this for testing with different identities on the same site). </p>
-<!--more-->
+
 
 <p>This new implementation will make cross-site tracking much more difficult. You may no longer find yourself wondering how they knew you were looking for a new couch when you see the ads on your favorite news site. This should turn down the creepiness factor of using the internet. </p>
 

@@ -8,13 +8,10 @@ summary: Social media companies are hosting something similar to privately owned
 
 # Inside the Gallery
 
-<div class="postsum">{{entry.metadata.summary}}</div>
-
 <img src="http://frostedechoes.com/uploads/2021/89ef633e03.jpg" alt="Photo by Ruben Ramirez from Unsplash" />
 
 
 <p>I have to admit, I have been somewhat surprised at people arguing against tech companies being able to enforce their terms of service. Working at a software company, I have been involved with our legal representatives in crafting terms of service, and never have I heard a question come up about our ability to enforce said terms. However, with social media, this seems to be coming up fairly often these days. </p>
-<!--more-->
 
 {|<} > The argument for unrestricted rights to post anything on social media seems to stem from a belief that, once a service reaches a certain critical mass, it becomes the property of the people.
 
@@ -33,7 +30,7 @@ summary: Social media companies are hosting something similar to privately owned
 
 <p>I’ve expended a few words to get to the same point, but it’s really that simple. </p>
 
-📷 <a href="https://unsplash.com/photos/LtkVWpOPK9w">Image source</a>
+(📷 <a href="https://unsplash.com/photos/LtkVWpOPK9w">Image source</a>)
 
 
 [^fn1]: Although, less of the “R” part when they just steal features from other platforms. 

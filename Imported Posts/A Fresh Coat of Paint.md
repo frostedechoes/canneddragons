@@ -11,7 +11,6 @@ link: /2021/01/17/a-fresh-coat.html
 </figure>
 
 <p>Approximately annually, around the end of the year, I examine my presence on the web. I mostly focus on blogging. This year, I experimented with the new blogging options on the Medium platform. I like them a lot. The ability to create shorter posts within your timeline is a game changer. The new customization options let your make your blog more personal. Combined with the great support Medium has for embeds through Embedly, the service feels a bit like Tumblr for adults. It's a nice set of tools. Unfortunately, it's still Medium. It thrives on social media staples such as likes (claps) and followers. </p>
-<!--more-->
 
 <p>It didn’t take me too long to remember that the applause economy on Medium is not for me. Nor is the follower count, displayed prominently on your blog as a sort of status symbol. I syndicate my personal blog posts to Medium and consequently I tend to pick up about one follower a week. Some of them seem like they are trying to sell something. One recent follower has a bio that claims he is passionate about writing, but his body of work is nonexistent. Jack Baty succinctly summed up the dynamic that Medium fosters.</p> 
 

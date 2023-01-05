@@ -11,7 +11,6 @@ link: /2021/01/03/the-noise-that.html
 </figure>
 
 <p>For the past 2 years, I’ve been making a playlist for each month. I put together the playlist, throughout the month, pulling tracks from my New Music list on Apple Music, my favorite music blogs and sometimes even rereleases of classic material. As Jason Morehead <a href="https://opuszine.us/posts/my-favorite-songs-2019">wrote of 2019</a>, I always worry that I’m not going to find the same amount of good music as I did in the previous year. </p>
-<!--more-->
 
 <blockquote>
 <p>It’s a silly, completely irrational thought: Shortly after the new year begins, I despair that I’ll find any new music that was as good, beautiful, or evocative as the music I discovered in the previous year. And I’m always wrong. By the year’s end, I’m struck by the amount of incredible music that I’ve heard over the past twelve months, and 2019 was no different.</p>

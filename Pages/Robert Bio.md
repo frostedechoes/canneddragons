@@ -2,6 +2,7 @@
 Title: Robert Bio
 Draft: no
 Menu: no
+Link: Robert-bio
 ---
 
 # Author Bio

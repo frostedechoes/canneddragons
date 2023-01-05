@@ -7,7 +7,6 @@ link: /2021/01/22/these-important-years.html
 
 <p>I don’t know how long I’m going to want to examine the previous four years, at least as we climb our way out of this mud pit. Maybe when we’ve left the pit far enough behind us, we can talk about it on a walk between the oak trees, breathing air that we aren’t afraid is diseased. </p>
 
-<!--more-->
 
 <p>I started a blog post about the beginnings of the Trump days, when any strong objection brought with it the label of derangement. I don’t feel like finishing it now, though. I’ll save it to come back to when my friends who need visas and green cards are past the worry. When the domestic terrorists are far enough underground, I’ll add some more words. </p>
 
