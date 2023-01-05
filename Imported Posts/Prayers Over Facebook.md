@@ -8,7 +8,7 @@ categories: faith
 # Prayers Over Facebook
 
 <p>Facebook has been <a href="https://religionnews.com/2021/04/21/likes-and-prayers-facebook-tests-new-prayer-post-feature/">quietly rolling out a prayer post feature</a> that will let users post prayer requests. The slow roll includes targeting particular users (ones who make their religious preferences fairly apparent, I would imagine). Once the request is posted, other users can respond to the request for prayer.</p>
-<!--more-->
+
 <blockquote>
 <p>Other members can then click a “pray” button to let the original poster know they have prayed for their request. They also can choose a reaction, leave a comment or send a private message to the poster.</p>
 </blockquote>
