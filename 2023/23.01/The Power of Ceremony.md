@@ -1,6 +1,6 @@
 ---
 Title: The Power of Ceremony
-Date: 2022-01-11 18:00
+Date: 2023-01-11 18:00
 Tags: faith
 ---
 
