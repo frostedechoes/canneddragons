@@ -26,5 +26,6 @@
         "Substack",
         "Toppy",
         "Wachs"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
