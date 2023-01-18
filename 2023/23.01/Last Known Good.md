@@ -1,7 +1,7 @@
 ---
 Title: Last Known Good
 Tags: faith
-Date: 01/18/2023 18:00
+Draft: yes
 ---
 
 # Last Known Good
