@@ -15,7 +15,7 @@ This year's release, *Patina*, was included in [Adam Wood's review in his year-e
 
 Plenty of bands have made the 4AD sound and aesthetic their working template, but not all of them are worth mentioning. I once read a review that harshly said something along the lines of, "this band is more of a pale imitation than Pale Saints" (ouch). Tallies doesn't exactly break the mold, but they are interesting in their own right. They also manage to take the formula to new heights on songs like "Catapult," which features a soaring chorus with a tinge of wistful regret. My son is in love with the Cocteau Twins record *Heaven of Las Vegas*, and I would have no problem recommending *Patina* to him.[^1]
 
-•••
+---
 
 The video for "No Dreams of Fayres" isn't super high concept for a dreampop song, but it has all of the right textures, with a dirty Super 8 film grit and plenty of gratuitous light leaks. 
 
