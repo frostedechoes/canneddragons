@@ -10,7 +10,7 @@ I used to have a well-worn VHS cassette of Sonic Youth's tour video, _1991: The 
 
 The song "Heaven's On Fire" by the Radio Dept. starts out with a clip from [the movie](https://youtu.be/LeCYXexOZEg). It's a sample of Thurston Moore from Sonic Youth talking about the record industry. 
 
-<iframe style="border: 0; width: 100%; height: 120px;margin-top: 20px;" src="https://bandcamp.com/EmbeddedPlayer/album=496929372/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1872817936/transparent=true/" seamless><a href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme">Clinging to a Scheme by The Radio Dept.</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=496929372/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1872817936/transparent=true/" seamless><a href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme">Clinging to a Scheme by The Radio Dept.</a></iframe>
 
 In one sense, it's just Thurston being Thurston, spouting off nonsense that sound like a stoner's Doritos-fueled philosophical insights. In another sense, though, he does a fairly good job capturing the zeitgeist of the time: major labels were ruining punk rock. The aging punk rock principle of not "selling out" was being stretched a bit thin after the success of Nirvana's _Nevermind_. How did underground bands take their shot at success and avoid the heavy criticism that came with making it big and potentially making artistic compromises to do it?
 
