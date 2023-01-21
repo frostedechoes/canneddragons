@@ -18,7 +18,7 @@ First, this attitude reflected a fundamental misunderstanding of the new order i
 
 Second, the stance betrayed an ignorance about the nature of immediate after-effects of the acquisition. The firing of thousands of employees was part of the upheaval plan, not some aberration. To believe that the person in charge would abruptly terminate staff in such a sweeping way, but would let your one-sided dependence on the company go unnoticed, is surprising. It's like being in a relationship with someone who was abusive in their previous relationships and thinking they would never behave that way towards you. It usually doesn't work that way. 
 
-If you go to a restaurant on a first date with someone, watch how they treat the wait staff. If they are rude to their server, you can be pretty sure that you are in for the same treatment someday. They might be behaving differently towards you on an initial date, but eventually the behavior is likely to pop up in your interactions with them as well. 
+If you go to a restaurant on a first date with someone, watch how they treat the wait staff. If they are rude to their server, you can be pretty sure that you are in for the same treatment someday. They might be behaving differently towards you on an initial date, but eventually, the negative behavior is likely to pop up in your interactions with them as well. 
 
 ---- 
 
