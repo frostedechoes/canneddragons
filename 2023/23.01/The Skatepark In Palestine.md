@@ -1,6 +1,6 @@
 ---
 Title: The Skatepark In Palestine
-Date: 2023-22-01 18:00
+Date: 2023-01-22 18:00
 Tags: skateboarding
 ---
 
