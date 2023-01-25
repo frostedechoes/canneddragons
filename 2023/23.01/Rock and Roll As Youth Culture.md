@@ -1,5 +1,6 @@
 ---
 Tags: noise, culture
+sticky: yes
 ---
 
 # Rock and Roll As Youth Culture
