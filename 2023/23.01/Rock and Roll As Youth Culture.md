@@ -4,6 +4,8 @@ Tags: noise, culture
 
 # Rock and Roll As Youth Culture
 
+![](_thurston.jpeg)
+
 I used to have a well-worn VHS cassette of Sonic Youth's tour video, _1991: The Year Punk Broke_. It featured a just-experiencing-stardom phase of Nirvana, but that wasn't the reason I watched it over and over. I was more interested in the Sonic Youth and Dinosaur Jr. performances that were recorded at these giant European music festivals. Until Lollapalooza sprang forth from the mind of Perry Farrell, we didn't have bands like Sonic Youth playing huge outdoor venues in North America.[^1] 
 
 {{more}}
