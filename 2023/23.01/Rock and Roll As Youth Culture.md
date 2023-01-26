@@ -1,10 +1,11 @@
 ---
 Tags: noise, culture
+sticky: yes
 ---
 
 # Rock and Roll As Youth Culture
 
-![](_thurston.jpeg)
+![Thurston Moore of Sonic Youth](_thurston.jpeg)
 
 I used to have a well-worn VHS cassette of Sonic Youth's tour video, _1991: The Year Punk Broke_. It featured a just-experiencing-stardom phase of Nirvana, but that wasn't the reason I watched it over and over. I was more interested in the Sonic Youth and Dinosaur Jr. performances that were recorded at these giant European music festivals. Until Lollapalooza sprang forth from the mind of Perry Farrell, we didn't have bands like Sonic Youth playing huge outdoor venues in North America.[^1] 
 
@@ -14,7 +15,7 @@ The song "Heaven's On Fire" by the Radio Dept. starts out with a clip from [the 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=496929372/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1872817936/transparent=true/" seamless><a href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme">Clinging to a Scheme by The Radio Dept.</a></iframe>
 
-In one sense, it's just Thurston being Thurston, spouting off nonsense that sound like a stoner's Doritos-fueled philosophical insights. In another sense, though, he does a fairly good job capturing the zeitgeist of the time: major labels were ruining punk rock. The aging punk rock principle of not "selling out" was being stretched a bit thin after the success of Nirvana's _Nevermind_. How did underground bands take their shot at success and avoid the heavy criticism that came with making it big and potentially making artistic compromises to do it?
+In one sense, it's just Thurston being Thurston, spouting off nonsense that sound like a stoner's Doritos-fueled dorm room philosophical insights. In another sense, though, he does a fairly good job capturing the zeitgeist of the time: major labels were ruining punk rock. The aging punk rock principle of not "selling out" was being stretched a bit thin after the success of Nirvana's _Nevermind_. How did underground bands take their shot at success and avoid the heavy criticism that came with making it big and potentially making artistic compromises to do it?
 
 > Thurston [to fan](#): People see rock and roll as youth culture and when youth culture becomes monopolized by big business, what are the youth to do? Do you have any idea? I think we should destroy the bogus capitalist process that is destroying youth culture by mass marketing and commercial paranoia behavior control - and the first step is to destroy the record companies. Do you not agree?
 
