@@ -4,7 +4,7 @@ Tags: noise
 
 # American Shoegaze
 
-![](_knifeplay.jpeg)
+![Knifeplay](_knifeplay.jpeg)
 
 The [recent piece on the new wave of American shoegaze in Stereogum](https://www.stereogum.com/2209014/the-new-wave-of-american-shoegaze/columns/sounding-board/) is nothing if not exhaustive. Spanning obscure sub-genres and scenes, it shone a light on some of the mostly heavier U.S. based bands carrying on the tradition of outfits like Catherine Wheel and Ringo Deathstarr. The piece demanded a desire to dig deep and attention span to match that ambition. I spent some time this week going through the bands. It was not time wasted. Though I didn't come out of the exercise with a lot of new favorite music, I did benefit from hearing how the upcoming crop of bands was bending old sounds. 
 
