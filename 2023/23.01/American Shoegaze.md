@@ -1,5 +1,6 @@
 ---
 Tags: noise
+Sticky: yes
 ---
 
 # American Shoegaze
