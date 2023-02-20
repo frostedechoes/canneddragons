@@ -1,6 +1,6 @@
 ---
 Tags: friday night video, noise
-Thumbnail: /2023/Ring of Past.jpeg
+Thumbnail: _Ring of Past.jpeg
 ---
 
 # Ring of Past
