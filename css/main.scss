@@ -253,7 +253,7 @@ time {
 
 .post-author-and-time {
   color: var(--light-text-color);
-  margin-top: calc(.125 * var(--line-height));
+ /* margin-top: calc(.125 * var(--line-height)); */
   font-family: $heading-typeface;
 }
 
