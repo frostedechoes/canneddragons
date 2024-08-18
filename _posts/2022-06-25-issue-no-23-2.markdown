@@ -1,0 +1,105 @@
+---
+layout: post
+title: Issue No. 23
+date: '2022-06-25 15:00:07'
+tags:
+- newsletter-1
+- newsletter
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+The heat is on. While we have successive heat waves sweeping across the U.S., I'm thinking about a conversation with a colleague who is from India. People there used to keep doors and windows open a lot of the time, but now they can't because it's just too hot. Remembering _that_ conversation brings to mind [a column Ezra Klein recently wrote](https://www.nytimes.com/2022/06/05/opinion/climate-change-should-you-have-kids.html) about climate change.
+
+> Over the past few years, I’ve been asked one question more than any other. It comes up at speeches, at dinners, in conversation. It’s the most popular query when I open my podcast to suggestions, time and again. It comes in two forms. The first: Should I have kids, given the climate crisis they will face? The second: Should I have kids, knowing they will contribute to the climate crisis the world faces?
+
+At first, it really seemed inconceivable that so many people are worried about bringing children into the world because of climate change. Then you think about the temperatures that India has been facing, and it starts to actually make some sense. The environment is becoming inhospitable to human life in certain places, and it is happening fairly rapidly. However, Klein is ultimately right to caution against this type of thinking.
+
+Here's to summer!
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2022/06/climate-change.jpg" class="kg-image" alt="A scorched looking Earth" loading="lazy"><figcaption>Image source: <a href="https://flic.kr/p/dTBdeF">Frank van Dongen</a></figcaption></figure>
+
+* * *
+
+### One Thousand True Fans
+
+Cal Newport recently wrote about the return of the 1,000 True Fans model. Years ago, techno-optimist and co-founder of Wired Magazine, Kevin Kelly, came up with the idea that creators would be able to make a living online if they could accrue one thousand true (read: passionate) fans. The idea was lauded by some and doubted by others, such as Jaron Lanier. Then came social media and the idea that once seemed far-fetched became even more so, as people started migrating to siloed platforms and letting their creativity drive the growth of those platforms. Things seem to be shifting, though.
+
+> Changing attitudes toward social media created another breakthrough for the 1,000 True Fans model. In 2008, few people seemed interested in venturing beyond the social-media ecosystem, because this was where much of the excitement about the Internet was concentrated. As I learned from personal experience, to have expressed skepticism about these platforms during this period was seen as regressive and eccentric. In the aftermath of the 2016 Presidential election, these attitudes radically shifted. For different reasons, both sides of the political spectrum began to immensely distrust the platform monopolies. The algorithmically curated streams that had once seemed so futuristic suddenly became Orwellian. Today, it’s not only acceptable to move more of your online activities beyond the walled gardens of social media—it’s celebrated.
+
+New(ish) platforms such as Substack or Ghost (the open source software that powers this newsletter) have enabled creators to start making living wages from independent of their content. Making a living off your newsletter still seems slightly less likely than becoming a sports star, but as Newport details, it is happening for some.
+
+→ [The Rise of the Internet’s Creative Middle Class](https://www.newyorker.com/culture/culture-desk/the-rise-of-the-internets-creative-middle-class)
+
+* * *
+
+### Star Wars Fans Experience A New Emotion: Happiness
+
+Mark Serrels rounds up coverage of _Obi-Wan Kenobi_ for CNET. His assessment is that the consensus among real Star Wars fans (not racists) was that it was a compelling miniseries. Serrels has been critical of some moves Disney has made with Star Wars, but thinks they got it right this time.
+
+> Disney's need to endlessly plug the gaps in Star Wars' increasingly rigid meta-narrative has always felt strange. A universe that once felt awe-inspiring and gigantic was rendered as tiny as a snow globe. But Obi-Wan Kenobi felt like a story worth telling, a story that created connective tissue all Star Wars fans could resonate with. A story that everyone – with their own unique ideas about what Star Wars should _be_ – could get behind.
+
+I agree with Serrels and others who have stated that the creative forces behind Star Wars have done the difficult job of making a massive galaxy seem too small and centered around a select few characters. I'm skeptical of the desire to fill in every gap left in the movies. However, this series accomplished something I thought wasn't possible — it made me reconsider the prequels in a more positive light. The transition of Anakin to Darth Vader feels a lot more fleshed out and not as forced. I honestly wasn't totally ready to accept the end of _Revenge of the Sith_ as the final, canonical, battle that finished things between Anakin and Obi-Wan. Thanks to this series, I didn't have to.
+
+I give props to the writers and cast for making another thoroughly enjoyable romp through a galaxy far, far away.
+
+→ ['Obi-Wan Kenobi' Did the Impossible: It Made All Star Wars Fans Happy](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-did-the-impossible-it-made-all-star-wars-fans-happy/)
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2022/06/jtf-007483_r_977d9c12.jpeg" class="kg-image" alt="Reva from Obi-Wan Kenobi" loading="lazy"><figcaption>Image source: <a href="https://www.cnet.com/culture/entertainment/obi-wan-kenobi-did-the-impossible-it-made-all-star-wars-fans-happy/">Disney</a></figcaption></figure>
+
+* * *
+
+### Getting A Life
+
+In this piece from last year, Anthony Pascale catches us up-to-date on the controversial Star Trek SNL skit from 35 years ago.
+
+> In December 1986—one month after the release of _Star Trek IV: The Voyage Home—_William Shatner hosted an 8th season episode of NBC’s _Saturday Night Live_. One of the skits, called “Star Trek Convention”—but more often known as the “Get a Life” skit—poked fun at fans at Star Trek conventions. The skit (which you can see below) was written by SNL mainstay Robert Smigel with help on the nerdy details from SNL staff writers Jon Vitti and George Meyer.
+
+I loved that skit when I was a kid, not realizing that some people might actually take offense at the stereotypes. After Rod Roddenberry criticized the skit in an interview, Shatner shot back that this was _presentism_ (applying current values to things done in the past when values were different). I'm not sure it qualifies, but if it does, Rod would be in good company as presentism abounds these days.
+
+→ [William Shatner Defends 1986 “Get a Life” SNL Skit After Criticism From Rod Roddenberry](https://trekmovie.com/2021/09/06/william-shatner-defends-1986-get-a-life-snl-skit-after-criticism-from-rod-roddenberry/)
+
+* * *
+
+### Useful Journaling Constraints
+
+Dan Alcantara writes about how keeping a small notebook helps him to control his expectations of the number of things he can get accomplished in a day.
+
+> Which finally leads me to the reason I placed a picture of a small notebook at the top of this post. My pastor told me about a colleague of his who kept a very small diary. When asked about it, he said it was a means of stress control. A small diary means that there is only so much that can go into it. There are only so many meetings that can happen and there are only so many tasks that can be done.
+
+I've never thought of this method of setting expectations with truly physical limitations.
+
+→ [The Constrained Freedom of a Small Diary](https://www.danalcantara.me/the-constrained-freedom-of-a-small-diary/)
+
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /you-will-know-a-tree/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">You Will Know A Tree</div>
+<div class="kg-bookmark-description">How should believers from a church carry out their lives in society?</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/06/Mountains-Plain.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/06/orange-tree.770082c6ac3e4a0e8f56bbf8a6f5a57c-1.jpg" alt=""></div></a></figure><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /ironsworn-starforged/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Ironsworn: Starforged</div>
+<div class="kg-bookmark-description">A new tabletop RPG promises to bring an immersive sci-fi setting and innovative rules.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/06/Mountains-Plain.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/06/IMG_0847.85cda6a2b53f44adbc8eee1fd5174089-1.jpeg" alt=""></div></a></figure><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /janky-star/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">🎵 Janky Star</div>
+<div class="kg-bookmark-description">This album stays together like a glued collage despite the diversity of sounds.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/06/Mountains-Plain.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/06/janky-star.5a8abf8d5c86470ebc3b93b13745a952-1.jpg" alt=""></div></a></figure>

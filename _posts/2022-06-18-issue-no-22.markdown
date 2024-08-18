@@ -1,0 +1,110 @@
+---
+layout: post
+title: Issue No. 22
+date: '2022-06-18 02:04:36'
+tags:
+- newsletter-1
+- newsletter
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+I sent out a note last Sunday about switching my blogging to a self-hosted solution. It was a lot of work getting things setup, but once I did, I felt like I was good to go. Then, as soon as I sent out a newsletter about the change, I started having numerous issues with reliability, availability, and performance. Those were mitigated by increasing my hardware and putting a proxy in front of the blog.
+
+I later tried to make some tweaks to my theme. My version of Gulp (the package manager) became corrupted, and I couldn't package my changes into the theme. I spent quite a bit of time trying to straighten that out and never was able to get my machine clean enough to eliminate the issues.
+
+Thanks to a kind reader, I found out that my emails were going to junk mail, so I was tweaking email settings, but I wasn't getting consistent results. I tested with my wife and she was still getting messages thrown into her junk mail. What good is a newsletter if no one sees it? You all will have to let me know if this email breaks through to your inboxes.
+
+Thursday, I got a notice of a critical vulnerability in my version of Ghost after work, and patching my virtual server was about the last thing I wanted to do. Let's just say I'm losing my enthusiasm for self-hosting. Will I ever learn my lesson? I'm going to give it a bit longer and see if I can work out the kinks.
+
+I can't complain about this week in general, though. It has been productive. I'll be officially increasing my work hours next week, although typically, I am working the additional hours anyway (just not getting paid for them). I'm tremendously grateful to be where I am after going through such a difficult time with my health these last few years. You never know what you've got until it's gone, and I'm less likely to take the little things for granted these days.
+
+I've been attending an Orthodox Christian church lately and I have two posts in draft mode about my thoughts, but they just haven't quite come together the way that I would like. I'm hoping to fill in the gaps and publish them soon.
+
+Or I could follow [this advice](https://twitter.com/revtimcallow/status/1537770824807104512?s=21&t=KCCxX7yZmDtLdcMishFoyg)…
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/06/mcmahon-tweet@2x.png" class="kg-image" alt loading="lazy"></figure>
+* * *
+
+## Independent Social Media
+
+I have been thinking recently about trying out federated social media site Mastodon. I'm interested in non-algorithmic microblogging and solutions that don't actively attempt to antagonize me. Cherie Baker recently joined Mastodon and has some good things to say about her experience.
+
+> To my surprise, I like it! Mastodon + blog feels like a comfortable setup. In truth, shoehorning Twitter-like activity into a blog format always felt awkward to me. I’m not going to “live tweet” a movie on my blog, there are no silly gifs conversations here, and my blog has no good options for ephemerality other than lots of manual deletions.
+
+I can relate to it feeling awkward to fit tweet-size posts into a main blog. It makes some sense to keep short updates separate. I also learned about features that I didn't know existed in Mastodon from Baker's post — such as the ability to set posts to auto-delete unless you mark them for retention. That pairs well with the transient nature of many microblog posts.
+
+I'm just not sure that I need a service that is such a direct Twitter replacement, though, so I'll think before I leap into another pond.
+
+→ [A Return to Social Media | Hypertext.monster](https://hypertext.monster/2022/06/13/a-return-to.html)
+
+* * *
+
+## The Failings of San Francisco
+
+This article by Nellie Bowles about the downfall of San Francisco and how it precipitated the ouster of DA Chesa Boudin was so fascinating I could hardly put it down. It has the narrative style of an engrossing book. Bowles provides a cautionary tale of what can take place when left-leaning city politics get out of control.
+
+> What happened to the man at the Safeway, what happened to Dustin Walker—these are parables of a sort of progressive-libertarian nihilism, of the belief that any intervention that has to be imposed on a vulnerable person is so fundamentally flawed and problematic that the best thing to do is nothing at all. Anyone offended by the sight of the suffering is just judging someone who’s having a mental-health episode, and any liberal who argues that the state can and should take control of someone in the throes of drugs and psychosis is basically a Republican. If and when the vulnerable person dies, that was his choice, and in San Francisco we congratulate ourselves on being very accepting of that choice.
+
+Bowles also touches upon the ouster of the school board members. The story about how the members tried to outdo each other with how many boxes of intersectionality they could check off was bananas.
+
+→ [How San Francisco Became a Failed City | The Atlantic](https://www.theatlantic.com/ideas/archive/2022/06/how-san-francisco-became-failed-city/661199/)
+
+* * *
+
+## Going Into Safe Mode
+
+Rebecca Schuman gives advice for those dealing with Long-Covid that could benefit almost anyone with chronic illness. She recommends listening to your body and going into "safe mode" when your energy is down.
+
+> Everyone over the age of 35 remembers what used to happen when the old-school PCs went on the fritz and the dreaded “blue screen of death” occurred: If you could actually get your PC working again, it often went into safe mode, in which only a fraction of the programs worked, the font was 19 point, and the screen went as pixelated as the original Super Mario Bros. The computer had the good sense to let us know that anything over and above its absolute basic level of functionality would cause it to melt into goo. So, too, might be the case with you.
+
+That means no video drivers!
+
+→ [A Realistic Work Strategy for the Long-Covid Crowd](https://www.chronicle.com/article/a-realistic-work-strategy-for-the-long-covid-crowd)
+
+🔗 via [Kimberly Hirsh](https://kimberlyhirsh.com/)
+
+* * *
+
+## Writing Instead Of Talking
+
+I wrote recently about how I'd prefer to express my views about a given subject by writing about them. It's easier for me to write about something in a blog post and then point people to that blog post than to discuss the subject in conversation. If the subject is something in which I'm interested, I can be effusive, talking too much and not being appropriately succinct. If it's something that aggravates me, I can get too angry.
+
+Becca Rothfeld goes a bit farther with this mentality.
+
+> Who in their right mind would want to talk, much less listen, to a person who has contrived to spend as much of her life as possible crouched over her computer in isolation, deleting unsatisfactory variants of a single sentence for upwards of an hour? Nothing in my daily practice has prepared me for the gauntlet of a tête-à-tête. Writing is an antidote to the immediacy and inexactitude of speech, and I resent any attempt to drag me back into the sludge of dialogue.
+
+I'm not totally averse to wading into "the sludge of dialog," but many times I'd rather go through the calculations necessary to write out my thoughts.
+
+→ [Writers Shouldn't Talk | Gawker.com](https://www.gawker.com/culture/writers-shouldnt-talk)
+
+* * *
+
+## Spotify Passes Apple In Monthly Podcast Listeners
+
+Aakash Gupta has a detailed piece on the history of podcasting. He goes into how Spotify has been able to pass Apple, the first name in podcasts, almost since audio feeds were added to RSS enclosures.
+
+> Just three years later, the efforts have borne fruit. Spotify just passed Apple for monthly active podcast listeners, and it is set to vastly outgrow Apple over the coming years. By 2023, analysts expect Spotify to have 30% more MAU than Apple.
+
+I have to say I'm a bit surprised by the data, skeptical of the projections, and hopeful that Spotify will not stay the leading podcast provider for long. I have my beefs with Apple, but The Spotify ecosystem is not a good place for the majority of podcast content to end up.
+
+→ [How Spotify Stole Podcasts From Apple | Product Growth](https://www.aakashg.com/2021/12/14/spotify-podcasts-apple/)
+
+* * *
+
+## Friday Night Video
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /decades-and-dreams/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">🎵Decades and Dreams</div>
+<div class="kg-bookmark-description">A sweet and fun video accompanies a wistful and nostalgic dreampop track.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/06/Mountains-Plain.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/06/bathe-alone.3978a0fb9da146618144c945a36eaf81.png" alt=""></div></a></figure>

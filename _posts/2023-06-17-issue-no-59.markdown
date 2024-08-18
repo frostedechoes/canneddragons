@@ -1,0 +1,97 @@
+---
+layout: post
+title: Issue No. 59
+date: '2023-06-17 21:00:14'
+tags:
+- newsletter-1
+- newsletter
+- hash-import-2023-08-31-00-31
+- hash-robert-2
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+It has been an eventful week in the news, with the former president and his cadre of criminals coming under indictment. NYT columnist Ross Douthat has taken the opportunity to answer some questions about the expected Republican presidential nominee.
+
+> **What matters most about him as a presidential candidate?**
+
+> **Douthat:** That his second term was foretold in the Necronomicon, written in eldritch script on the Mountains of Madness and carved deep, deep into the white stones of the Plateau of Leng.
+
+> **What do you find most inspiring — or unsettling — about his vision for America?**
+
+> **Douthat:** I believe that before the sixth seal is opened, the sun becomes black as sackcloth and the moon becomes of blood, he will deliver more winning than we have ever seen, and I look forward to it.
+
+Via [Intellectualoid.com](https://intellectualoid.com/2023/06/17/saturday-6-17-23/)
+
+* * *
+
+The privacy-focused browser Brave just released [a public version of the app with vertical tabs](https://brave.com/vertical-tabs/).
+
+> The more horizontal tabs you have open, the smaller and more squished they become—often to the point of not being able to read any text on the tab. Vertical tabs, however, provide much-needed breathing room, allowing for more information to be displayed at a glance, so you can find the tab you’re looking for faster.
+
+I've been waiting for this development for some time, and it makes Brave a contender for my browser of choice. However, it does affect which themes you can use. Brave just sends you to the Chrome store to get themes. The issue is that those themes aren't built with vertical tabs in mind, so they usually don't look good, and you're stuck with the default theme. Hopefully, someone will adapt some Chrome themes in the future to take advantage of the new functionality.
+
+* * *
+
+Some of you will know of my quest to spend less of my discretionary time with the terminally online and more of it reading and playing video games. When I was working at a video game store in my early twenties, I was a big fan of turn-based RPGs. My friend had me pigeonholed as someone who liked games with little elves running around everywhere. So, it's no surprise the game [Sea of Stars](https://seaofstarsgame.co/), an old-school styled turn-based RPG in the style of a game like _Chrono Trigger_ (and featuring the same score composer), is pretty appealing to me.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2023/06/sea-of-stars.png" class="kg-image" alt loading="lazy" width="640" height="360" srcset=" __GHOST_URL__ /content/images/size/w600/2023/06/sea-of-stars.png 600w, __GHOST_URL__ /content/images/2023/06/sea-of-stars.png 640w"></figure>
+
+Gamespot [reports that Sea of Stars will be available on Xbox](https://www.gamespot.com/articles/sea-of-stars-adds-xbox-one-and-xbox-series-x-s-versions-for-launch-day/1100-6512381/) — my son's preferred console of choice — and other platforms on 8/29.
+
+* * *
+
+Anna Lembke has a problem with her kid not wanting to stop watching cartoons when it's time for bed. She [writes about the powerful effects of dopamine for NPR](https://www.npr.org/sections/health-shots/2023/06/12/1180867083/tips-to-outsmart-dopamine-unhook-kids-from-screens-sweets) and how you can counter those effects by knowing what you are up against.
+
+> "People have this idea that, 'Oh, well, if I let my kid play as many video games as they want or be on social media as much as they want, they'll get tired of it.' And in fact, the opposite happens," Lembke says. Research indicates that over time, some people's brains can actually become more sensitive to the dopamine triggered by a particular activity. And therefore, the more time a person spends engaged with this activity, the more they may crave it — even if the activity becomes unpleasurable.
+
+I really need a technique to curb my youngest son's craving for video games, so I'm going to be keeping these facts in mind when dealing with the issue.
+
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://www.npr.org/sections/health-shots/2023/06/12/1180867083/tips-to-outsmart-dopamine-unhook-kids-from-screens-sweets"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">‘Anti-dopamine parenting’ can curb a kid’s craving for screens or sweets</div>
+<div class="kg-bookmark-description">Dopamine is a part of our brain’s survival mechanism. It is also part of why sugary foods and social media hook kids. The latest neuroscience can help parents help their kids manage behavior.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" alt=""><span class="kg-bookmark-author">NPR</span><span class="kg-bookmark-publisher">Michaeleen Doucleff</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src="https://media.npr.org/assets/img/2023/06/07/miotke_npr_final_print_wide-a40a0a7b14ed8680a112bc16626b6d4508390dc8-s1400-c100.jpg" alt=""></div></a></figure>
+* * *
+
+Robbie Punarich writes about what was, literally, [his first trip to the rodeo](https://robertsapunarich.substack.com/p/prayer-at-the-rodeo). He witnessed the mingling of patriotism and prayer and found himself feeling a bit on the defensive.
+
+> I'm a believer in the liberal ideals on which our nation was founded — individual liberty, rule of law, and equal treatment under that law — but liberalism's universal appeals have always been haunted by their tenuousness. This is especially true when its claims have no greater authority to which they can appeal. That is perhaps why John Adams said, "Our Constitution was made only for a moral and religious People. It is wholly inadequate to the government of any other." Adams's intuition may account for the appeal of what is commonly called "Christian Nationalism".
+
+Punarich wrestles with the tension between the haunting specter of Christian Nationalism and a recognition of the power of faith and faith to shape us (and our civic engagement) in positive ways. It's a tension not easily resolved, but the direction from St. Paul to "pray for everything, including those with charge of our political life" seems like a good start. At my church, we pray for "the president, armed forces and civil authorities" several times at every service, and it gives me a measure of comfort. I like the feeling of petition for the common good of the people of our nation, without getting into political idolatry.
+
+* * *
+
+I found [this article by Rani Molla about how the Tulsa Remote program is going](https://www.vox.com/technology/23751642/tulsa-remote-community-future-work) — 5 years in — to be pretty fascinating. My mom is from Tulsa and I still have some top shelf relatives who live there. In 2018, Tulsa Remote started offering $10k to remote knowledge workers who settled down there. It piqued my interest at the time, but of course, I wondered how well the program would work. Quite well, it seems. Tulsa appears to be having a sort of revival, the kind of which can be measured partially by rising home prices, as well as other positive quality of life indicators. Previously, the city was on the decline.
+
+> But in the latter half of the century, oil capitals moved elsewhere, highways were built around downtown, and people left for the suburbs and brighter cities. Tulsa has dealt with years of population stagnation as a result. The city lost its vibrancy, its economic strength, and many of its young people.
+
+The program wisely uses technology to attract and retain the technology-literate group of remote workers. A main component of the glue that holds the new residents together (90% stay past the mandatory period for the cash award) and gives them a sense of community is Slack.
+
+> But what’s perhaps most integral to building the community is much more quotidian: Slack. This software platform is best known for helping coworkers communicate from anywhere, but in this case, it helps people in the program connect with their new neighbors. When someone is accepted into Tulsa Remote and schedules a visit, they’re allowed to join five introductory Slack channels, where they can begin talking to existing members. Once they’ve joined the program, they’re privy to 160 such channels, which cater to a variety of interests and purposes, from parents with kids in certain age groups, to book and biking clubs, to a marketplace channel akin to Craigslist. The channels have guidelines and 10 community moderators to make sure nothing goes off the rails. People seek advice, invite others to join them at concerts, and organize community service.
+
+I work in a hybrid environment, with a couple of days in the office, but if I was fully remote, I can honestly say that this sort of arrangement would be an appealing option.
+
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://www.vox.com/technology/23751642/tulsa-remote-community-future-work"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Tulsa will pay you to live there. And you’ll love it.</div>
+<div class="kg-bookmark-description">Remote workers came for the cash. They stayed for the community.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png" alt=""><span class="kg-bookmark-author">Vox</span><span class="kg-bookmark-publisher">Rani Molla</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src="https://cdn.vox-cdn.com/thumbor/gincecTKG-HTP2I6_jDUArWeluY=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24709484/R2_PaigeVickers_Tulsa.jpg" alt=""></div></a></figure>
+* * *
+
+Open Culture [has the story of Madonna's late 70s post-punk band](https://www.openculture.com/2023/06/hear-demos-of-madonna-performing-punk-songs-1979.html), The Breakfast Club. The band rips through 4 demo tracks in 8 minutes and really captures the energy and dynamics of the New York post-punk scene. Madonna plays drums as well as having vocal duties in the band, so she's got cred here. The band couldn't contain the future superstar, though, as she always had the blonde ambition to be famous.
+
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/c6jBID2G-qM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Madonna &amp; The Breakfast Club 1979 Album (Rare)"></iframe></figure>
+
+With the exception of the last track, I dig these tunes and wish they had benefitted from a proper recording session and release.
+
+Via [Kottke](https://kottke.org/23/06/before-she-was-famous-demo-tape-of-madonna-performing-with-her-post-punk-band)
+

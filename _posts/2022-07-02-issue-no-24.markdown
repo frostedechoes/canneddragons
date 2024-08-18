@@ -1,0 +1,124 @@
+---
+layout: post
+title: Issue No. 24
+date: '2022-07-02 15:00:11'
+tags:
+- newsletter-1
+- newsletter
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+The U.S. has been shaken by the repeal of the judicial precedent set by the Supreme Court in Roe v. Wade. If you spend any amount of time online, you can't escape opinions on the subject. It's remarkable how many people quickly become subject-matter experts about the topic of the latest topic du jour. The leaked draft of the ruling was partly the impetus for me to write [this blog post]( __GHOST_URL__ /less-is-more/) a couple of months ago. I explained why it can be so difficult to compile a digest style newsletter in the climate of perpetual outrage.
+
+> I want to continue to read about these issues, I’m just not sure that I wish to write about them. Even in the vastness of the World Wide Web, escaping “the outrage” and reading and writing about something different can be difficult. So, I’m going to slow down on link posting in the way that I have been doing it. I’ll still be blogging. I just don’t want to commit to a weekly email, in case, on any given week, I just can’t find enough that I want to write about. At least not enough to write about without getting sucked into the outrage.
+
+I came back to publishing these newsletters because I really enjoy it and people have told me that they've found benefit in them. However, I'm once again wondering if this is sustainable. I have had to step back from social media — this time including Micro.blog. As people have become more comfortable with the medium, the tone of discourse has changed there. People are posting about politics more, and the posts are usually shrill and reactive. Micro.blog is no longer qualitatively very different from Twitter. I've had to stop following so many people that my timeline is looking a little thin. I'll be writing a bit more about this in a proper blog post. Mastodon seemed like an appealing service to check out, but who needs another social media site to read people complaining about the same things?
+
+I have certainly found some edifying thoughts on the subject of abortion, which I have included in this newsletter, but I won't make that a regular subject of discussion. There is enough of that to go around. Most of the discussion is being led by the most radical voices, who tend to be the same people who spend a lot of time online (especially on social media). I've [posted about my respect for Elizabeth Bruenig]( __GHOST_URL__ /smashing-political-binaries/) before. If you want to see the worst of humanity, just look up "Bruenig" on Twitter.
+
+I'm hoping to get my family to go to church with me on Sunday. Last weekend, when I got home from church, my wife was watching a show called, "How To Marry A Stripper." So, we have some things to work on.
+
+* * *
+
+### Seven Types Of Rest For Exhaustion
+
+Emma Beddington found herself dealing with massive fatigue and brain fog that wasn't going away. She decided to explore a book that promises to help someone rest in ways other than just sleeping.
+
+> The book is not, in fact, about that kind of complete withdrawal; it is about incorporating enough moments of rest to stay functional. That may be a depressing indictment of end-stage capitalism: Dalton-Smith is thoughtfully critical of society’s inability to take a preventive approach to its “burnout culture”, commoditising sleep (“It’s a billion-dollar industry, we have speciality pillows, weighted blankets, all of this stuff”) rather than focusing on the root problem. It is, however, refreshingly realistic. I gave the seven types of rest a whirl over a week, to see whether I would feel less tired – whatever that actually means – afterwards.
+
+As someone who has struggled with debilitating post-viral fatigue and is recovering, the prescriptions for rest in this book sound helpful.
+
+"Sure, we can sleep when we’re dead, but a little rest before that would be nice."
+
+→ [The Seven Types of Rest: I Spent a Week Trying Them All | The Guardian](https://www.theguardian.com/lifeandstyle/2021/nov/25/the-seven-types-of-rest-i-spent-a-week-trying-them-all-could-they-help-end-my-exhaustion)
+
+* * *
+
+### A Lifetime Of Games Stolen
+
+Justin Heckert writes about the owner of a trade-in games store, Jason Brassard, who amassed a giant collection of rare video games in mint condition. Brassard took enormous pride in showing off his collection — until it was stolen and then recovered in poor condition.
+
+> “Every single game that was in the safe was very _deliberate,_” Brassard says. “I had the ultimate copies of those games, I had really sought them out over the years. They were in there for a _reason._ I identified with those games. Like…people know _Jason_ owns those games that no one else has. And I shared them. I had archived them, preserved them.” It felt, he said, “like a tragedy for the video game community more than anything.”
+
+Not to spoil the ending, but Brassard couldn't enjoy his games in the same way after the theft, and after they had been roughed up.
+
+> Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal. (Matthew 6:19-20)
+
+→ [Jason Brassard Spent His Lifetime Collecting the Rarest Video Games | Vanity Fair](https://www.vanityfair.com/style/2022/06/rare-nintendo-atari-games-stolen)
+
+* * *
+
+### Late-Stage Capitalism and Abortion
+
+Jake Meador [writes about](https://mereorthodoxy.com/the-violence-we-cant-live-without/) the easy acceptance of violence that is cheap and costs us nothing, so we allow violations of conscience instead of taking on the burden of caring.
+
+> To take one example: A pathetic number of large firms in our nation have, since Friday’s SCOTUS ruling in _Dobbs_, said that they will provide funds to their employees who need to travel out of state to secure an abortion. Others have even said they will pay the relocation costs for any employees wishing to move out of a pro-life state. The reality behind this apparent “generosity”? An abortion is cheaper than maternity leave. As one of our contributors observed on Twitter over the weekend, [it’s worth asking](https://twitter.com/myleswerntz/status/1540789763061551107) why so many firms with abysmal histories in labor practices are the first in line to pay for abortions.
+
+He raises some legitimate questions about why large corporations are so eager to encourage women to have abortions. Financial gains are an easy place to look when determining the motivations of companies who, first and foremost, are beholden to deliver profits to their stakeholders. Meador goes on to cite our treatment of farm animals as another example of where we choose expediency over care.
+
+Leah Libresco Sargeant [writes in Other Feminisms](https://otherfeminisms.substack.com/p/discussing-dobbs-with-the-nyt) how she expressed a similar sentiment to Meador when she appeared on a New York Times podcast to discuss the aftermath of the Dobbs decision.
+
+> So it's true, you can look around and say, our culture has no room for the vulnerable. It doesn't have room for babies who are vulnerable and it doesn't have room for women who are vulnerable. So abortion is a crutch that lets us navigate that hatred of dependence that's pervasive in our culture. I think it's one more mark of a sexist society that we take the burdens we put on the vulnerable, then lay them heavily on women and demand an act of violence to have equal access to society.
+
+Dependence requires care and effort. It is not efficient, materially profitable or pleasurable, so it goes against our contemporary societal values. If you require violence in order for women to be a part of your community, you are doing community wrong. If you require horrible treatment of animals in order for people to have low-cost food to eat, you are doing food wrong. Violence shouldn't be the cost of entry.
+
+_Now, if only our Supreme Court would take a consistent stand on stewardship._
+
+* * *
+
+### Running Doom On Furniture
+
+Michael Kan reports for PC Magazine on a project where software engineer Nicola Wrachien was able to prove the concept of running the old PC game Doom on an Ikea Smart Lamp.
+
+> The project marks the latest attempt to run Doom on a non-PC platform, which has included iPods, [treadmills](https://www.reddit.com/r/itrunsdoom/comments/e1v310/the_treadmill_at_my_school_runs_doom/), and classic console gaming systems. Wrachien says his own work could be used as a starting point to “port Doom to almost any microcontroller featuring enough flash and at least 108 kB of RAM,” so long as the chip has enough processing power.
+
+Guess the lamp _is_ actually pretty smart.
+
+→ [You Can Run Doom on a Chip From a $15 Ikea Smart Lamp](https://www.pcmag.com/news/you-can-run-doom-on-a-chip-from-a-15-ikea-smart-lamp)
+
+* * *
+
+### 🕹 Summit Kingdom
+
+[Laysara: Summit Kingdom](https://quiteokgames.com/) is an upcoming strategy game by Quite OK Games that has you building and sustaining a kingdom on the side of a mountain.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/07/LaysaraSummitKingdom_Mountain2.jpg" class="kg-image" alt loading="lazy"></figure>
+
+I don't play many video games these days, but when I do, it's usually because the game presents a world that I want to inhabit. A place that has intrigue or beauty. Managing a mountainside kingdom like a Tibetan Prince has enormous appeal to me. I could practically spend all day just looking at screenshots of these carefully built civilizations from a bird's-eye view. The fact that the game isn't concerned about defeating invading armies or invading other kingdoms is a plus for me. I can't forget those blood-curdling screams the orcs would make in Warcraft when they were coming to trash the buildings you had created. Laysara focuses mainly on staving off and surviving natural disasters (like avalanches — this is set on a mountain, after all) and kingdom management.
+
+> Establishing a flourishing city in harsh upland conditions is not an easy feat. Adjust your build strategy to gameplay-affecting vegetation zones and expand to more distant mountain slopes to reach scarce resources. Carefully plan production chains and satisfy various needs of your three-caste society while dealing with mountain hazards such as weather breakdowns and avalanches!
+
+If only I had a Windows machine so I could play this!
+
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/SyJnA_mehI0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Laysara: Summit Kingdom - PC Gaming Show 2022 Trailer"></iframe></figure>
+* * *
+
+### Missing Online
+
+John Carey, who has slowed his blogging considerably over the years, reflects on why he's not online more.
+
+> My biggest problem right now is still the act of trying to find enough confidence to share much of anything online. It feels like the older I get, the more alienated I feel within the online world. A lot of it has to do with its shifting focus and our lack of attention as trends in social media have moved to quick, rapid engagement. The tiny spike of adrenaline we get as images zip past our eyes for a few seconds and, like a slot machine, we pull down for more, and more, and more, until time and thought mean not much of anything. We blink. and look up from our phones with that dazed, cloudy look in our eyes, and try to focus on reality.
+
+Carey is an amazing photographer, who often used to share his photos as desktop wallpapers. His archives are available for those who want to liven up their monitors or devices.
+
+→ [Reflect On | Fifty Foot Shadows](https://fiftyfootshadows.net/2022/06/25/reflect_on/)
+
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /the-finest-hour-polvo/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">🎵 The Finest Hour – Polvo</div>
+<div class="kg-bookmark-description">Sixty minutes of music from one of your favorite artists. No more, no less.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/06/Mountains-Plain.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/06/Polvo-Poster.4e9c505af9f44c51bee1fa5ee4139e12-1.jpg" alt=""></div></a></figure>

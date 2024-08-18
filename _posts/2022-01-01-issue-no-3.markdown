@@ -1,0 +1,88 @@
+---
+layout: post
+title: Issue No. 3
+date: '2022-01-01 17:00:00'
+tags:
+- newsletter
+- newsletter-1
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2022/02/artturi-jalli-TgGipdWWDuA-unsplash.jpg" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset=" __GHOST_URL__ /content/images/size/w600/2022/02/artturi-jalli-TgGipdWWDuA-unsplash.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2022/02/artturi-jalli-TgGipdWWDuA-unsplash.jpg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/02/artturi-jalli-TgGipdWWDuA-unsplash.jpg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/02/artturi-jalli-TgGipdWWDuA-unsplash.jpg 2400w" sizes="(min-width: 720px) 720px"><figcaption>Image source: <a href="https://unsplash.com/@artturijalli">Artturi Jalli/Unsplash</a></figcaption></figure>
+* * *
+
+My favorite Christmas piece this season was [How Christmas Changed Everything](https://nyti.ms/33Z4i5v) by Anglican priest Tish Harrison Warren in the NYT. She goes back to the early days of Christianity to observe how the life and death of Christ impacted believers in such a profound way that they defied deeply embedded cultural norms. Warren explains that our familiarity with Christianity in the West tends to make us forget how much it changed the rules for people, who were, in every ancient society, involved in some sort of caste system. Christian belief assigned value to each human being (though it’s fair to say “Christian” societies have not always lived up to this).
+
+> Because of this, early Christians became known for rescuing and raising infants who were “exposed,” that is left outside to die, a common practice in the ancient world. They were known for voluntarily remaining in cities amid plagues to care for the sick and the poor. The rapid growth of the early church was driven in part by slaves and women who were attracted to the Christian movement, a fact that was noticed and ridiculed by the wider Roman world.
+
+> These same radical ideas reverberate down through the centuries. They eventually motivated the invention of hospitals, mass education, and widespread literacy. They inspired those who opposed slavery and influenced the contemporary idea of universal human rights. Charles Malik, a Lebanese Christian who helped draft the Universal Declaration of Human Rights in 1948, said, “The ultimate ground of all our freedom is the Christian doctrine of the absolute inviolability of the human person.” In different ways over time, the belief in the dignity of even the weakest in society flowed from people meditating on this same shocking story that the church tells at Christmastime today.
+
+This is the legacy of Christ’s birth that I want to remember during this time of year.
+
+* * *
+
+My most popular blog post in 2021 was [Ethical Consumerism and the Amazon Dilemma]( __GHOST_URL__ /conscientious-consumerism-and-the-amazon-dilemma/). It spurred a lot of conversation, both online and off, which is the most I can hope for any post. I started writing the post in March and didn’t publish it until months later. My fatigue was so draining, at that point, that I couldn’t just bang out a long blog post.
+
+> I'm constantly asking myself: What is a conscientious consumer to do? Those who have disentangled themselves from the great ecommerce beast, please let me know the process you went through. I'm open to even ways to partially extricate myself and feel good about contributing to a healthier retail, publishing and working environment.
+
+I’m still struggling with how to pare down my patronage of Amazon. It hasn’t been easy. They are the most popular option for many reasons, but most of all, they are the leader in efficient online shopping. However, I did make some progress:
+
+- I got a Kobo for reading. I love ereaders and the Kobo has built in Pocket and Overdrive integration. In theory, I’ll never be without something to read again.
+- I started recommending people buy me Christmas gifts direct from the manufacturer (like the Edifier TWS ear buds and the ElevationLab QuickDraw).
+- Now that I’m not taking as many herbal supplements, I can order them from smaller shops.
+
+I’ve still got prime and I still order goods from Amazon on a regular basis, so I have some work to do in the new year.
+
+* * *
+
+My favorite song of 2021 was “Hard Drive” by Cassandra Jenkins and not just because the techie in me likes comparing the mind to a hard drive. The song’s unusual time signatures, sophisti-pop leanings, audio samples, spoken word vocals and a saxophone intro that sounds like the morning light filtering through the blinds on a sunny Saturday make a brilliant concoction.
+
+I [wrote a post about the song and video]( __GHOST_URL__ /2021-04-02-friday-night-video/) in April and the song can still give me goosebumps.
+
+> When Cassandra Jenkins begins the song “Hard Drive” with spoken word, it feels like a hypnotic induction. With the saxophones playfully decorating the background, the accompanying instruments sound a bit like something off the Blue Nile’s _Hats_ LP. Jenkins transitions to a singing voice as the chorus starts and it sounds all the more beautiful for the contrast with the spoken narrative. The song is masterfully constructed. As Jenkins speaks towards the end of the track, she narrates a friend assuring her of a better future, then slowly counting to three while directing deep breathing, which mimics the part of cuing someone out of hypnosis.
+
+“Hard Drive” isn’t for everyone. It’s unconventional in its song structure and broken narratives formed out of Jenkins’ conversations with strangers. My wife can’t stand it (I think she finds it pretentious). However, if you close your eyes and allow yourself to be immersed in this walkthrough of Jenkins’ mind and encounters, you may find yourself richly rewarded.
+
+_Runner up: [Forever (Sailing)](https://www.youtube.com/watch?v=lUdhD_NMSWE) by Snail Mail._
+
+* * *
+
+It seems the world of online bullet journalists is mainly comprised of women, so I was happy to see that there is a [Men Who Bullet site](https://menwhobullet.com/). I have used tons of good ideas from the women in the bullet journaling community, but I also like that there are some men who are publicly into the practice (besides Ryder Carroll and a few others) and may have a different style.
+
+I frequently find myself thinking that my journals are too spartan and not ornate enough because of the amazing and intricate art in some of the bullet journals I see. Some people really spend time on using a bullet journal as a creative end in itself, and I see value in that, I just don't have the artistic abilities to pull off some of the elaborate layouts. If making your journal look cool is your hobby, I think that's awesome, but I want to make sure that first and foremost, the journal is functional.
+
+* * *
+
+I held out for a long time before getting any kind of mobile phone. I had a Twitter account years before I had a smart phone. Everyone was surprised when I told them I didn’t have the device that had, by that time, many thought of as a necessity. The reaction was usually some form of, “but you’re a technologist?” It’s true that I am into tech, but, like the Amish (though a little less extreme), I choose the tech that I think will be a benefit and understand that there are usually trade-offs.
+
+For me, the downside to having a mobile phone was theoretically always being available. Now that I have one it’s being too tempted to constantly pickup the phone for a hit of social media or to research whatever is on my brain.
+
+Jen Wasserstein [writes for the Guardian](https://www.theguardian.com/commentisfree/2021/nov/04/my-life-without-a-smartphone-is-getting-harder-and-harder) about how difficult it has become to navigate in the world without a smart phone.
+
+> It’s awkward when I ask a stranger for directions and they pull out their smart phone, looking at me as if to say, “where’s _your_ phone?” My brother says I’m like a smoker who won’t buy her own pack, but smokes everyone else’s. I never wanted to start smoking at all, but the world is conspiring to make me bum one. If I bought my own, I know I’d be smoking a pack a day.
+
+The shape of our society is changing the phone from something nice to have to something _mandatory_ to have. There is something unfortunate about that.
+
+* * *
+
+### Friday Night Video
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /spectres-northern-towns/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Spectres “Northern Towns”</div>
+<div class="kg-bookmark-description">For this Friday Night Video, Spectres comes your way with some powerful, muscular post-punk. At first, I thought this was a fan-made video with the traditional fuzzy retro found footage. It wasn’t until the band was shown in the same style that I realized it was a legit official</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2021/12/52E40877-4986-4F4C-9C29.jpeg" alt=""></div></a></figure>
+* * *
+
+_I hope you are able to celebrate the coming of the new year. May it bring blessings and peace._
+

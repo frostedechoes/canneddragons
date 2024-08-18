@@ -1,0 +1,98 @@
+---
+layout: post
+title: Issue No. 9
+date: '2022-02-12 17:00:00'
+tags:
+- newsletter
+- newsletter-1
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/02/8009A572-DEB4-452B-88C4-108B97270FF1.jpg" class="kg-image" alt loading="lazy"></figure>
+* * *
+
+Spin magazine posted some rants from musicians and industry insiders who think we need to talk about Spotify. One of the most striking essays came from Kay Hanley, Letters to Cleo songwriter and co-executive director of Songwriters Of North America. She has some bones to pick with Spotify CEO Daniel Ek.
+
+> When recording artists complained about the absurdity of having to get millions of streams just to make minimum wage, Daniel Ek told us to work harder and release more music. Spotify executives have said in public that music creators are “entitled” for wanting our fair share while base pay for a software engineer is just south of $200K.
+
+> And where are we now? Ek uses the billions he’s made off our work to do very not music business stuff like invest in AI defense tech, and endow a global chit chat platform to a fascist-curious jock. It’s the type of shit that would have put a terrestrial music distributor out of business at any time in music history previous to this one. Spotify sucks. Let’s take our awesome product and go where we’re wanted.
+
+I understood that Spotify was underpaying musicians and I remember the flippant comment that Ek made about artists needing to release more music. It wasn't until recently that I realized just how bad things are, though. Perhaps it's the fact that they are paying Joe Rogan many magnitudes more than the musicians upon whose backs they built the service. Or it could be that they promised musicians better compensation when revenue started to materialize and then instead took them to court to be able to pay them less. All these things combined mean I never want to have anything to do with Spotify.
+
+→ [We Need To Talk About Spotify | Spin](https://www.spin.com/2022/02/we-need-to-talk-about-spotify/)
+
+* * *
+
+Fr. James Martin on how a Christian should respond when someone who was not vaccinated dies of Covid.
+
+> The problem is that even a mild case of schadenfreude is the opposite of a ‘Christian value.’ Jesus asked us to pray for our enemies, not celebrate their misfortunes. He wanted us to care for the sick, not laugh at them. When Jesus was crucified alongside two thieves, he says to one of them, according to Luke’s Gospel, not ‘That’s what you get,’ but ‘Today you will be with me in paradise.’ Schadenfreude is not a Christian value. It’s not even a loosely moral value. …
+
+Totally agree. Schadenfreude is not a Christian value. However, to point of the previous piece that I linked to: is it okay to have that attitude towards companies like Spotify and Facebook when they lose a ton of market value? The Supreme Court may say that companies are individuals but I for one still can’t get on that train.
+
+→ [How Do You Respond When an Anti-Vaxxer Dies of Covid? | NY Times](https://www.nytimes.com/2022/01/30/opinion/culture/covid-death-mental-health.html)
+
+🔗 via [Joyce Garcia Buxton](https://www.garciabuxton.com/)
+
+<figure class="kg-card kg-embed-card"><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Looks like Meta and Spotify are heading in the same direction.</p>— Kate 🤍🇺🇸 (@ImSpeaking13) <a href="https://twitter.com/ImSpeaking13/status/1489254906145873923?ref_src=twsrc%5Etfw">February 3, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
+* * *
+
+Michael Hobbes [has a video essay](https://youtu.be/RkVYvp_CumI) making the rounds that examines whether “cancel culture” is really a threat to America. The problem with the articles, and in this case, videos, that seek to convince us that cancel culture isn’t real is that there is always a pretty good example of cancel culture in the recent past. In this case, you could [cite Whoopi Goldberg as a decent representation](https://medium.com/@davepell/whoopi-doo-f85380ddd9bb) of someone who was at least temporarily canceled unjustly for being ignorant on a subject of race. Or a guy who [works at West Elm](https://philipchristman.substack.com/p/unwanted-fame-is-already-a-violation). You won’t have to go far back, at any given time, to find someone being punished for a misstep. It could be a professor who is has been [reproached and is penitent for something like showing Othello,](https://www.nytimes.com/2021/10/15/arts/music/othello-blackface-bright-sheng.html) and for whom apologies and sackcloth and ashes are not enough to satisfy angry and traumatized students. You many even be reminded of cancel culture every day, if you use Firefox as your web browser. Former CEO, Brendan Eich (who created javascript and went on to found the Brave browser), [was removed from Mozilla](https://www.bbc.com/news/technology-26868536) for monetarily supporting Proposition 8 in California. The Brave browser literally wouldn’t exist without cancel culture. Regardless of what you think about the marriage law (which was overturned), in this country, political speech in the form of donations to a cause is protected. Not only was Eich fired, but he was harassed by activists for years afterwards because of his politics.
+
+Tucker Carlson and other Fox News talking heads hyperventilating aside, we may reasonably disagree as to the extent to which our new orthodoxies threaten the republic. To pretend like cancel culture, by whatever name you want to refer to it, is not real, though, is to say, “who are you going to believe, my think piece or your own lying eyes?”
+
+* * *
+
+As more companies like Meta and Microsoft start showing off VR tech, there seems to be something commonly missing from the avatars… legs. Since this is a phenomenon across multiple implementations of virtual space, Ivan Mehta wondered why. It turns out that it’s unusual to have VR sensors that take our legs into account.
+
+> A lot of that has to do with sensors. Currently, metaverse experiences are largely restricted to VR headsets; some are compatible with handheld controllers, like the Oculus touch controllers. However, there are hardly any commercially available sensors and controllers for our legs. That means your leg movement can’t be accurately detected and depicted in virtual environments.
+
+What would be the consequences of having legs that moved in the virtual universe without us moving them in real life?
+
+> He also pointed out that in real life when you look down, you’re used to seeing your legs are at a specific distance away from your face, which you’re used to. But in the virtual world, if that situation is not replicated, it could cause you to feel nauseous. So until there are better sensors to avoid this on headsets, companies might avoid creating legs.
+
+Yikes, I don’t imagine the disorienting feeling that would cause nausea would make VR very pleasant. So for now, the legs will have to be conspicuously absent.
+
+→ [I found out why metaverse avatars don’t have legs | The Next Web](https://thenextweb.com/news/metaverse-no-legs-meta-microsoft-analysis)
+
+* * *
+
+Brothertiger is one of my favorite bands, and I was pretty stoked when I came across their cover of the full Tears for Fears album _Songs From The Big Chair_ on Apple Music. I was able to listen to it a couple of times, then, poof, it was gone. I guessed that it was the result of some kind of cease-and-desist order from the legal arm of Tears for Fears. It looks like I was right because what is probably about 2 years after the album showed up and disappeared, it showed back up like a dream deferred. Only now, it's got an extra goofy title to obscure the fact that it's a Tears for Fears cover album. The album is cheekily now called _Brothertiger Plays: Covers From That One Really Good 80's Band_.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/02/3098D8FB-E831-4236-A2AE-893461D6E62D_1_201_a.jpeg" class="kg-image" alt loading="lazy"></figure>
+
+Fans of 80's mainstream synth pop or chillwave need to give this one a listen. It's just faithful enough to the originals to retain their impact, but also has enough of the Brothertiger glo-fi to modernize the classic tunes.
+
+Favorite track: “Everybody Wants to Rule the World,” obvs.
+
+→ [Brothertiger Plays: Covers From That One Really Good 80's Band | Apple Music](https://music.apple.com/us/album/brothertiger-plays-covers-from-that-one-really-good/1606991133)
+
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /worth-the-wait/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Worth the Wait</div>
+<div class="kg-bookmark-description">Julia Kwamya invites you to Feel Good About Feeling Bad with an incredibly smooth mixture of dream pop and disco.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/02/5F74746A-7953-461B-B5AE-6B78B239ACD2.-1.jpeg" alt=""></div></a></figure><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /elevator-pitch-beliefs/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Elevator Pitch Beliefs</div>
+<div class="kg-bookmark-description">Steven Colbert does an amazing job summarizing the foundations of his belief in two minutes, but that doesn’t satisfy everyone.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/02/Elevator-Pitch-Beliefs.png" alt=""></div></a></figure>

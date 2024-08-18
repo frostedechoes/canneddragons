@@ -1,0 +1,105 @@
+---
+layout: post
+title: Issue No. 32
+date: '2022-08-27 15:00:11'
+tags:
+- newsletter-1
+- newsletter
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-robert-2
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+### Moving Past Disruption
+
+Paul Ford writes for _Wired Magazine_ as the co-founder of a software company that is tired of the ubiquitous pursuit of disruption within the tech industry. He argues that disruption serves the bored and that boredom is a luxury we no longer have, even in the U.S. — particularly after January 6, 2021.
+
+> That type of progress definitely generates a ton of activity. But it also sits weird when you consider how many lives in the world, historically and currently, including American lives, are extremely disrupted—by toxic spills or the whims of royalty or the goats all swelling up and dying. Disruption is an ethos for the bored, for people who live in reasonable climates and don't have tanks in the street. But America has recently become way less boring.
+
+Disruption was a big goal when things seemed to be stable. We wanted tools that upended the status quo. Now we've seen the effects of our efforts. Polarization, fragmentation, and decline seem to be the by-products of the disruption we once craved so heartily.
+
+→ [Forget Disruption. Tech Needs to Fetishize Stability](https://www.wired.com/story/forget-disruption-tech-fetishize-stability/)
+
+* * *
+
+### Metal Elizabethan Poetry
+
+John Donne was an interesting guy. He was an inveterate womanizer and poet turned pious preacher. James Parker profiles Donne for _The Atlantic_ and brings in a metal comparison.
+
+> Super-Infinite is the title of Katherine Rundell’s new biographical study of Donne. It sounds like an album by Monster Magnet. And indeed, Rundell responds to Donne in something of a heavy-metal, hyperbolizing register. Read the first stanza of “Love’s Growth,” she promises us, and “all the oxygen in a five-mile radius rushes to greet you.” Another poem, “The Comparison,” in which Donne contrasts the charms of his mistress with those of another woman, takes the tradition of poets praising female beauty “and knifes it in a dark alley.” And so on.
+
+For all his hyperbole, I'm pretty sure Donne didn't write about acid trips like Monster Magnet. Parker never mentions it, but another metal comparison would be Metallica, as they took their song title "For Whom The Bell Tolls" from Donne's writing.
+
+→ [The Unlovable, Irresistible John Donne](https://www.theatlantic.com/magazine/archive/2022/09/john-donne-poetry-super-infinite-book/670605/)
+
+* * *
+
+### Christian Anonymity Online
+
+Patrick Miller writes for _Mere Orthodoxy_ about Christian trolls hiding behind anonymity online. In the case he uses an example, having a female speaker at his church resulted in harassment for the speaker and for the church.
+
+> A different speech comparison sharpens the issue further: the difference obvious between anonymous and non-anonymous accounts. If I, as a non-anonymous citizen of the internet, post something erroneous or incendiary, I can expect to have friends, coworkers, pastors, and family confront me. Knowing that is a gift. It causes me to restrain my tongue and keeps me out of a lot of trouble. The wisdom of proverbs applies in the 21st century, “Those who guard their mouths and their tongues keep themselves from calamity” (Prov. 21:23).
+
+Miller calls for personal accountability by way of being open about your identity in situations where you are critical. He debates calls from social psychologist Jonathan Haidt that we eliminate the ability to post on social media anonymously.
+
+> Even if we reject Haidt’s proposal to ban anonymity online, that doesn’t absolve individuals of their collective, social responsibilities to one another. On a moral level, he’s correct. No one wants to live in that neighborhood. This is especially true for Christians who care to follow Jesus’s second great commandment, love your neighbor as yourself. We are obliged by our king not to build digital neighborhoods where anonymous bullying is encouraged, much less become the verbal vandals within them.
+
+It's obvious on its face that the interactions Miller describes are unchristian. He brings up many passages of scripture throughout the piece which prove the behavior in question to be out-of-line with how we as Christians are called to treat each other.
+
+→ [Speech Without Accountability: Reckoning With Anonymous Christian Trolls](https://mereorthodoxy.com/speech-without-accountability-reckoning-with-anonymous-christian-trolls/)
+
+* * *
+
+### Catching Up With TikTok
+
+I wondered what happened when the deadline the U.S. government had given Apple and Google to remove TikTok from their respective app stores came and went. It turns out that other arrangement have been made. Sara Fischer has the details for _Axios_.
+
+> In June, after longstanding pressure from the U.S. government, TikTok said it had begun routing all its U.S. user data to Oracle's cloud infrastructure.
+
+Apparently, TikTok has been working with Oracle since 2020 to lift some of the pressure that the former president was putting on them.
+
+→ [Scoop: Oracle Begins Auditing TikTok's Algorithms](https://www.axios.com/2022/08/16/oracle-auditing-tiktok-algorithms)
+
+* * *
+
+### There’s A Middle
+
+The deceased theologian Karl Barth (who once said to preach with the newspaper in one hand and the Bible in the other) is held in high regard by many modern Christians. Vika Pechersky has a piece for _Mere Orthodoxy_ about Barth's warnings for evangelical theology speak to veering too far to the right or the left.
+
+> This brings me to my final point. Is it true that the modern man no longer poses any threat to contemporary theology or the Church at large, as Barth has suggested? The reaction of many Christians today, throwing themselves into the sea of culture wars with such vigor, indicates the opposite. Christians still feel threatened by the current iteration of the modern man—a self-defining and fluid human being. At the same time, a full embrace of this version of the modern man by the current liberal (and postliberal) side, proves once again that Christians of all stripes and colors are still reacting to the contemporary age, while offering no significant alternative to its dominant ideas or visions of the human life, saying even less about the God who revealed himself in the man Jesus Christ.
+
+Stooping to align with or against cultural or political trends obscures the timelessness of the gospel. It also threatens to eradicate Christian distinctiveness.
+
+→ [Karl Barth’s Warning for Evangelical Theology](https://mereorthodoxy.com/karl-barths-warning-for-evangelical-theology/)
+
+<figure class="kg-card kg-embed-card"><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">If your reaction to a news story would be different depending on what party it involves, it's probably not ethics that's driving your reaction but politics.</p>— Daniel Darling (@dandarling) <a href="https://twitter.com/dandarling/status/1558499394441416706?ref_src=twsrc%5Etfw">August 13, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /engaging-your-readers/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Engaging Your Readers</div>
+<div class="kg-bookmark-description">How do you get readers to pay for your writing online?</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/08/speaker-echo-blue-plain@2x-2.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/08/syd-wachs-slItfWbhijc-unsplash.-1.jpg" alt=""></div></a></figure><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /minimal-mac/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Minimal Mac</div>
+<div class="kg-bookmark-description">I was texting with an old friend the other day, and he was documenting his progress in getting three monitors set up. Since he has an M1 Mac Mini, like I do, he could only easily support two monitors. He turned to Universal Control with a MacBook Air to get</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/08/speaker-echo-blue-plain@2x-2.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/08/23A56F83-AD26-49B0-9D05-6DD0A6B6E78B..jpeg" alt=""></div></a></figure>
+* * *
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/08/14123A85-680C-4F62-B743-932291E02A2F.jpeg" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset=" __GHOST_URL__ /content/images/size/w600/2022/08/14123A85-680C-4F62-B743-932291E02A2F.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2022/08/14123A85-680C-4F62-B743-932291E02A2F.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2022/08/14123A85-680C-4F62-B743-932291E02A2F.jpeg 1600w, __GHOST_URL__ /content/images/size/w2400/2022/08/14123A85-680C-4F62-B743-932291E02A2F.jpeg 2400w" sizes="(min-width: 720px) 720px"></figure>

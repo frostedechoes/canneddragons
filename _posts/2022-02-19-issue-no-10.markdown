@@ -1,0 +1,90 @@
+---
+layout: post
+title: Issue No. 10
+date: '2022-02-19 17:00:00'
+tags:
+- newsletter
+- newsletter-1
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+I did watch some of the Super Bowl, despite my aversion to sports where people regularly get brain injuries. How about those crypto commercials? I had literally just pulled out my phone to click on the QR code bouncing around the screen when that one commercial ended in some crypto plea. It feels like a lot of people own too much crypto and want to sell it to the easily manipulated. FOMO being what it is, they seem to be appealing to a belief that you had better get in or get left behind.
+
+<figure class="kg-card kg-embed-card"><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">One reason I still have trouble believing crypto currency is money is that there aren’t commercials for money.</p>— Noah Garfinkel (@NoahGarfinkel) <a href="https://twitter.com/NoahGarfinkel/status/1493044107790348288?ref_src=twsrc%5Etfw">February 14, 2022</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</figure>
+
+I didn’t spend too much time reading about “vibe shift” this week, although it took some serious effort to dodge the truckloads of articles people were unloading on the subject. Maybe next week I’ll embark on my own vibe shift... Details forthcoming.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/02/IMG_0366.jpeg" class="kg-image" alt loading="lazy"></figure>
+* * *
+
+The aim of a lot of companies (especially in the tech sector) is to get their customers into a subscription service. The recurring revenue adds predictability that helps immensely when doing budget planning. You see subscriptions everywhere now. Low-end fast food chain Taco Bell even [started a subscription service](https://www.theatlantic.com/technology/archive/2021/09/taco-bell-subscription-netflix-for-tacos/620109/). Streaming services are facing a problem with their subscribers, though. They’ve become mercenaries. Subscribers are picking up a service just to watch a single show and then dropping it.
+
+> Perhaps Netflix is trying to establish itself as something like a utility: a given, a default, the must-have that comes before all the wants. Other services have other propositions—HBO Max as prestige TV destination, Disney+ for parents—which they hope will hook consumers who sample the latest buzzy hit. But they’re all dealing with the new reality of mercenary streamers who have to be won over not just once, but again and again. We’re looking forward to the next awesome and unique entertainment spectacle that any given service has bankrolled—and to quitting as soon as we’ve watched it.
+
+I only recently became such a mercenary, dropping Netflix probably until Shadow & Bone comes out with Season 2 and I can return to the Grishaverse. Netflix has been hounding me ever since, sending me emails to get back in at $9.99.
+
+→ [Netflix and Disney's growing challenge: streaming mercenaries](https://www.fastcompany.com/90718760/streaming-mercenaries-netflix-disney-apple-amazon?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss)
+
+* * *
+
+Tish Harrison Warren wrote a piece for the New York Times about how churches need to open up to in-person worship again AND get rid of online streaming worship options. Perhaps not surprisingly, the piece received a lot of criticism, particularly within the disabled community. I can understand the pushback. Last spring, when my ME/CFS was at its most severe, I couldn't even _watch_ my church's worship service online when it was streamed in real-time. I felt so badly in the mornings that I would have to wait until later in the day to stream the recorded version of the service. That had nothing to do with COVID and everything to do with a disabling post-viral illness.
+
+Warren does take disability into account, offering that in-home visits can be provided to those who are house bound. As advocates for the disabled have rightly pointed out, though, that's hardly a substitute for being able virtually worship along with the rest of a congregation. Warren's piece is not without its merits, though.
+
+> About four years ago, my family had a group of people from our church in their early 20s over to our house. We shared a meal and we asked them what hopes and challenges our church offered to their generation. Their answers surprised me. Over and over, they said, one of the hardest and best things about church was that they had to sit with people of different ages, classes and political beliefs. It was a practice they found inconvenient, yes, but truly grounding, nourishing and good.
+
+I have been saying for years that I think one major benefit of my children attending church is the experience they get of being with people of all ages. In our increasingly siloed society, there are fewer and fewer places where that intergenerational divide is bridged.
+
+→ [Why Churches Should Drop Their Online Services](https://www.nytimes.com/2022/01/30/opinion/church-online-services-covid.html)
+
+* * *
+
+My wife notifies me when she sees something on Twitter that outrages her (the other morning, at breakfast, she was pounding on the table and yelling at me), so I first heard about the “banning” of _Maus_ from her. I had some questions as to the credibility of the report but that just turned argumentative. Roger Wm. Bennett has an interesting take on the controversy.
+
+> To the best of my knowledge, _Maus_ hasn’t been banned anywhere. I believe it was removed _from the curriculum_ (not from the library even) of just one school district in Tennessee, [for dubious or petty reasons](https://www.cnn.com/2022/01/27/us/tennessee-school-board-removes-maus/index.html) (although there were pretty good ones, such as "graphic novels are comic books puttin’ on airs"). The "controversy" is mostly the prestige press and progressive trolls who just can’t get enough of mocking people in flyover country, with an assist from the author hinting that folks in McMinn County probably are Nazis ("[I moved past total bafflement to try to be tolerant of people who may possibly not be Nazis, maybe ….](https://www.cnn.com/2022/01/27/us/tennessee-school-board-removes-maus/index.html)")
+
+> I checked my memory with a DuckDuckGo search "What really happened in Tennessee with Maus?" and found that CNN (the top hit, actually) accurately reported the _curricular_ nexus even in its headline while _every other top hit save one_ (a [pro-Trump](https://welovetrump.com/2022/01/27/fact-check-tennessee-school-district-mcminn-did-not-ban-holocaust-book-maus/) "there go the libs hatin’ on normal folks again" gloat) falsely referred to "ban" in the headlines.
+
+I don’t know about the whole “progressive trolls” thing. That’s definitely not how I characterize my wife (honey, if you are reading this, I love you ❤️), but this whole situation really felt like making a mountain out of a molehill. The author hinting the people in Tennessee may be Nazis is a prime example of what’s wrong with discourse in this country. It still amazes me to see what blows up these days. Perhaps you could say that school curricula has always been a contentious subject, but it still feels to me like there’s a shift happening here when removing a graphic novel from a middle school course becomes “Nazis are banning books in Tennessee.”
+
+→ [Cantakerousness (and more) | Tipsy Teetotaler ن](https://intellectualoid.com/2022/02/17/cantakerousness-and-more/)
+
+* * *
+
+I follow the blog of DHH from Basecamp, but I pretty frequently find myself disagreeing with his perspectives. He tends to reliably come from a pretty right-of-center perspective. When I do concur, though, his arguments strongly resonate with me. This usually happens on the subject of social media. He has recently [argued that friction is necessary](https://world.hey.com/dhh/we-can-t-thrive-without-friction-6cb38fd3) in online interactions. The absence of some kind of friction has given license for people to quickly spout off on social media without first really thinking about how they are interacting with others or what they are saying.
+
+From his latest essay, DHH relates that, after leaving social media, and making blogging and email his main forms of communicating online, he has noticed debate becoming a lot more civil. He’s even been posting hot takes on such contentious topics as Canadian truckers and getting reasoned, but differing perspectives.
+
+> But what's interesting is how I can envision all of these interesting, courteous, and illuminating email debates rerendered in the realm of Twitter to predictably nasty, bitter outcomes. BY THE SAME PEOPLE!  
+>   
+> It's not that there's a new subspecies of homo sapiens inhabiting Twitter, and then another living on email. It's the same people. But the change in environment prompts them to flip from that resentful, incriminating stance in the one area to the curious, good-faith stance in the other. That's both fascinating and heart warming.  
+>   
+> It's evidence that humanity hasn't been terminally broken. Even in places like America where it might so often seem like it. We are currently trapped in some bad platforms producing bad outcomes, but the people participating often just need a change of venue for the dark clouds to clear.
+
+I have reduced my reliance on social media in the last few years to where I think I’m in a healthy place. I have noticed that interactions via email tend to be much more rewarding and complete.
+
+→ [This just wouldn't happen on Twitter](https://world.hey.com/dhh/this-just-wouldn-t-happen-on-twitter-b32dbd06)
+
+* * *
+
+## From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /pop-psychology-and-the-decline-of-marriage/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Pop Psychology and the Decline of Marriage</div>
+<div class="kg-bookmark-description">Shaky psychological theories have taken on an outsized role in the culture and may be detrimental to our relationships.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/02/maslow-needs-3-.jpg..webp" alt=""></div></a></figure>

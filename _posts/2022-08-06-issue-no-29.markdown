@@ -1,0 +1,104 @@
+---
+layout: post
+title: Issue No. 29
+date: '2022-08-06 15:00:36'
+tags:
+- newsletter-1
+- newsletter
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-robert-2
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+### Relative Sci-fi
+
+I've heard some grumblings about the new Star Wars TV series online. _The Book of Boba Fett_, which I quite enjoyed, was particularly stung by criticism. Even though _Obi-Wan Kenobi_ seemed to be a success story, it had its share of detractors as well.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/08/jethani-star-wars-tweet@2x.png" class="kg-image" alt loading="lazy"></figure>
+
+While it may not make writing about these shows as interesting, I have had a lot of fun watching all the Star Wars entries into episodic television. In fact, sometimes I can't understand the depths that people go to in their dissection of these series. I grew up on shows like Knight Rider, Wonder Woman, The Dukes of Hazzard, Battlestar Galactica, etc. Has anyone watched these shows recently and done a comparison to what we have available now? The difference is _stark_. On Buck Rogers, the droid would waddle around saying, "beedee beedee beedee." That was supposed to transport us to this future of robots and interplanetary travel we could all hardly imagine. It isn't just the special effects, either. The storylines and level of drama on these new shows are light years ahead of what we watched back then on TV. Shows on streaming services have a cinematic quality bar they jump over that we never would have dreamed of shows hurdling in those days.
+
+Into this discussion comes the trailer for the soon-to-be-released Star Wars series, _Andor_. Given how much I liked _Rogue One_, I've been very eager to see this show about its protagonist come to fruition. The preview to which we have been treated looks astonishing. Action, intrigue, moral considerations, transcendent worldbuilding: it seems to check all of these boxes and more.
+
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/cKOegEuCcfw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Andor | Official Trailer | Disney+"></iframe></figure>
+* * *
+
+### Asynchronously Yours
+
+I like it when company culture acknowledges the difference in synchronous and asynchronous communication (see [Twist](https://todoist.com/integrations/apps/twist), [37Signals rule #9](https://37signals.com/09), etc.). When things shifted to MS Teams, some people starting defaulting to sending most of their messages in Teams. When I’m out, and my message clearly states that, people will still direct message me over Teams, which is built for synchronous communications. For asynchronous communication, email is still best. The tools contained in any almost any email client — folders, tags, snooze, etc., make it a much better way to manage communications that don’t need immediate responses, and also a much better way of information retrieval later.
+
+I think all of the above makes a pretty good argument for prioritizing email over instant messaging, in most cases. However, the one thing that bothers me most about instant messaging is that, at least in my company's culture, it leads people to think they should be able to get ahold of you instantaneously, any time. When I am in meetings, for instance, I do not pay attention to my instant messages or my email. Even the most ardent fans of multitasking would never say, "you do your best work when you are distracted." Yet, occasionally people seem to be bothered if they can't get in touch with you, while you are clearly noted by your presence indicator to be doing something else. Colleagues will readily admit that they don't pay attention to the status that shows up in Teams. It seems a bit inconsiderate.
+
+In the days before the popularization of instant messaging in the workplace, coworkers would rarely come in an interrupt you while you were in a meeting (unless there was a production outage or something similar). I think we shouldn't lose that sense of courtesy, even with new tools that make invasiveness as close as a keyboard away.
+
+* * *
+
+### Just Joking
+
+Looking back, one of the things that I don't like about my personality on Twitter over the years is the sarcasm and flippancy. Social media makes it so easy to put anything out there, that using it is often done with a lack of care. Hurtful remarks are easily tossed off, heedless of the feelings of the intended or unintended victim. People become very flippant, even about convictions that others may hold very deeply. Alan Noble writes about this in his essay [What Is Social Media Good For?](https://oalannoble.substack.com/p/essay-what-is-social-media-good-for)
+
+> Put differently, it’s one thing for the algorithm to love a tweet joking about fining video game designers who create games that don’t let you save anywhere. It’s quite another thing for it to boost a joke that trivializes the complexity of the pro-life movement, the reasons people are still concerned about COVID, poverty, sexual abuse victims, or gun violence in poor neighborhoods.
+
+Users who are nice people IRL become troll(ish) on social media. Those who would think it beneath them to directly troll someone still make "jokes" that denigrate the views of others under the guise of a joke. I wouldn't call it fear, but I have concerns about being flippant. I would rather my prose come off as uninteresting than risk unintentionally maligning someone's beliefs while joking around. Chesterton covers this in his book _Orthodoxy_.
+
+> Dulness will, however, free me from the charge which I most lament; the charge of being flippant.
+
+It is a different thing to take issue with ideas you think are erroneous, but to take them on directly, addressing them with concern and the seriousness which they may deserve. Being flippant just makes you seem obnoxious.
+
+→ [Essay: What Is Social Media Good For?](https://oalannoble.substack.com/p/essay-what-is-social-media-good-for)
+
+* * *
+
+### What Kinds Of Image Requests Confuse DALL-E?
+
+In his latest newsletter, Charlie Warzel dives into DALL-E and profiles Andy Baio's experiments with the tool. Baio has found it rewarding to stretch DALL-E to its limits (call it boundary testing, if you like).
+
+> The engine doesn’t generate text well at all—it can generally only create short words. It’s bad at creating faces, and most trademarked material and images of famous people are blocked so that people don’t abuse the software. But Baio has also found more interesting limitations. “Anything that’s an opposite, like a horse riding a man or a hand with six fingers, is a real struggle for it,” he said. “We want to think that DALL-E has this wild imagination and that it is capable of generating wildly unusual images, but because it’s been trained on tens of thousands of images of people with 10 fingers, it really struggles.”
+
+Rumor has it that DALL-E will be opening to a broader beta cohort in the upcoming weeks. I'd like to play around with it, but I expect my images will be fairly pedestrian. I'm not into surrealism like the image generator's namesake.
+
+→ [Tech's New Frontier Raises A "Buffet of Unwanted Questions"](https://newsletters.theatlantic.com/galaxy-brain/62df88dabcbd490021adc375/dalle-open-ai-midjourney-art/)
+
+* * *
+
+### Monocropping In Cities
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2022/08/Utrecht_Altstadt_32.jpg" class="kg-image" alt loading="lazy"><figcaption>Image source: Utrecht, Holland from <a href="https://commons.wikimedia.org/wiki/File:Utrecht_Altstadt_32.jpg">Wikimedia Commons</a></figcaption></figure>
+
+Clive Thompson writes about rewilding cities, in a new extension of his "rewilding your attention" concept. In the piece, he profiles cities that have ripped up roads made for cars in favor of rivers and public spaces. He compares the way cities have been built around the automobile to monocropping.
+
+> Indeed, one thing we learned from the 20th century is that monocropping is freaking dangerous. Whenever we ploughed over fields and regions to plant a single crop, the land got weaker over time, because it lost that dense, gnarly, diverse spectrum of life. Farmers for centuries knew this, which is why they rotated crops and had a network of animal life interpenetrating small farms. But with big industrial farming, we monocropped, and created — decades down the line — crappier soil, entire regions susceptible to a single pest, and unexpected knock-on effects. (Like how industrial farming destroyed roadside milkweed, helping to decimate Monarch butterfly populations.)
+
+It's an interesting concept that begs the questions of whether the cities that have "rewilded," to some extent, are healthier for their inhabitants and in what ways that could be measured.
+
+In his book _The Life We're Looking For_, Andy Crouch examines how we are increasingly building our environments around machines.
+
+> The great urbanist Jane Jacobs masterfully outlined, in her book The Death and Life of Great American Cities, the elements of an urban environment that make it a healthy place for human habitation: mixed-use buildings, plenty of chances for street-level interaction, limited traffic, priority for pedestrians. It is not much exaggeration to say that these are precisely the conditions that are worst for autonomous vehicles. The closer an environment is to being genuinely good for human beings, the worse it is for a self-driving car.
+
+He writes of humans creating "attenuated cultural environments that treat persons like machines." The effort to rewild cities is a pushback against this trend, and maybe even a necessary one if people are to flourish.
+
+→ [Rewilding Cities](https://clivethompson.medium.com/rewilding-cities-b654e8abf7fb)
+
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /airshow/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Airshow</div>
+<div class="kg-bookmark-description">A new podcast adjunct to a popular feed reader gets it right.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/08/speaker-echo-blue-main@2x@2x.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/07/Airshow@2x.6a9913d01f104bbaa4c6832973be739e.png" alt=""></div></a></figure><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /arc-welder/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Arc Welder</div>
+<div class="kg-bookmark-description">A new browser makes the case for why it stands out from the pack.</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /content/images/size/w256h256/2022/08/speaker-echo-blue-main@2x@2x.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/07/Arc@2x.045da4b213664c4685acca59e3282217.png" alt=""></div></a></figure>

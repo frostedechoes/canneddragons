@@ -1,0 +1,80 @@
+---
+layout: post
+title: Issue No. 55
+date: '2023-05-13 21:12:24'
+tags:
+- newsletter-1
+- culture
+- faith
+- newsletter
+- hash-import-2023-08-31-00-31
+- hash-robert-2
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+* * *
+
+### The Legend of Zelda Gets An Update
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2023/05/scaoj8.jpg" class="kg-image" alt loading="lazy"></figure>
+
+The latest _The Legend of Zelda_ installation, _Tears of the Kingdom_, came out yesterday. Although [this piece by Zachary Small in the New York Times](https://www.nytimes.com/interactive/2023/05/04/arts/zelda-nintendo-history.html) gets a little too ambitious with typography and integrating videos into the text, it's still a great read. The article goes into the history of the iconic Zelda games and the direction they are headed in, and underscores the legacy they have left.
+
+> “Someone might write an entire university dissertation on a specific part of the worlds created by Tolkien,” said Ed King, a 26-year-old British gamer who translates the mysteries of the Zelda universe for his 700,000 YouTube subscribers. “Zelda lore isn’t quite on that level yet, but it does have depth.”
+
+Small goes into detail about what has been changing in the franchise and focuses on the ability to combine certain elements into tools. The designers prototyped this in a modded version of the original game (I wish I could get my hands on that).
+
+> Multiplicative gameplay encourages players to combine actions and objects in ways that allow for a vaster set of solutions. Developers created a prototype to test their theories, recreating the original Legend of Zelda with an interactive environment where the player could burn trees, pick up the logs and then make rafts from the timber. Those mechanics were incorporated into Breath of the Wild, alongside a physics system that allowed players to manipulate rules like the conservation of momentum.
+
+The game franchise keeps evolving and if the excitement for the new game I've seen on social media is any indication, fans are staying loyal.
+
+* * *
+
+### Andor Season 2 in Jeopardy
+
+Tony Gilroy has ceased writing and producing for _Andor_, which I assume puts the second season of the show in jeopardy. Lesley Goldberg writes about how the showrunner is striking in solidarity with the WGA (Writers Guild of America), after being called out on social media, for continuing to provide production services after the strike had begun.
+
+> “I discontinued all writing and writing-related work on Andor prior to midnight, May 1. After being briefed on the Saturday showrunner meeting, I informed Chris Keyser at the WGA on Sunday morning that I would also be ceasing all non-writing producing functions,” Gilroy said in a statement to The Hollywood Reporter. When reached by phone late Tuesday, Keyser — the co-chair of the WGA’s negotiating committee — confirmed his conversation with Gilroy. Lucasfilm, which produces Andor, declined to comment.
+
+The WGA is a union of writers for various types of media and is striking for greater compensation and various concessions that would increase wage/job stability. IndieWire [has a piece](https://www.indiewire.com/news/breaking-news/every-tv-film-production-affected-wga-strike-1234860037/) documenting all the TV and film productions affected by the strike.
+
+Source: [Showrunner Tony Gilroy Ceases Producing Services on ‘Andor’ | The Hollywood Reporter](https://www.hollywoodreporter.com/tv/tv-news/andor-tony-gilroy-scabbing-accusations-strike-1235483978/)
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src=" __GHOST_URL__ /content/images/2023/05/cas-and-vel-hiding-from-tie-figher.jpeg" class="kg-image" alt="Concept image via Lucasfilm" loading="lazy"><figcaption>Concept image via Lucasfilm</figcaption></figure>
+* * *
+
+### Pixies Stop The Alarm
+
+You just missed your court date, and it's all the fault of Pixies. Jordan Potter reports for _Far Out Magazine_ on how "Where Is My Mind?" by Pixies turns off set alarms on Google Pixel phones.
+
+> Recently, a Reddit user took to the platform to report a strange occurrence. After setting their alarm to use songs at random from a playlist, one morning, the alarm failed to activate. Fortunately, they had woken up earlier and investigated the issue. As it turns out, Frank Black yelling “stop!” at the beginning of the song pre-emptively disables the alarm on Google Pixel phones.
+
+The band apologized for the _Surfer Rosa_ track messing with people's schedules.
+
+Source: [Pixies apologise for ‘Where Is My Mind?’ disabling alarms on Google phones](https://faroutmagazine.co.uk/pixies-disabling-alarms-google-phones/)
+
+* * *
+
+### Signed, Your Pal Justin the Martyr
+
+Plough Magazine features excerpts from a letter Justin the Martyr wrote to the Roman Emperor Antoninus Pius around the year 150 AD.
+
+> We follow the only unbegotten God through His Son – we who formerly delighted in fornication, but now embrace chastity alone; we who formerly used magical arts, dedicate ourselves to the good and unbegotten God; we who valued above all things the acquisition of wealth and possessions, now bring what we have into a common stock, and communicate to every one in need; we who hated and destroyed one another, and on account of their different manners would not live with men of a different tribe, now, since the coming of Christ, live familiarly with them, and pray for our enemies, and endeavour to persuade those who hate us unjustly to live conformably to the good precepts of Christ, to the end that they may become partakers with us of the same joyful hope of a reward from God the ruler of all.
+
+I love this sentiment and the description of the transformation that comes with a life lived in Christian faith. It is because of these types of documents that I look to historical artifacts as witness for a true witness for Christ, rather than being discouraged by what contemporary Christians in the Western world exemplify.
+
+Source: [Dear Emperor | Plough Magazine](https://www.plough.com/en/topics/faith/early-christians/dear-emperor)
+
+* * *
+
+### Tangled in Semantics
+
+Isaac Saul from Tangle [posted about some changes](https://www.readtangle.com/tangle-editorial-policy/) happening with the publication, specifically around the language that will be used. The writers and editors at Tangle have always strived to keep a balanced approach to the news. However, they've noticed that the words being used in stories tend to indicate bias to some readers.
+
+> One reason why, I believe (and have been told by those unsubscribing), has to do with the daily struggle of our language choices. Many readers on both the left and right have unsubscribed or written in angrily, not because of what we were saying, but how we were saying it. Whether it is calling cannabis “marijuana” (“that’s racist”) or referring to a trans person by their preferred pronouns (“that’s ceding the argument”), those readers didn’t even make it to the opposing arguments because they couldn’t get past the editorial decisions we were making on the way.
+
+The post goes on to clarify some of the wording choices that they will make, going forward, and why they are making those choices. It shows how reactive we have gotten (and I definitely indict myself in this generalization) that even the smallest choices in language are construed to mean that the writer is taking a specific side in a debate.
+
+* * *

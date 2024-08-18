@@ -1,0 +1,84 @@
+---
+layout: post
+title: Issue No. 12
+date: '2022-03-05 17:00:00'
+tags:
+- newsletter
+- newsletter-1
+- hash-robert-2
+- hash-import-2023-01-23-01-24
+- hash-import-2023-05-05-21-23
+- hash-import-2023-05-12-14-50
+- hash-import-2023-08-31-00-31
+- hash-import-2023-10-06-03-55
+- hash-import-2023-11-16-01-27
+- hash-import-2023-12-08-12-54
+- hash-import-2024-08-08-00-38
+---
+
+I’ve been experimenting with different blogging tools for the last few months. My favorite blog is my hosted Micro.blog site, because I can throw anything at it. A single picture, a quick link post or a think piece that I’ve labored over. I can post from many different apps, including my favorite text editors. However, Micro.blog is the least reliable service that I use. The premium features like bookmarking and, most importantly for me, newsletters, are not well-supported. There are several high severity bugs in the newsletter service. While I’ve received acknowledgement of the bugs, there has been no visible movement on correcting them.
+
+For now, I remain with Ghost primarily for blogging, but I would also like to try the simple [Hey World](https://www.hey.com/world/) service from Basecamp. Hey World is a sort of spiritual successor to the blogging service [Posterous](https://en.wikipedia.org/wiki/Posterous). Posterous allowed you to post through email and I enjoyed using it until Twitter bought and absorbed the company. Hey World lets you easily do RSS, newsletter and a traditional web log all in one. I was inspired to try it after an email exchange with [Andy Nicolaides](https://world.hey.com/andyn), who sang the praises of the simplicity of the tool and who, like me, is comparing it to Ghost. Ghost is a fantastic tool, but it’s geared towards monetizing your blog, something that is not even on my radar. Could my new favorite text editor be an email client?
+
+I’ve been trying out the [Hey email service](https://www.hey.com/), and have been impressed with innovations it brings to email. It makes you want to use email more. The only downside is that you may finding yourself emailing more people, more often, but not receiving many responses. Not everyone, it seems, is having as much fun with email as those using Hey. Hey World comes bundled with the Hey email service, for no additional charge. For those of us who don’t plan on making money from our blogs, it makes a good value proposition.
+
+Consequently, this may be the last weekly digest I send out for a bit while I get my tooling figured out. I plan to keep blogging regularly, though. Thanks for coming on this ride with me, and I hope you’ll stay connected.
+
+<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/04/airplane-driver.jpg" class="kg-image" alt loading="lazy" width="1023" height="797" srcset=" __GHOST_URL__ /content/images/size/w600/2022/04/airplane-driver.jpg 600w, __GHOST_URL__ /content/images/size/w1000/2022/04/airplane-driver.jpg 1000w, __GHOST_URL__ /content/images/2022/04/airplane-driver.jpg 1023w" sizes="(min-width: 720px) 720px"></figure>
+* * *
+
+Much has been written about the heroism of Ukrainian president Volodymyr Zelensky. One of my favorite pieces is [this one](https://christandpopculture.com/volodymyr-zelensky-at-the-bridge-the-costly-virtue-of-heroism-in-the-real-world) by K.B. Hoyle at Christ and Pop Culture. When searching for a comparable literary hero to Zelensky, Hoyle lands on Faramir, from the _Lord of the Rings_. She quotes a passage uttered by the character on warfare.
+
+> "War must be, while we defend our lives against a destroyer who would devour all; but I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend."
+
+Hoyle writes:
+
+> The stories we tell of heroes like Faramir explain not only why we love a man like Zelensky when he steps reluctantly onto the world stage, but also why he behaves the way he does at a time of great need.
+
+It is heartening to see the way the world has rallied around a real-life hero like Zelensky, who models the humility and courage we long to see when times are dark. It’s also disheartening to think that this is a guy our own president tried to blackmail like a common criminal.
+
+* * *
+
+Epic Games, the makers of Fortnite and famous Apple antagonists, [have acquired universally well-regarded streaming music service Bandcamp](https://www.newsobserver.com/news/business/article258969888.html?utm_source=pocket_mylist). I have a lot more faith in Bandcamp than Epic, so I’m not sure how to take this news. As a consumer who wants to do what I can for artists, Bandcamp doesn’t leave much to be desired. I’m just hoping Epic doesn’t degrade the service in some way.
+
+> In a release, Epic said Bandcamp will help it build out a marketplace for artists and creators. The company has said previously it is aiming to create a virtual ecosystem, dubbed the metaverse, where users can purchase art and other items directly from each other.
+
+Epic is local to me. They are building a large campus on the site of the mall where I used to work for Babbage’s, selling Playstation games and taking pre-orders for limited N64s from zealous Nintendo fans. It will be interesting to see if any Bandcamp jobs come to the site.
+
+* * *
+
+NPR has [a piece by Neda Ulaby](https://text.npr.org/1081115609) highlighting the speed at which trends are coming and going now. Ulaby refers to fashions and aesthetics coming back into style as “the nostalgia loop” and notes that the loop used to be about 20 years (remember 70’s style singer/songwriters coming back in the 90’s), but that new technology players like Tik Tok have acted as accelerants to that cycle.
+
+> But the nostalgia loop has sped up. "So much faster than twenty years," says Rebecca Jennings, a senior correspondent for Vox who covers internet culture . Jennings points to TikTok videos nostalgic for makeup trends dating all the way back to...2016, when makeup artist Mario Dedivanovic was busy breaking the internet by contouring Kim Kardashian's cheekbones and dramatically boxing her brows. Or look, Jennings says, to last year's much-hyped vogue for wired headsets, a vintage accessory dating all the way back to before the advent of wireless ear buds — around 2015.
+
+Of course, the article couldn’t have been completed without mentioning the “[vibe shift](https://www.thecut.com/2022/02/a-vibe-shift-is-coming.html),” which is ultimately the same phenomenon Ulaby is discussing in her piece.
+
+* * *
+
+Matthew Guay [has a post](https://reproof.app/blog/notes-apps-help-us-forget) on the Reproof blog about notes apps and what kind of usage we actually get out of them. His view is that the main value of collecting notes, whether in an analog notebook or notes app is to get them off of our brain. Something nags at us that we will come back to the information later, so to clear our minds, we capture the text. Rarely, though, do most of us come back to most of the notes we take. Guay estimates that prolific notetakers (👋) return to about 1% of our captures.
+
+> That first step of emptying your brain was what actually mattered, though. Most of our thought and the random things we discover aren’t actually valuable. We’ll write them down then never give them a second thought. You could get the same value by writing them down, then setting fire to the paper and scattering the ashes to the wind.
+
+> Almost.
+
+He goes into the tendency of those of us who take copious notes to fiddle with systems, in the hope that we’ll find one that’s just right for our workflow. It his strong conviction that we’re just tilting at windmills. We’ll never find the perfect system that enables us to take advantage of all of the information we bring in. Guay cites the Field Notes motto, “I’m writing it down to remember it now,” when he argues that letting these things go is the biggest benefit to processing information the way that we do.
+
+* * *
+
+Dan Primacy [writes for Axios](https://www.axios.com/trump-blowing-truth-social-launch-c2d4f1f0-5440-478a-acfa-b9462b64568c.html) about the early failure of Donald Trump’s app and network Truth Social. Despite all of the warnings to keep an eye on the space, Truth Social is on life support within weeks of its launch. The big issue with adoption of the network seems to start with the big liar himself. Trump has never used the network.
+
+> Trump hasn't posted a single time since the launch, despite an international crisis that has captivated the country. Instead, he's given his comments to radio and TV hosts — including one this morning with Dominion conspiracy theorist Maria Bartiromo — plus via his CPAC speech.
+
+Hopefully the neglect continues and this thing folds sooner rather than later. The question then becomes: How do you solve a problem like Maria?
+
+* * *
+
+### From the blog
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href=" __GHOST_URL__ /imprecatory-prayer/"><div class="kg-bookmark-content">
+<div class="kg-bookmark-title">Imprecatory Prayer</div>
+<div class="kg-bookmark-description">I had never come across the phrase “imprecatory prayer” until recently, even if I knew well what it meant. In fact, I have struggled with the concept. The Got Questions site begins to answer the question of what imprecatory prayer is by defining imprecatory. To imprecate means “to invoke evil</div>
+<div class="kg-bookmark-metadata">
+<img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Frosted Echoes</span><span class="kg-bookmark-publisher">Robert Rackley</span>
+</div>
+</div>
+<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/04/E2616555-0834-4F11-915C-A6B89F8CE915.jpeg" alt=""></div></a></figure>
