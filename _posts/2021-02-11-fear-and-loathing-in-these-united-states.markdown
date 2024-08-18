@@ -4,15 +4,7 @@ title: Fear and Loathing In These United States
 date: '2021-02-11 12:02:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- notes
 ---
 
 By most accounts, evangelical Christians are concerned about the path this country is taking and encroaching restrictions on religious liberty. This is usually cited as their main reason for supporting the former president, despite the fact that he possessed almost every character trait they had vocally opposed in past leaders. Beyond supporting the president, they have appeared, at times, to almost want to [make him their king]( __GHOST_URL__ /2020/01/10/we-demand-a.html).
