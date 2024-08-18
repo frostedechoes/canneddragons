@@ -22,7 +22,7 @@
 {{ content }}
 
 <p class="post-author-and-time">
-	&nbsp;&middot;&nbsp;<time datetime="{{ postDate | date: '%Y-%m-%d' }}">
+	<time datetime="{{ postDate | date: '%Y-%m-%d' }}">
 		{%- unless page.custom-date %}{{ postDate | date: "%B" }} {{prettyDateOfPost}}{{ ordinalEnding }}, {{ postDate | date: "%Y" }}{%- else -%}{{ page.custom-date }}{%- endunless -%}</time>
 	</p>
 </article>
