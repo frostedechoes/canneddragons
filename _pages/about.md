@@ -1,18 +1,18 @@
 ---
 title: About
-description: "Derek Kedziora is a UX writer, content strategist, geek, tinkerer and avid reader."  
-nav: custom
-custom-nav: 
-    - '<a href="/now" title="Now">Now</a>&nbsp;|&nbsp;'
-    - '<a href="/portfolio" title="Portfolio">Portfolio</a>&nbsp;|&nbsp;'
-    - '<a href="/contact" title="Contact">Contact</a>'
 permalink: /about
 --- 
 
-{% include about-picture-img.html %}
+# About
 
-Write up some stuff about yourself here. 
+![A dime map of the territory](/_resources/dragonmap.jpeg)
 
-Add a few pictures of yourself that randomly display on each page load and click by going to the `_includes/about-picture-script.html` file.
+**"For the memory can both provoke the dragon and the memory can also subdue him." ~ St. John Chrysostom**
 
-{% include about-picture-script.html %}
+Canned Dragons is a weblog written by Robert — an Orthodox Christian, aspiring minimalist, software dev manager and paper airplane mechanic.
+
+This site follows the [POSSE](https://indieweb.org/POSSE) "Publish (on your) Own Site, Syndicate Elsewhere" model, which is described as “a content publishing model that starts with posting content on your own domain first, then syndicating out copies to 3rd party services with [permashortlinks](https://indieweb.org/permashortlink) back to the original on your site.” 
+
+This blog pulls in thoughts from other independent blogs as well as social media accounts and major publishers. The project is an effort to celebrate the earlier days of blogging. 
+
+Canned Dragons runs on a stack of plain text files, a git repo and <a href="https://blot.im">Blot</a>. The theme is built on top of [Theodoric](https://theodoric.us/
