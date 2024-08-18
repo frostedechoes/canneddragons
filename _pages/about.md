@@ -5,7 +5,7 @@ permalink: /about
 
 # About
 
-![A dime map of the territory](/_resources/dragonmap.jpeg)
+![A dime map of the territory](/static/about-pictures/dragonmap.jpeg)
 
 **"For the memory can both provoke the dragon and the memory can also subdue him." ~ St. John Chrysostom**
 
