@@ -1,0 +1,51 @@
+{%- include head-matter.html -%}
+
+<body>
+
+<main class="index">
+
+	{%- include header.html -%}
+	{%- include blogblurb.html -%}
+
+{% for post in site.categories.notes limit: 10 %}
+<section class="note-entry" markdown="1">
+<h1><a href="{{post.url}}" style="text-decoration: none;">{{post.title}}</a></h1>
+
+{{post.content}}
+
+<p class="note-date-line"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %d, %Y" }}</time> | <a href="{{post.url}}">⌘ Permalink</a></p>
+
+</section>
+
+
+{% endfor %}
+
+
+<!--
+<h2>Latest posts</h2>
+{%- assign i = 0 -%}
+{% assign display-post-type = true %}
+
+{%- for post in site.posts -%}
+	{%- unless post.categories contains "rss-club" or post.categories contains "unlisted"-%}
+		{%- assign i = i | plus: 1 -%}
+		{%- include blog-listing.html -%}
+	{% endunless %}
+	
+	{%- if i == 3 -%}
+		{%- break -%}
+	{%- endif -%}
+
+{% endfor %}
+
+<p><a href="/blog" class="internal-link">All posts →</a></p>-->
+
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+{% include about-picture-script.html %}
+
+</html>

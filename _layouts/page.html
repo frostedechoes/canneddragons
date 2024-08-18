@@ -1,0 +1,21 @@
+{%- include head-matter.html -%}
+{%- include pretty-numbers.html -%}
+
+<body>
+
+<main>
+
+	{%- include header.html -%}
+
+{%- unless page.og-type == "website" -%}<article>{%- endunless -%}
+
+{{ content }}
+
+{%- unless page.og-type == "website" -%}</article>{%- endunless -%}
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>
