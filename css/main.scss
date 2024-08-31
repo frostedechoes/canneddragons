@@ -226,6 +226,13 @@ time {
   font-family: $heading-typeface;
 }
 
+hr {
+  margin: 30px auto;
+  border: none;
+  height: 1px;
+  background: #ccc;
+}
+
 h1 {
   font-family: $heading-typeface;
   color: var(--light-text-color);
