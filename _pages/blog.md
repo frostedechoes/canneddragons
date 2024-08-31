@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Archive
 description: "All of the posts in Derek’s Digital Garden"
 og-type: website
-permalink: /blog
+permalink: /archive
 nav: custom
 custom-nav: 
     - '<a href="/blog/tags" title="Tags">Tags</a>&nbsp;|&nbsp;'
