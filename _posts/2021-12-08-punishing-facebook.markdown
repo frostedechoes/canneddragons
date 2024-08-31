@@ -4,15 +4,7 @@ title: Punishing Facebook
 date: '2021-12-08 00:15:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- notes
 ---
 
 Facebook has been outed in the US for its dishonorable practices, but what it’s done in this country is nothing compared to the damage it has caused in other parts of the world. One the places where it has helped to create a perfect storm of violence by radicalizing users against the minority Rohingya is the country of Myanmar. The platform spread information and hate speech that cost the lives of a targeted group of people. In 2018, Facebook [essentially admitted](https://about.fb.com/news/2018/11/myanmar-hria/) to its role in the attacks carried out against the Muslim minority.
