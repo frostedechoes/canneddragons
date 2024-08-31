@@ -22,7 +22,7 @@ paginate: 5
 highlighter: rouge
 markdown: kramdown
 parse_block_html: false
-show_drafts: true
+show_drafts: false
 defaults:
   -
     scope:
