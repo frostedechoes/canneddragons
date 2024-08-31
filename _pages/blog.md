@@ -14,7 +14,7 @@ custom-nav:
 {%- include search.html -%}
 </div>
 
-{% for post in site.categories.essays %}
+{% for post in site.posts %}
 {%- unless post.categories contains "rss-club" or 
 post.categories contains "now"-%}
 {% include blog-listing.html %}
