@@ -7,15 +7,18 @@
 	{%- include header.html -%}
 	{%- include blogblurb.html -%}
 
-
-<section class="note-entry" markdown="1">
-<h1><a href="{{post.url}}" style="text-decoration: none;">{{post.title}}</a></h1>
-
-{{post.content}}
-
-<p class="note-date-line"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %d, %Y" }}</time> | <a href="{{post.url}}">⌘ Permalink</a></p>
-
-</section>
+	{% for post in site.categories.notes limit: 10 %}
+	<section class="note-entry" markdown="1">
+	<h1><a href="{{post.url}}" style="text-decoration: none;">{{post.title}}</a></h1>
+	
+	{{post.content}}
+	
+	<p class="note-date-line"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+	</section>
+	
+	
+	{% endfor %}
+	
 
 
 <h2>Latest posts</h2>
