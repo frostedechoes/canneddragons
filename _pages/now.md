@@ -10,4 +10,3 @@ layout: post
 
 {{ site.categories.now[0].content }}
 
-{% include now-listing.html %}
