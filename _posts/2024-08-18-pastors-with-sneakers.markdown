@@ -12,6 +12,8 @@ Jake Meador from *Mere Orthodoxy* recently wrote a piece titled [The Importance 
 
 As he writes about the particulars of the evangelical strain of Christianity, Meador notes their strangeness to more traditional Christians.
 
+<!--more--> 
+
 > People who aren't as steeped in evangelicalism as a sociological entity often find all this mystifying. One friend with ties to an eastern Christian tradition once remarked to me that, "you evangelicals are kind of a joke, you know? My people have been persecuted for centuries. Our children have been stolen from us. We've had martyrs. Our churches have been burned. But still we are faithful. We still follow God. We still meet for worship. We still pray. We still raise our children in the truth. But you evangelicals discover that critical race theory is a thing that exists and six months later you're devouring each other."
 
 The reference to devouring one another is a callback to the book of _Galatians_, an epistle by Saint Paul, to the church in Galatia.
