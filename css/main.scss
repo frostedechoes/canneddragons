@@ -429,6 +429,11 @@ aside, .callout {
   list-style-type: none;
 }
 
+.footnotes {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
 .footnotes li, .footnotes p {
   color: var(--light-font-color);
   font-size: var(--small-font-size);
