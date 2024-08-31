@@ -2,7 +2,6 @@
 layout: post
 title: Noble Oak - Eveningstar
 date: '2024-08-16 22:51:12'
-youtubeId: ZYRL4vHib4s
 tags:
 - noise
 - friday-night-video
@@ -16,7 +15,7 @@ The rocker vs. the ballad dynamic was perhaps never more obvious than on hair me
 
 Noble Oak’s “Eveningstar” is a balled in the rock tradition. Like Starship’s “Sara,” the song has an sophisticated urban sheen with its immaculate mix of keyboards and guitars. The lyrics flirt with unabashedly straightforward metaphors around love and loss. Lines like “the memory of you becomes a shining light, when you were in my life,” would have sounded perfect in the earnest and overdramatic eighties. 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% youtube ZYRL4vHib4s %}
 
 Noble Oak - Eveningstar ([YouTube](https://youtu.be/ZYRL4vHib4s?si=CnfKobHXyALLRFy1))
 
