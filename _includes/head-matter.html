@@ -44,12 +44,7 @@
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta name="twitter:image" content="{% if page.twitter-card-image %}{{ page.twitter-card-image }}{% else %}{{ site.twitter-card-image }}{% endif %}"/>
 
-     <!-- Bootstrap CSS -->
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-o/7i3EJtnKmiIfzkSxFDxI4Qdlfyyz+8eXZbmIsIJtt5QGeVqpbpTx4/z+Oiqmd2" crossorigin="anonymous">
-
-     <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/popper.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>
+ <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
 
     <!-- favicon and iOS shortcut icon -->
     <link rel="icon" href="{{ site.favicon }}">
