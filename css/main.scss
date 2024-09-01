@@ -457,6 +457,10 @@ iframe {margin: 24px 0!important;}
   font-size: var(--small-font-size);
 }
 
+sup { 
+  vertical-align: top; 
+}
+
 .search-bar {
   display: flex;
   margin-top: calc(.25 * var(--line-height));
