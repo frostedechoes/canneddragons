@@ -6,6 +6,7 @@ tags:
 - noise
 social-media-image-url: /static/post-content/castle-rat.jpeg
 Twitter-card-image: /static/post-content/castle-rat.jpeg
+description: I don’t want to, as the kids say, yuck anyone’s yum, but I’ve got to admit to finding most metal somewhat silly.
 ---
 
 ![Castle Rat](/static/post-content/castle-rat.jpeg)
