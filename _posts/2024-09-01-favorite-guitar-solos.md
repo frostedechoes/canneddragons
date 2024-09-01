@@ -1,6 +1,6 @@
 ---
 title: Goldenrise Dynamite Glue
-date: 2024-09-01
+date: 2024-09-01 16:00
 layout: post
 description: Some brief expressions and some that linger.
 tags: 
