@@ -33,7 +33,7 @@ defaults:
       blogpost: true
       layout: post
       og-type: article
-      social-media-image: false
+      social-media-image: true
     
   -    
     scope:
