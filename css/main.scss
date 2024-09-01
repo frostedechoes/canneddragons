@@ -151,15 +151,12 @@ main {
   width: 100%;
 }
 
-nav a[href="/"] {
-    font-weight: 700;
-}
 
-nav a[href='/feed.rss'] {
+nav a[href='/feed.xml'] {
   font-size: 0 !important;
 }
 
-nav a[href='/feed.rss']::before {
+nav a[href='/feed.xml']::before {
   font-family: "FontAwesome";
   display: inline-block;
   font-size: .85rem;
@@ -172,7 +169,7 @@ nav a[href='/feed.rss']::before {
   -webkit-font-smoothing: antialiased;
 }
 
-nav a[href='/feed.rss']::before {
+nav a[href='/feed.xml']::before {
   content: "\f09e";
 }
 
