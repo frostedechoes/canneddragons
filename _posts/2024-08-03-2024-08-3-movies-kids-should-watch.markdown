@@ -12,6 +12,8 @@ Jason Keil from *Lifehacker* [writes about the 25 movies](https://lifehacker.com
 
 Most of these are pretty obvious, though Charlie Chaplin's *The Circus* was a bit of a surprise. I believe my son has seen a good portion of these films, although *The Iron Giant* stuck out to me as one he should view at least once. The aesthetics and message of this one are well worth the investment of time. 
 
+<!--more-->
+
 ![The Iron Giant](/static/post-content/iron-giant.jpeg)
 
 I have been disappointed to the extent my son chooses to watch people play video games on YouTube over art with narrative and symbolism. I cannot help but think that this will lead to some sort of deficiencies in his understanding of the world. Perhaps he won't build the empathy necessary to put himself in other's shoes? Or maybe he won't see the meaning behind the material things?
