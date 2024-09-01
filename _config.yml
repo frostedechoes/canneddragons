@@ -13,7 +13,7 @@ language: en_US
 
 favicon: /static/about-pictures/blue-dragon.png
 social-media-image-url: /static/about-pictures/dragonmap.jpeg
-twitter-card-image: canned-dragons/static/about-pictures/dragonmap.jpeg
+twitter-card-image: /static/about-pictures/dragonmap.jpeg
 iOS-icon: /static/about-pictures/blue-dragon.png
 
 # leave these unless you are more familiar with jekyll settings
