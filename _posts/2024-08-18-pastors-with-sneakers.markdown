@@ -8,6 +8,8 @@ tags:
 category: blog
 ---
 
+![Wild Garlic](/static/post-content/wildgarlic.jpg)
+
 Jake Meador from *Mere Orthodoxy* recently wrote a piece titled [The Importance of Not Caring about Mark Driscoll](https://mereorthodoxy.com/after-evangelicalism-new-mainline) for *Mere Orthodoxy*. I am newly subscribed to _Mere Orthodoxy_ (eagerly awaiting my first print edition of the publication) but this was also shared by my friend Roger on [his blog](https://intellectualoid.com). 
 
 As he writes about the particulars of the evangelical strain of Christianity, Meador notes their strangeness to more traditional Christians.
