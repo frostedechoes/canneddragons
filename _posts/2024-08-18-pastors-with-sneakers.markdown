@@ -6,6 +6,7 @@ date: '2024-08-18 23:00:19'
 tags:
 - faith
 category: blog
+social-media-image-url: /static/post-content/wildgarlic.jpg
 ---
 
 ![Wild Garlic](/static/post-content/wildgarlic.jpg)
