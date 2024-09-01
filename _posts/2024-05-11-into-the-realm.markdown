@@ -5,6 +5,7 @@ date: '2024-05-11 21:52:47'
 tags:
 - noise
 social-media-image-url: /static/post-content/castle-rat.jpeg
+Twitter-card-image: /static/post-content/castle-rat.jpeg
 ---
 
 ![Castle Rat](/static/post-content/castle-rat.jpeg)
