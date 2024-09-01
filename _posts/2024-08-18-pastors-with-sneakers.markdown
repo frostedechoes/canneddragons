@@ -12,9 +12,10 @@ category: blog
 
 Jake Meador from *Mere Orthodoxy* recently wrote a piece titled [The Importance of Not Caring about Mark Driscoll](https://mereorthodoxy.com/after-evangelicalism-new-mainline) for *Mere Orthodoxy*. I am newly subscribed to _Mere Orthodoxy_ (eagerly awaiting my first print edition of the publication) but this was also shared by my friend Roger on [his blog](https://intellectualoid.com). 
 
+<!--more--> 
+
 As he writes about the particulars of the evangelical strain of Christianity, Meador notes their strangeness to more traditional Christians.
 
-<!--more--> 
 
 > People who aren't as steeped in evangelicalism as a sociological entity often find all this mystifying. One friend with ties to an eastern Christian tradition once remarked to me that, "you evangelicals are kind of a joke, you know? My people have been persecuted for centuries. Our children have been stolen from us. We've had martyrs. Our churches have been burned. But still we are faithful. We still follow God. We still meet for worship. We still pray. We still raise our children in the truth. But you evangelicals discover that critical race theory is a thing that exists and six months later you're devouring each other."
 
