@@ -409,6 +409,51 @@ aside, .callout {
   }
 } 
 
+/* All Posts  */
+
+a.more {
+  color: var(--main-text-color);
+  margin-top: 15px;
+  margin-bottom: 15px;
+    white-space: nowrap;
+   display: inline-block;
+    text-decoration: none; 
+    border: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  a.more:hover {
+    border: none;
+    color: var(--link-color);
+    text-decoration: none;
+  }
+  
+  a.more::after {
+  font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+  content: "→";
+  font-size: 14px;
+  color: var(--text);
+  margin-left: .5rem;
+  height: 1.2rem;
+  width: 1.2rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: inline-flex;
+  text-decoration: none;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  transition-property: transform,border,background,color;
+  }
+  
+  a.more:hover:after {
+    opacity: 1;
+      border: 2px solid transparent;
+      background: var(--link-color);
+      color: #fff;
+      }
+  
+
 .copy-buttons {
   margin-top: calc(.5 * var(--line-height));
 }
