@@ -2,16 +2,8 @@
 layout: post
 title: WandaVision Collateral Damage
 date: '2021-03-08 23:00:00'
-tags:
-
-- 
-
-
-
-
-
-
-
+tags: 
+- culture
 ---
 
 Over at Opuszine, Jason Morehead [has a detailed examination](https://opuszine.us/posts/what-does-wandavision-owe-westview) of what the WandaVision experiment put the citizens of Westview through and what they are owed in the narrative. He believes that an extra episode that deals with their trauma would be appropriate. In the piece, he discusses the unreliability of Wanda as a narrator with regards to whether she knows what her spell is inflicting upon the citizens of Westview.
