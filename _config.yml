@@ -19,7 +19,6 @@ iOS-icon: /static/about-pictures/blue-dragon.png
 # leave these unless you are more familiar with jekyll settings
 
 excerpt_separator: "<!--more-->"
-paginate: 5
 highlighter: rouge
 markdown: kramdown
 parse_block_html: false
