@@ -3,15 +3,15 @@ layout: post
 title: Many People Are Saying…
 date: '2022-10-19 22:45:52'
 tags:
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 Several times a week, I get an email from my son's high school with a link to a newsletter-type of page that details events at the school. To be honest, I don't often read it. I assume that if there's anything important going on, my son will tell me. One thing I'm not concerned about is the newsletter informing me that the school is installing litter boxes for students who identify as furries. That may sound crazy, but some parents are truly worried about it.

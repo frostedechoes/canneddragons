@@ -4,15 +4,15 @@ title: Minimal Mac
 date: '2022-08-25 00:35:29'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 I was texting with an old friend the other day, and he was documenting his progress in getting three monitors set up. Since he has an M1 Mac Mini, like I do, he could only easily support two monitors. He turned to Universal Control with a MacBook Air to get three displays going. He was trying monitor stacking and side by side setups. I told him I just preferred a simple iMac and no external monitors, which is why I only have one monitor that my work MacBook Pro and Mac Mini share.

@@ -3,12 +3,12 @@ layout: post
 title: Doctrine of the Mean
 date: '2023-05-19 01:28:29'
 tags:
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 A few months ago, in my Orthodoxy 101 class, we discussed Aristotle's "doctrine of the mean." I immediately felt attached to the framework, as I tend towards moderation. In Aristotle's conception, the golden mean is [avoiding the extremes of any given characteristic](https://www.gotquestions.org/doctrine-of-the-mean.html).

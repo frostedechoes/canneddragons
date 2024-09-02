@@ -3,15 +3,15 @@ layout: post
 title: The Night the Darkness Revolted
 date: '2021-10-09 18:09:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
  **Revenge bedtime procrastination** came up as a topic of discussion on Micro.blog a little while ago (I believe it was brought up by [@omrrc](https://micro.blog/Omrrc) and [@jean](https://micro.blog/jean)). It’s easy to fall into this practice, which is one in which you stay up late doing all manner of meaningless things just because the time before you go to bed is the only time that feels like your own. You mindlessly scroll through Twitter or vapid news headlines. You play a dumb game on your phone. Many times, this procrastination is done to counteract a day full of meeting demands and the expectations of others. For me, the late evening is sometimes the only part of the day when I don’t feel bad. So, even as my health improves, I’ve still found myself in a pattern of looking at that time as window of opportunity.

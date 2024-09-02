@@ -5,12 +5,12 @@ date: '2023-06-16 23:30:30'
 tags:
 - friday-night-video
 - noise
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 We haven't yet made it through the first half of the year, but I think I have a contender for my favorite song of 2023. "Tides Turn" has a sound that blends R&B, dream pop and trip-hop. It is another standout track in a collection of soulful tunes from Patrick Fiore. Fiore is the mastermind behind the Noble Oak moniker and wrote, recorded, produced and mixed the track.

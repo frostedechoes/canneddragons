@@ -4,15 +4,15 @@ title: Repairing the Cracks (kintsugi style)
 date: '2022-01-20 04:27:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Sometimes, I feel like I need to stop ruminating on the "deep cleavages in American society," as [this piece](https://www.bushcenter.org/publications/articles/2021/12/democracy-talks-strengthening-american-democracy-with-religious-freedom.html) from the Bush Institute refers to them. I wonder if it would be helpful to remember the turbulence of the sixties, just to have some frame of reference for comparison, but it doesn't seem to be doing much good for my mom's outlook. She's just as exasperated with our current climate as the rest of us.

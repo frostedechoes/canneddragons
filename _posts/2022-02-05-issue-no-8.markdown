@@ -5,15 +5,15 @@ date: '2022-02-05 17:05:00'
 tags:
 - newsletter
 - newsletter-1
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Welcome to the eighth issue of Week on the Web. I hope your week has gone well. After just under a year of not being able to work, I went back to my job this week, albeit at a fraction of the hours I was working previously. While I started off with a lot of energy, as the week went on, that began to wane. It's tough working with chronic illness that threatens to pull you under. When disability works her merciless machinations in your life, you have trouble making solid plans. God willing, I will be able to get used to this new schedule and maybe increase my hours some. I've found out that I need a buffer of at least a couple of hours to actually get things done, outside what I've specified are my official "office hours."

@@ -4,15 +4,15 @@ title: Ethical Consumerism and the Amazon Dilemma
 date: '2021-08-10 01:03:01'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Last Christmas, my sister had one prohibition on her wishlist for her Secret Santa: Nothing should be purchased for her on Amazon.com. Other than that, there were some helpful suggestions about things she wanted. I never asked her directly why the caveat about where items were purchased. I didn’t do so because it seemed obvious that there were a number of reasons a person would not want to support Amazon.

@@ -4,15 +4,15 @@ title: An Argument for Blog Portability
 date: '2022-08-17 23:00:00'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 Last week, I published [a micro post](https://frostedechoes.com/2022/08/09/this-post-on.html) about my thoughts after reading Matt Birchler admonish his readers against switching blogging platforms. Birchler's main point was that switching platforms made it harder on readers and, therefore, more difficult to retain consistent readership. It's a solid point and one that really resonated with me. I have a tendency to tinker with different tools, some of which are blogging engines. That means I sometimes use different services to publish my posts.

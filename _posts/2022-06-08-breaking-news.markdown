@@ -3,15 +3,15 @@ layout: post
 title: Breaking News
 date: '2022-06-08 01:02:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 A colleague was just telling me about how he hasn't watched the news in approximately three years. He found himself getting so agitated by both sides of the political spectrum and the way the news was presented, that he just quit cold turkey. He feels like he's much happier for the change, and his wife fills him in if something major happens.

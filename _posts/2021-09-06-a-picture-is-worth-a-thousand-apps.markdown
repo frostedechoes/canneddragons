@@ -4,15 +4,15 @@ title: A Picture Is Worth A Thousand Apps
 date: '2021-09-06 22:02:27'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 The new photo sharing app, [Glass](https://apps.apple.com/us/app/glass-photography-community/id1528446339), has been getting a lot of attention. One particular corner of the internet where it has received significant buzz is the Micro.blog community. The attention is both surprising and not surprising. It's not surprising because that community tends to be very tech literate and have a great curiosity for new apps and platforms, such as social networks, email tools, blogging services or note taking apps. A well made app like Glass with a new community that already seems to be passionate is bound to be a discussion on the M.b. network of federated blogs. The enthusiasm is also expected because Micro.blog has quite a few very talented photographers.

@@ -4,15 +4,15 @@ title: Vinyl Church
 date: '2020-12-05 16:35:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Jonas Ellison writes about [wanting to attend a vinyl church](https://link.medium.com/BjrxkbCBYbb), and I’m here for it. What does he mean by a vinyl church? He is using vinyl as a reference for older traditions that are slower and more thought out. Vinyl church’s don’t try so hard to be accessible to the younger generation.

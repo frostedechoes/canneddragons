@@ -3,15 +3,15 @@ layout: post
 title: Come To The Dark Side (We Have Cookies)
 date: '2022-05-22 17:39:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 A lot of times, when I watch movies that pit good vs. evil in easily distinguishable sides, I wonder about someone actually choosing a path that is clearly evil. Take Star Wars, for example. Why would someone choose to be on the dark side, with all the available evidence that it's just _evil_? There are moments when I have trouble suspending my disbelief. George Lucas tried hard to make Anakin's descent into the evil persona of Darth Vader believable, but it was still rough around the edges. The depiction of evil in movies can be so exaggerated as to be cartoonish.

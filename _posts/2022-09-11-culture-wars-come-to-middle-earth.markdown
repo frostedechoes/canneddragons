@@ -4,15 +4,15 @@ title: Culture Wars Come To Middle Earth
 date: '2022-09-11 18:04:00'
 tags:
 - culture
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 In [Your Favorite Pop Culture Has Just Gone “Woke.” Now What?](https://opuszine.us/posts/your-favorite-pop-culture-has-gone-woke-now-what) by Jason Morehead, the author examines some perceived changes brought to Middle Earth mythology by the new Amazon Prime series _Lord of the Rings: Rings of Power_. If you've come across any of the common objections to the show, this is a really helpful piece to read. I mention this in large part because Morehead has a good grasp of the material being examined and brings an informed view to the debate. In discussions over nerdery and pop culture, familiarity with the source material and thus, understanding of authorial intent, generally wins the day.

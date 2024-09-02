@@ -3,12 +3,12 @@ layout: post
 title: Tongues of the Future
 date: '2023-05-16 02:22:34'
 tags:
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 Malcolm Harris writes for Wired magazine about Doug Rushkoff, a techno optimist who had his predictions and assumptions about the future challenged. As a consequence, Rushkoff had to overhaul his outlook on technology. Rushkoff is a prolific author and Harris writes about his various books, including one called _Survival of the Fittest_.

@@ -3,15 +3,15 @@ layout: post
 title: Hyper-capitalism vs. The World
 date: '2022-03-29 15:57:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Rebecca Riddell [has an opinion piece](https://www.washingtonpost.com/opinions/2022/01/10/usaid-private-health-systems-kenya/) for the Washington Post (🔗 Via [Lisa Sieverts](https://micro.blog/agilelisa)) on the US trying to export privatized healthcare to nations that in some cases, at least, have pretty robust public healthcare systems in place. The example that she hones in on is Kenya, where the U.S. Agency for International Development (USAID) is trying to push "market-based approaches" to incentivize private actors in the healthcare space. In many case "privatization" becomes a euphemism for exploitation, just as "consumer choice" in healthcare is code for the patient pays the cost. While many countries around the world have capitalism as their economic model, it seem only the US has a sort of _hyper-capitalism_.

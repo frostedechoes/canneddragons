@@ -5,12 +5,12 @@ date: '2022-12-31 03:47:00'
 tags:
 - friday-night-video
 - noise
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 I generally don't do year-end lists, but I like to share a couple of my favorites things from the past year. In this interstitial time between Christmas and New Year's, I get a chance to reflect back on what I've enjoyed, while having very few demands on my time.

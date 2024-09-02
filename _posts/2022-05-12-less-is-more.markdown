@@ -4,15 +4,15 @@ title: Less Is More
 date: '2022-05-12 01:06:21'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I have decided I need to introduce some changes to how I post online. I typically write a lot of link posts because I read quite a bit online and want to share things that I think are interesting. This comes from a desire to add my thoughts to what is put out there by others, and — let’s face it — comment sections are a pretty bad way to do it. Lately, though, a lot of what I see online has to do with the outrage of the week. “Outrage of the week” sounds like some cute embellishment, but it has become literally accurate. Every week, the people on the internet collectively lose their minds about a particular subject. Then, everyone gives a hot take on that subject. When the next week hits, there’s a new subject to write about. It has become an all-too-familiar standard pattern.

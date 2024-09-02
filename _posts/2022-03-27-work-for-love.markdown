@@ -4,15 +4,15 @@ title: Work For Love
 date: '2022-03-27 23:22:00'
 tags:
 - noise
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Ministry mastermind Al Jourgenson, or "Uncle Al" as he is affectionately known (probably as much for his crazy, constantly revised stories about his past as for his status as elder statesman and progenitor of the industrial genre of music) tried to erase the synthpop era of the band. Their first album, 1983’s _With Sympathy_ was recorded for Arista Records who, according to Uncle Al, was constantly forcing him to compromise his artistic vision. When Ministry moved to Sire Records for their second album, 1986's _Twitch_, Jourgenson disclaimed the first record and told fans to burn it.

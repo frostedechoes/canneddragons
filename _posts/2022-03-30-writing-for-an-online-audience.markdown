@@ -4,15 +4,15 @@ title: Writing For An Online Audience
 date: '2022-03-30 15:22:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 At Micro Camp 2021, Patrick Rhone [did a talk on writing a book](https://youtu.be/IzazNAW3MCM) and he delved into the topic of blogging, which he framed as writing essays for an online audience. His point was that if you are a blogger, you are a writer. A writer for those who read your content online. It was an inspirational talk in how it shifted the way you can think about your writing and your readers. A little change in perspective can go a long way when you are trying to motivate yourself to put pen to paper, or fingers to keyboard, in this case.

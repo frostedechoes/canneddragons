@@ -5,15 +5,15 @@ date: '2021-12-25 00:00:00'
 tags:
 - friday-night-video
 - noise
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 This is definitely the most playful music video I've seen in some time. You have Hazel English, mostly dressed like a school girl from a private prep school, goofing around in fountains, reading in the grass, and well, attending school. The song exudes a twee charm with a suitable theme about crushing on someone and following them around like a puppy dog. I love the urgency in the guitar solo that closes out the song. It’s like shaking up a bottle of soda pop (soda for those in the East Coast and pop for those in the Midwest) and then opening it up to a carbonated explosion that sends the beverage everywhere.

@@ -4,15 +4,15 @@ title: The Twitter Corps
 date: '2022-03-13 23:48:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 In a piece entitled [It's Not Your Fault You're a Jerk on Twitter](https://www.wired.com/story/social-media-harassment-platforms), Katherine Cross writes for Wired Magazine about the psychological dynamics that drive antisocial behavior patterns on social networks. Her analysis on how the platforms accelerate what is already dissociative behavior from the human beings behind the keyboard draws parallels from unlikely places, such as urban planning.

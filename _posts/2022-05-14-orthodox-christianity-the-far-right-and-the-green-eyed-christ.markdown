@@ -4,15 +4,15 @@ title: Orthodox Christianity, The Far Right and the Green-Eyed Christ
 date: '2022-05-14 23:00:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 A new book entitled _Between Heaven and Russia: Religious Conversion and Political Apostasy in Appalachia_ examines how more conservative and even far-right Christians are flocking to the Russian Orthodox Church Outside of Russia (ROCOR). The phenomenon is detailed by Odette Yousef in the NPR piece [Orthodox Christian churches are drawing in far-right American converts](https://www.npr.org/2022/05/10/1096741988/orthodox-christian-churches-are-drawing-in-far-right-american-converts).

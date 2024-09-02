@@ -4,15 +4,15 @@ title: Kessler Syndrome
 date: '2021-11-20 19:00:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I remember a time, not long ago, when we laughed at the introduction of Space Force from then-president Donald Trump. It was easy to jest, with the name that itself sounded like a parody, coming from a president that never could quite get anything real done. Of course, some of us remember "Star Wars," the space missile shield that president Reagan made up to psych-out the Soviets. Decades of science fiction speculation haven’t quite turned out the way they were depicted. None of us are using jet packs to get to work and we haven’t colonized the moon or Mars. We’ve been conditioned to be skeptical about outlandish sounding initiatives involving space.

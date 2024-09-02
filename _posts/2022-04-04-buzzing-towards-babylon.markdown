@@ -4,15 +4,15 @@ title: Buzzing Towards Babylon
 date: '2022-04-04 15:11:00'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 With no formal announcement (whoops), Wordpress.com changed their pricing significantly, removing the paid tiers for personal blogging and leaving nothing in between the free plan and the $180 Business plan. I've often thought that Wordpress doesn't want to be in the business of personal blogging. Before they recently made the switch to block-based themes, most of their newer themes on Wordpress.com were geared towards businesses. It was clear from the descriptions of the themes and the static homepages advertising businesses that they weren't built with blogging in mind.

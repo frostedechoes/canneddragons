@@ -4,14 +4,14 @@ title: Tumbling Down
 date: '2023-03-24 12:53:39'
 tags:
 - tech
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
+
+
 ---
 
 Jonathan Haidt and his colleague, Greg Lukianoff, believe that the enormous increase in mental health issues for young women who are identified as "liberal" has to do with [going through a sort of reverse CBT process](https://www.thefp.com/p/why-the-mental-health-of-liberal). CBT (Cognitive Behavioral Therapy) is one of the most effective tools for combating depression and a process that greatly helped Lukianoff recover from his own difficult bout with the dark clouds. CBT, in short, helps an individual to regain their sense of agency over mental processes like catastrophizing or intrusive thoughts.

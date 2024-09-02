@@ -4,15 +4,15 @@ title: Likes and Easy Feedback
 date: '2021-11-02 14:04:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 There has been a fair amount of debate recently about the utility of being able to “like” posts on social sites. Specifically, this has come up in the form of discussion around the photo sharing site, Glass, and their decision to eschew ways to “like” a post. Although likes are standard throughout social media sites, the idea to exclude them is not new. As I mentioned in [this post]( __GHOST_URL__ /2021/08/19/a-picture-is.html), it’s one of the design principles that Glass follows that already existed on Micro.blog.

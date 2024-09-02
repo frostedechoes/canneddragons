@@ -5,15 +5,15 @@ date: '2022-02-26 17:00:00'
 tags:
 - newsletter
 - newsletter-1
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 As I [mentioned this week](https://twitter.com/mineinmono/status/1496980727098920964?s=21), my great-great-grandfather moved his family from the Ukraine to Minnesota in the 1870s to escape Russian persecution. He was part of the first wave of Mennonites to leave. It got worse for the ones who stayed when the Bolsheviks and Anarchists came through with their assaults on a peaceful people who refused to fight back (though some of them finally did—you can only push people so far). I am praying for the people in Ukraine as they bravely stand up to the Russian aggression, which even the people of Russia do not support. I have hope that this will end badly for the dictator in Moscow.

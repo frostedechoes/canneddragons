@@ -4,15 +4,15 @@ title: Spotify Canceled
 date: '2022-02-02 01:53:41'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 If you aren't up-to-date on why artists like Neil Young and Joni Mitchell are upset with Spotify's bankrolling of Joe Rogan and the potentially harmful content on his podcast, Robert Wright [has a balanced take](https://nonzero.substack.com/p/is-robert-malone-crazy) that's worth reading. Wright goes into the episode with Dr. Robert Malone, and the claims that were made by the doctor don't hold up well under scrutiny. Artists want to avoid being associated with a music service that also subsidizes content that could be detrimental to those who take it to heart.

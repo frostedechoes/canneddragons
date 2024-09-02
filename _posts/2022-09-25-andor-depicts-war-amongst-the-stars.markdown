@@ -4,15 +4,15 @@ title: Andor Depicts War Amongst The Stars
 date: '2022-09-25 15:37:00'
 tags:
 - culture
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 I will start by showing my cards here and admitting that I can’t wait to see _Andor_, the latest of the Star Wars shows to premiere on Disney+. The only reason I haven’t already dipped back into the _Star Wars_ universe is that my imagination is currently in Middle Earth, where the harfoots are undertaking a perilous journey and Sauron and his juicy, sunscreen-hoarding orcs are on the move. If I weren’t so deep into the story that _Rings of Power_ is weaving, I would have settled down in front of the big screen with the lights off and watched for that familiar _Star Wars_ logo that has brought joy to me since I was a kid. I’ve been waiting for a while for _Andor_ to come out and I have greater expectations for this show than any of the previous _Star Wars_ episodic TV shows (although I ended up enjoying them all).

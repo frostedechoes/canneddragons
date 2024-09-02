@@ -4,14 +4,14 @@ title: Last Known Good
 date: '2023-01-25 04:55:14'
 tags:
 - faith
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
+
+
 ---
 
 I've been working on my blog design lately. Occasionally, a situation will arise in which I do something that totally messes things up, and I wish for the option to roll back to a "last known good" configuration. I used to love this option on Windows. If you (or a process or driver) did something that put the operating system in a bad state, you could always roll back to the last known good state and get things up and running. It was like being able to go back in a time machine to before a failure (a power most of us would like to have IRL). It was a chance to correct something and make it right, and then avoid the negative consequences.

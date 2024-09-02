@@ -4,15 +4,15 @@ title: Tough Love
 date: '2021-09-07 00:02:49'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I recently started listening to the much-acclaimed podcast on the Rise and Fall of Mars Hill, produced by Mike Cosper. Mars Hill is the Seattle-based church that was founded by hyper-masculine pastor Mark Driscoll. I always found Mark Driscoll to be deeply suspect and wondered where he fit into Christian theology. In many clips I see or hear of him, he's yelling "who do you think you are???!!!" or "how dare you!!!"<sup><a href="#fn1-19012">1</a></sup> He sounds like me when I think my wife has eaten the dark chocolate marshmallows I got from Trader Joe's.

@@ -3,15 +3,15 @@ layout: post
 title: Inoculation Station
 date: '2021-11-25 01:00:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Paul Kingsnorth kind of lost me on [his anti-vaxxer rant](https://paulkingsnorth.substack.com/p/the-vaccine-moment-part-one) this week. He is particularly worried about the increasingly stringent measures in Austria and Germany to get everyone vaccinated. Historical events in these countries give him particular cause for concern.
