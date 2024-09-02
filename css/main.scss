@@ -453,8 +453,14 @@ a.more {
       background: var(--link-color);
       color: #fff;
       }
-  
 
+      
+iframe.letterbird-embed {
+background: transparent !important;
+border-radius: 0 !important;
+box-shadow: none !important;
+margin: -10px -10px 0 !important;
+}
 .copy-buttons {
   margin-top: calc(.5 * var(--line-height));
 }
