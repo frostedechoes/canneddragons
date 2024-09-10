@@ -4,13 +4,13 @@ title: I'm Still Uncomfortable With Amazon
 date: '2023-05-06 00:39:30'
 tags:
 - tech
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
+
 ---
 
 A couple of years ago, [I wrote about Amazon]( __GHOST_URL__ /2021/08/10/conscientious-consumerism-and.html) and my discomfort with a number of the practices that the company employed. After writing the post, I was on a kick in which I was shunning Amazon and avoiding being a consumer of their services. That lasted for about a year, and then my convictions started to wear thin. I started watching shows on Prime. I started ordering things like supplements from Amazon when I realized how expensive and inconvenient it was to buy them from multiple vendors. I began to buy home improvement items from Amazon when I couldn’t find them at any of the big box retailers around me.

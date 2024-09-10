@@ -3,15 +3,15 @@ layout: post
 title: Anger Unmasked
 date: '2022-01-08 20:28:38'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 In our county, mask mandates in schools continue to be a [hot button issue](https://www.newsobserver.com/news/local/education/article257027197.html). There are parents who blame the enforcement of mask rules for deteriorating mental health amongst students. These parents are frustrated and seeing their kids struggling encourages them to want to do something.

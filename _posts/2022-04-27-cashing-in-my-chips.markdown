@@ -4,15 +4,15 @@ title: Cashing In My Chips
 date: '2022-04-27 01:13:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 My first thought when read (at the end of a long day of work) that Elon Musk had purchased Twitter, was some measure of disbelief. I'm almost embarrassed to admit the second thought that popped into my head after reading the news. Yep, it is definitely with some shame that I tell you my disbelief was quickly followed by relief. I'm aware that may be surprising. It surprised me, too.

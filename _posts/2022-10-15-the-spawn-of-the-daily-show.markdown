@@ -3,15 +3,15 @@ layout: post
 title: The Spawn of The Daily Show
 date: '2022-10-15 22:20:41'
 tags:
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 If you are as interested in media trends and their implications as I am, [an article in _The New Atlantis_](https://www.thenewatlantis.com/publications/how-stewart-made-tucker) about how Jon Stewart laid the foundations for the type of show we see from Tucker Carlson may be the most fascinating thing you read all year. Its author, Jon Askonas, an assistant professor of politics at the Catholic University of America, makes the case in a provocative and insightful way. He takes aim at polarization in new media and how Stewart unintentionally built-up this polarization.

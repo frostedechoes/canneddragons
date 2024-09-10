@@ -4,15 +4,15 @@ title: The Upside Down
 date: '2022-03-11 16:39:00'
 tags:
 - stories
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I did most of my growing up in the suburbs of the District of Columbia, during the Reagan administration. We took many of our school field trips into D.C., including a few to the White House, and of course, to the plethora of wonderful museums that can be found in the district. My great aunt worked for several Republican politicians and made an identity out of her political affiliation. She wore jewelry with elephants. Great beasts made small to fit on a chain around her neck. She collected bicentennial quarters for me in a bag. I think it was to remind me that the 200 year anniversary of the nation's birth was also the year I came into the world. I loved that she took me to the White House Easter Egg roll. My sister and I got our picture taken with Spider-Man. I came away one year with an anti-drug comic book about the Teen Titans. The image of Speedy, all strung out on smack, haunted me as a child. I like to think that's exactly what Nancy Reagan would have wanted. One time I got to actually go into the Oval Office and leave jelly beans on the desk for President Reagan (his favorite candy).

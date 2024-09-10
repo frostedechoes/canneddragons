@@ -4,14 +4,14 @@ title: The Candy Culture Wars
 date: '2023-02-21 23:39:17'
 tags:
 - culture
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
+
+
 ---
 
 John Paul Brammer [wades into the candy culture wars](https://holapapi.substack.com/p/everything-is-a-war-now) (which are adjacent to the chicken sandwich culture wars and seem to provoke no less depth of feeling, if not many true casualties) on his Substack.

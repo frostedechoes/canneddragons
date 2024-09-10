@@ -5,15 +5,15 @@ date: '2022-10-29 02:24:11'
 tags:
 - tech
 - featured
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 So, the deal has finally gone through, and Elon Musk is the new owner of Twitter. The first thing I wanted to do when I heard this was check on those who swore to get rid of Twitter if Musk ran it. Would they have fidelity to their promises? My lady friend pulled down all of her data and said she was cancelling her account. This would be a big move for her, as she is a fairly voracious Twitter consumer. No more cute cat videos _or_ political snark. Predictably, when I asked her about it again, she just hadn't gotten around to it and then the next time I saw her, she was doomscrolling on the site.

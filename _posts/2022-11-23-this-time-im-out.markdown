@@ -4,15 +4,15 @@ title: This Time, I'm Out
 date: '2022-11-23 13:20:44'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 After **14 years** and over **10,000 tweets** , I've deactivated my Twitter account. I've been critical of Twitter for a long time now without actually leaving the platform. Obviously, things have changed rapidly for the worse. When, on Saturday, Elon Musk let DT back on the platform, while including a little blasphemy with his announcement, that was the last straw. Almost all of my tweets were syndicated from Micro.blog, anyway. I thought about pinning a tweet that pointed to where you can find me now, but if you have been following my account for any length of time, you already have that information.

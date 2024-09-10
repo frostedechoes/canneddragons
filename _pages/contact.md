@@ -4,29 +4,14 @@ description: "Email is the best way to get in touch."
 permalink: /contact
 --- 
 
+## Email
 
+I love to get email. I still think it's one of the better forms of asynchronous communication. If you have any questions or comments about these posts, please feel free to send me a note.
 
-Email’s the best way to get in touch: 
-
-**{{ site.email }}**
-
-<div class="tag-list copy-buttons">
-
-<button class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">Copy address</button>
-
-<a href="mailto:{{site.email}}">Send email</a>
+<div class="contact">
+<script data-letterbirduser="rcrackley" src="https://letterbird.co/embed/v1.js"></script>
 </div>
 
-Add some social media or other ways to follow you.
+## Social
 
-[RSS](/rss) is the best way to follow me.
-
-<script>
-
-// copy email to clipboard
-
-function copyEmailtoClipboard() {
-    navigator.clipboard.writeText((arguments[0]));
-}
-
-</script>
+You can also find me on the socials. I'm [@minemono@mastodon.world](https://mastodon.world/@mineinmono) on the fediverse and [@canneddragons.bsky.social](https://bsky.app/profile/canneddragons.bsky.social) on Bluesky.

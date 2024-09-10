@@ -3,10 +3,10 @@ layout: post
 title: No Country for Rich Men North of Richmond
 date: '2023-08-31 01:59:45'
 tags:
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
 ---
 
 Recently, a musician with the adopted name of Oliver Anthony became famous overnight for a song he performed entitled "Rich Men North of Richmond." The song, which reveals the frustrations that many feel at those with money and political influence, resonated with a lot of people, catapulting Anthony into the spotlight. It probably doesn't hurt that Anthony has the kind of Appalachian folk hero looks that match the subject matter of the song. Since Anthony has something to say, and a message to get across, this is an enviable position for him to be in. Unlike many who struggle to find a platform through which to gain an audience for their grievances — whether legitimate or not — Anthony has found his people, so to speak.

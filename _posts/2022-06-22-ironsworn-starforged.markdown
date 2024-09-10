@@ -3,15 +3,15 @@ layout: post
 title: 'Ironsworn: Starforged'
 date: '2022-06-22 23:00:37'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I wrote about the sci-fi successor to the fantasy tabletop RPG _Ironsworn_ in the [Week on the Web newsletter]( __GHOST_URL__ /newsletter/issue-no-8/) a few months ago. [_Starforged_](https://www.ironswornrpg.com/product-ironsworn-starforged) has now been officially releases in digital form, with pre-orders for the hard copy being taken as well. The worldbuilding for this game looks fantastic, and its influences are an enticing mix of sci-fi fantasy universes.

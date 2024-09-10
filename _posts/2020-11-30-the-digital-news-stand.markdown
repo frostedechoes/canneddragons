@@ -4,15 +4,15 @@ title: The Digital News Stand
 date: '2020-11-30 17:02:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 When I think of new media coming to us in the form of a la carte, individual packages, I can’t help but think of the advice to “be careful what you wish for.” For years we decried the bundles that were offered to us by cable providers. “Who needs all of those channels,” we rightly asked ourselves. We wondered loudly about why we should have to pay for a bunch of networks we didn’t watch.

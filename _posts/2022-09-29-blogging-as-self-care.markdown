@@ -4,15 +4,15 @@ title: Blogging As Self-Care
 date: '2022-09-29 15:30:00'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 I have been on a sort of crusade to get more people to blog recently. If I come across a person who is interesting and has something worthwhile to share, I urge them to start a blog. I have a friend at work who, in the early days of the Ukraine war, was sending updates about the conflict to a large group of people via an email distribution list. I suggested he commit his ideas to a blog instead. At first, he wasn't into the idea. One of the reasons he gave me was that he had too much going on and he needed self-care time, in addition to all the craziness in life. I remarked to him that the activity of blogging is my self-care time.

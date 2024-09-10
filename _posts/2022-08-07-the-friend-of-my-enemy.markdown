@@ -3,15 +3,15 @@ layout: post
 title: The Friend Of My Enemy
 date: '2022-08-07 23:00:47'
 tags:
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 The biggest irony of the last couple of weeks has to be Rep. Peter Meijer’s loss in the Western Michigan Republican primary. As recently as the end of last year, The Atlantic did an in-depth profile on Meijer and how he was at odds with his own party of the impeachment of Donald Trump and other issues related to the former president.

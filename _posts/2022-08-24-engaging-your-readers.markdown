@@ -4,15 +4,15 @@ title: Engaging Your Readers
 date: '2022-08-24 03:47:33'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 A few weeks ago, Baylor professor and author [Alan Jacobs](https://micro.blog/ayjay) wrote a post (I can't find it now — possibly deleted) about how best to get his regular readers to contribute financially to his online writing. He posed the question of what would provide value to his followers to the extent that they would be willing to offer remuneration for his work. It's a question many prolific writers have these days. I believe the desire to make money from your writing online is strengthened by the fact that companies like Substack and Ghost are in the business of making people feel like their work can provide a sustainable income.

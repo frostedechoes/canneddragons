@@ -4,15 +4,15 @@ title: Rooted In Place
 date: '2022-12-09 00:19:00'
 tags:
 - faith
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 In a worship service recently, our pastor explored the genealogy of Jesus as presented in the book of Matthew. It was a thought-provoking homily about family ties. Alastair Roberts [writes for Plough magazine](https://www.plough.com/en/topics/faith/bible-studies/decoding-the-bibles-begats) about how we fit our own lives into the continuum of people that have come before us.

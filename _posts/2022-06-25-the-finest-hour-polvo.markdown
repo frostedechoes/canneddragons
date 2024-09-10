@@ -4,15 +4,15 @@ title: "\U0001F3B5 Finest Hour – Polvo"
 date: '2022-06-25 22:06:00'
 tags:
 - noise
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 In [a recent newsletter](https://world.hey.com/adamwood/tendrils-007-self-promo-bouquet-e1a95972), Adam Wood proposed something called "Finest Hour." The project was to create an hour-long playlist from a favorite artist. He placed special emphasis on the process of track selection and sequencing. I was intrigued by the idea. This exercise might have been more fun in the days of cassette tapes, when you truly would be limited by the constraints of the physical medium itself. The project would take a lot longer, but the challenge itself would be more rewarding.

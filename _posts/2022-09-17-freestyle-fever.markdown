@@ -4,15 +4,15 @@ title: Freestyle Fever
 date: '2022-09-17 23:00:00'
 tags:
 - skateboarding
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 A [fellow microblogger](https://micro.blog/bloftin2) has been posting videos of himself freestyle skateboarding and it has reminded me of how artistic the form can be. One of my favorite freestylers is the Rodney Mullen-influenced Japanese skater [Isamu Yamamoto](https://youtu.be/MmJ2w7tXRGc). Yamamoto is sponsored by Powell Peralta (yep, _that_ [Powell Peralta](https://powell-peralta.com/)). Looking for his videos on the Powell site led me to another amazing freestyler, Kilian Martin.

@@ -4,12 +4,12 @@ title: "\U0001F3B5 Romantic Piano"
 date: '2023-06-03 14:03:27'
 tags:
 - noise
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 Gia Margaret [caught my ear a few years ago](https://micro.canneddragons.net/2020/04/27/margaret-on-the.html), after she contracted a vocal illness that forced her to create instrumental music for her second album. I was mesmerized by the ambient track "Body" and the accompanying video.

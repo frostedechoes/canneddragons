@@ -5,12 +5,12 @@ date: '2023-01-23 01:58:48'
 tags:
 - culture
 - noise
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 I used to have a well-worn VHS cassette of Sonic Youth's tour video, 1991: The Year Punk Broke. It featured a just-experiencing-stardom phase of Nirvana, but that wasn't the reason I watched it over and over. I was more interested in the Sonic Youth and Dinosaur Jr. performances that were recorded at these giant European music festivals. Until Lollapalooza sprang forth from the mind of Perry Farrell, we didn't have bands like Sonic Youth playing huge outdoor venues in North America.

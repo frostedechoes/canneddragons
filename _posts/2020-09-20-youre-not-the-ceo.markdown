@@ -4,15 +4,15 @@ title: You’re Not The CEO
 date: '2020-09-20 11:33:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Mio works at a record store in Gothenburg, Sweden (also home to one of the finest contemporary psych rock bands, [Hollow Ship](https://hollowship.bandcamp.com/album/future-remains-lp)). Mio has been posting artistic photos of albums for a few years, most recently focusing on body art to complement the album covers. Perusing through her astonishingly well executed posts could easily eat up a good chunk of your day.

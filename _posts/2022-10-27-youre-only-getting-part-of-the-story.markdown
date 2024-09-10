@@ -4,15 +4,15 @@ title: You're Only Getting Part Of The Story
 date: '2022-10-27 02:09:15'
 tags:
 - featured
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 I have been writing a fair amount about bias in journalism and how it's leading to more polarization. [One such piece]( __GHOST_URL__ /sophists-and-frost-giants/) received a couple of (fair) remarks about how NPR had the most journalistic integrity out of the organizations I singled out. In terms of bias, I don't think NPR is the worst offender, but I can see clearly that the organization's view of the world shapes what it reports on and how those things are reported. I included NPR and Fox News in the same sentence on bias, and perhaps that was a bit unclear. After all, my wife and I are sustainers of our local NPR affiliate, WUNC, and I would certainly never say the same of an organization like Fox News (even if it was using a publicly sustained model).

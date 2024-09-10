@@ -3,13 +3,13 @@ layout: post
 title: Here's To Shutting Up
 date: '2023-04-02 18:47:01'
 tags:
-- hash-import-2023-05-05-21-23
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
+
 ---
 
 I recently listened to an episode of the Art of Manliness podcast about the ability to shut up in a world that won't stop talking. The guest on the show was Dan Lyons, who recently wrote the book STFU: The Power Of Keeping Your Mouth Shut In An Endlessly Noisy World. Unfortunately, at least a few people who read Lyons' book thought the author himself had a problem shutting up. Ironically, Lyons couldn't help himself from putting partisan political jabs in a book where they didn't really fit the subject. "This tracks," as they say. These days, high on social media, people really have trouble suppressing their urges to get those little jabs in.

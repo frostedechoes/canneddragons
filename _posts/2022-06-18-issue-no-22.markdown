@@ -5,15 +5,15 @@ date: '2022-06-18 02:04:36'
 tags:
 - newsletter-1
 - newsletter
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 I sent out a note last Sunday about switching my blogging to a self-hosted solution. It was a lot of work getting things setup, but once I did, I felt like I was good to go. Then, as soon as I sent out a newsletter about the change, I started having numerous issues with reliability, availability, and performance. Those were mitigated by increasing my hardware and putting a proxy in front of the blog.

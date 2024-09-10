@@ -4,15 +4,15 @@ title: Beating Monsters With The Cross
 date: '2022-02-24 00:05:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 The day before President’s Day, I went to church for the first time since last summer. I’ve been watching online, well, religiously, since then, but it was a rare treat to go in and see friends and hear music being played live. Vivaldi on violin with our new sound system (which was desperately needed) alone was worth the trip. We had a congregational meeting afterward, so my stomach was starting to get into growling mode by the time I got home. I was making myself lunch while my youngest was playing a game online with his friends. He kept yelling something like, “get him with the crucifix!” From what I could understand, he was using a crucifix to protect his in-game character from hordes of evil spirits.

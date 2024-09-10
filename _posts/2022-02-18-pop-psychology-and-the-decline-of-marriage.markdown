@@ -3,15 +3,15 @@ layout: post
 title: Pop Psychology and the Decline of Marriage
 date: '2022-02-18 00:00:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 It turns out that not everything I learned in college en route to getting my psychology degree has held up under the weight of time and scrutiny. Take, for instance, Abraham Maslow's "Hierarchy of Needs," which was featured prominently in my education and still holds a large percentage of mind share among the general population in the US. Alex R. Wendel, [writing for Mere Orthodoxy](https://mereorthodoxy.com/modern-psychosocial-imaginaries/), reveals that Maslow's pyramid focuses too heavily on physiological needs. Emotional needs can be just as important for flourishing. For instance, we know that infants who receive total physical care but not affection will experience failure to thrive. The biggest influence that Maslow's hierarchy has had upon popular culture, however, is shaping the perception of self-actualization as an end goal.

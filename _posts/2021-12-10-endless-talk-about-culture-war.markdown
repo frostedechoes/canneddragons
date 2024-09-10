@@ -3,15 +3,15 @@ layout: post
 title: Endless Talk About Culture War
 date: '2021-12-10 00:00:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Alex Nowrasteh [writes for Arc Digital](https://www.arcdigital.media/p/the-economics-of-culture-war-commentary) on why there is so much culture war commentary ("from encoded presidential insults to drag queen story hour, Netflix comedy specials to baby books"). In short, because it's easy and cheap and pays big dividends. People love to read it for that confirmation bias rush and you don't have to be an expert in anything, such as science or politics. You don't even _have_ to do research or risk getting called out for being wrong.

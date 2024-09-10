@@ -4,15 +4,6 @@ title: A Continuing Odyssey
 date: '2018-02-25 02:02:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
 ---
 
 This past week, Alto’s Odyssey, the sequel to the much lauded iOS game Alto’s Adventure, was released to positive reviews. Alto’s Adventure offers a take on the “endless runner” game that gives a snowboarder a vast natural playground for collecting coins and doing simple tricks. Odyssey isn’t a brand new experience, but rather builds upon its predecessor in innovative ways.

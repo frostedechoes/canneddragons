@@ -413,6 +413,7 @@ aside, .callout {
 
 a.more {
   color: var(--main-text-color);
+  font-size: 16px;
   margin-top: 15px;
   margin-bottom: 15px;
     white-space: nowrap;
@@ -431,7 +432,7 @@ a.more {
   a.more::after {
   font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
   content: "→";
-  font-size: 14px;
+  font-size: 13px;
   color: var(--text);
   margin-left: .5rem;
   height: 1.2rem;
@@ -452,10 +453,13 @@ a.more {
       background: var(--link-color);
       color: #fff;
       }
-  
 
-.copy-buttons {
-  margin-top: calc(.5 * var(--line-height));
+      
+iframe.letterbird-embed {
+background: transparent !important;
+border-radius: 0 !important;
+box-shadow: none !important;
+margin: -10px -10px 0 !important;
 }
 
 .sitemap a {
@@ -479,7 +483,7 @@ iframe {margin: 24px 0!important;}
   padding-bottom: 56.25%; /* 16:9 */
   padding-top: 15px;
   height: 0;
-  margin: 10px 0 !important;
+  margin: 10px 0!important;
 }
 .videoWrapper iframe {
   position: absolute;
@@ -539,7 +543,7 @@ sup {
   border: 1px solid var(--light-border-color);
   border-radius: 4px;
   color: var(--main-text-color);
-  font-family: $body-typeface;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: var(--small-font-size);
   font-weight: normal;
   margin: 0 0 0 .5em;

@@ -10,9 +10,11 @@ custom-nav:
     - '<a href="/blog/random" title="Random post">Random</a>'
 ---
 
-<div id="search-bar" style="display: none;">
+<div id="search-bar">
 {%- include search.html -%}
 </div>
+
+<h2>Archive Posts</h2>
 
 {% for post in site.posts %}
 {%- unless post.categories contains "rss-club" or 

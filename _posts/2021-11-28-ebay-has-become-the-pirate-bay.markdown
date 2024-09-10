@@ -4,15 +4,15 @@ title: eBay Has Become The Pirate Bay
 date: '2021-11-28 00:11:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Over the years, I've had three eBay ID's. eBay used to allow logins from a single-sign on provider at some point (though I can't remember which) and I used that. Then they removed that feature and I had to change my ID. I made several transactions under the new ID. Now, a few years later, eBay will no longer recognize that ID and I had to create a new one. What is the problem with a new ID, you ask?

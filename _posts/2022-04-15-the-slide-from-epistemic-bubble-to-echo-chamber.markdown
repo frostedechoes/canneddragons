@@ -5,15 +5,15 @@ date: '2022-04-15 00:30:00'
 tags:
 - tech
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 In 2019, I participated in what is called a Leadership 360 assessment. The survey I took is based on principles from [Zenger Folkman](https://zengerfolkman.com/). The purpose of this survey is to help you identify your strengths and become even stronger in those areas. The assessment seeks to answer the question of what differentiates you as a leader. The premise is that you can’t make a leader great by taking an area where they are weak and making them a bit stronger in that area so that they become potentially average. However, if you can take something they are already good at and make them great at it, you can augment the skills of someone who can actually influence others.

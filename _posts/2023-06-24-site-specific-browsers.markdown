@@ -4,12 +4,12 @@ title: Site-Specific Browsers
 date: '2023-06-24 17:25:24'
 tags:
 - tech
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 At the recent Worldwide Developers Conference (WWDC), Apple previewed their new OS for the Mac, [macOS Sonoma](https://www.apple.com/macos/sonoma-preview/). I have to admit, at first, I didn't pay too much attention to the announcements. I used to believe OS updates could be life-changing, but that was before these operating systems reached the level of maturity that they have currently. Now, I have more of a casual level of interest in the evolutionary offerings that a new OS brings.

@@ -4,15 +4,15 @@ title: Sch-Sch-Sch-Schism
 date: '2022-07-13 20:49:00'
 tags:
 - faith
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 A few years ago, when I was teaching confirmation at the PC(USA) Presbyterian Church of which I am a member, I was showing a video about church polity and governance from a reform theology curriculum. The video was done in an intentionally kitschy old-school style of animation with the voice over imitation a 50's instructional video. In the video, the congregation is in the church sanctuary, voting on a resolution that was disputed. Since the process was democratic, it should have solved the dispute and brought the congregation back in alignment. In reality, the video showed, the vote takes place and then the slightly less than half who lost the vote just leave to go to another church.

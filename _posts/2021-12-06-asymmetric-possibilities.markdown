@@ -4,15 +4,15 @@ title: Asymmetric Possibilities
 date: '2021-12-06 00:00:00'
 tags:
 - tech
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 The other night, I was reading through the cover story for this month's issue of The Atlantic, [The Bad Guys Are Winning](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) by Anne Applebaum. I got to the part about Russia helping to provide the autocratic guidebook to Belarus' dictator, Alexander Lukashenko, in order to crush the protests in the country. I got this feeling in my core that I was at my limit of bad news for the day. This month's Atlantic is full of depressing material, including even a story about [a boxer that killed another boxer](https://www.theatlantic.com/magazine/archive/2021/12/charles-conwell-boxing/620527/) in the ring and then resumed his career boxing (and was even directed by a Christian pastor to do so).

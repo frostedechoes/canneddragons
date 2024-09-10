@@ -4,12 +4,12 @@ title: That's So Meta
 date: '2023-05-17 01:49:05'
 tags:
 - tech
-- hash-import-2023-08-31-00-31
-- hash-robert-2
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+
+
+
+
+
 ---
 
 John Herrman writes about the failure of the metaverse concept. He's clearly disillusioned with legless avatars and unearned hype. The premise for the piece is that there is no "there" there. The metaverse as a concept is simply lacking a reason for existence. Herrman references Ed Zitron, who in writing [his obituary for the meta verse](https://www.businessinsider.com/metaverse-dead-obituary-facebook-mark-zuckerberg-tech-fad-ai-chatgpt-2023-5), tends to blame one particular CEO.

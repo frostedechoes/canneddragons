@@ -4,15 +4,15 @@ title: Is Mastodon Really Is The Spiritual Successor To Twitter?
 date: '2022-12-14 18:49:26'
 tags:
 - tech
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
  **Mastodon was created in 2016** , and the site still harkens back to its origins, a time when [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) and the atrocious harassment of women in tech on Twitter was still very fresh in our minds. The platform was in a way a reaction to that and the rising toxic atmosphere on social media. At the time, Twitter was also in the throes of dealing with the side effects of a Donald Trump candidacy and subsequent presidency. As such, one of the primary features of Mastodon was to stamp out hate and harassment. It's a laudable goal, and very much needed in today's technology landscape. There's a problem there, though, in that Mastodon seems to define itself, at least in part, [as the anti-Twitter](https://www.nytimes.com/2022/11/21/style/mastodon-twitter-adam-davidson.html).

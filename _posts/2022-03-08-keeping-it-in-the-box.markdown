@@ -3,15 +3,15 @@ layout: post
 title: Keeping It In The Box
 date: '2022-03-08 20:49:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 When I was a kid, I spent a good amount of time with a cousin of the same age. Throughout our elementary school years, he and I shared a deep and abiding love for all things G.I. Joe. We hunted down the elusive Snake Eyes figure together. We turned our grandparent's spare room into a miniature theater of play warfare. I remember meeting him one time and he had setup a whole battle scene in my grandfather's caddy while on the way to pick me up. He and I discussed comic book intrigue and far-fetched military plots. There was one difference in our collecting, though. His parents bought him every G.I. Joe toy that he wanted. He had almost every action figure, vehicle and play set that rolled off the production line.  

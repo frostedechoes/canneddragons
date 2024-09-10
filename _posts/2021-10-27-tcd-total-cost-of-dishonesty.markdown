@@ -3,15 +3,15 @@ layout: post
 title: TCD (Total Cost of Dishonesty)
 date: '2021-10-27 23:30:00'
 tags:
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Years ago, I had a bad experience post-surgery when my wisdom teeth taken out. A couple of days after the procedure, I ruptured a blood vessel in my gum. I spent all night spitting out blood into a bucket. I stuffed tea bags into my mouth, hoping the tannin would stop the bleeding. It didn't.

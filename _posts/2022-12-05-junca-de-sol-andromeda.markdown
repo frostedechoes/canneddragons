@@ -4,15 +4,15 @@ title: Junca De Sol Andromeda
 date: '2022-12-05 03:14:49'
 tags:
 - noise
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 I was already a fan of the angular and noisy Truman's Water, Glen Galloway's former band, when he launched Soul-Junk. The new group was conceived after Galloway had a tour van conversion to Christianity. My friend, who was not a believer, but was a fan of Shrimper Records, made me a mix tape with Soul-Junk's "I Turned My Back On You." I listened to the mix tape while I was exploring a return to Christianity. The lyrics spoke to me about my own wandering away from faith and subsequently finding my way back.

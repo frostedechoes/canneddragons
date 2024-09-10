@@ -4,15 +4,15 @@ title: The Ghost of Jehovah
 date: '2022-11-12 16:20:51'
 tags:
 - faith
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 This week I got the latest issue of Presbyterians Today, the periodical from the Presbyterian Church USA. The magazine, like the denomination itself, has a pretty progressive slant. It's not filled with numerous biblical references, or spiritual content, but with social justice activism. I'm not pointing this out to condemn social justice activism. After all, the prophets and Jesus remind us constantly of the value of social justice. In fact, I think it's sad that if you look up "Christian social justice" on Amazon, many of the books the search pulls up are negative. Titles like Why Social Justice Is Not Biblical Justice: An Urgent Appeal to Fellow Christians in a Time of Social Crisis and Christianity and Social Justice: Religions in Conflict are bestsellers.

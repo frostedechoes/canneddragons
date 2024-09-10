@@ -4,15 +4,15 @@ title: Star Wars Is About Faith
 date: '2020-08-28 15:06:00'
 tags:
 - faith
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 Earlier this year, on Star Wars day, I looked forward to seeing _The Rise of Skywalker_ again and I indicated that I was [giving up on Star Wars think pieces]( __GHOST_URL__ /2020/05/03/happy-star-wars.html) for a while. That lasted a few months, and then I came across [this post from Hannah Long](https://arcdigital.media/dave-filonis-the-clone-wars-unlocked-the-secret-to-star-wars-51c81ca588f4) on Arc Digital.

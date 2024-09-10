@@ -5,15 +5,15 @@ date: '2022-07-02 15:00:11'
 tags:
 - newsletter-1
 - newsletter
-- hash-robert-2
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+
+- 
+
+
+
+
+
+
+
 ---
 
 The U.S. has been shaken by the repeal of the judicial precedent set by the Supreme Court in Roe v. Wade. If you spend any amount of time online, you can't escape opinions on the subject. It's remarkable how many people quickly become subject-matter experts about the topic of the latest topic du jour. The leaked draft of the ruling was partly the impetus for me to write [this blog post]( __GHOST_URL__ /less-is-more/) a couple of months ago. I explained why it can be so difficult to compile a digest style newsletter in the climate of perpetual outrage.

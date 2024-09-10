@@ -3,15 +3,15 @@ layout: post
 title: The Radiant Citadel
 date: '2022-08-20 23:16:49'
 tags:
-- hash-import-2023-01-23-01-24
-- hash-import-2023-05-05-21-23
-- hash-import-2023-05-12-14-50
-- hash-robert-2
-- hash-import-2023-08-31-00-31
-- hash-import-2023-10-06-03-55
-- hash-import-2023-11-16-01-27
-- hash-import-2023-12-08-12-54
-- hash-import-2024-08-08-00-38
+- 
+
+
+
+
+
+
+
+
 ---
 
 One of the co-creators of the latest official D&D adventure, _Journeys Through the Radiant Citadel_, Ajit George, [compares the setting of the book](https://youtu.be/5IC0AbjlIJM) to solarpunk. I wrote about solarpunk in [issue no. 8 of the newsletter]( __GHOST_URL__ /newsletter/issue-no-8/). Wikipedia [defines it this way](https://en.wikipedia.org/wiki/Solarpunk):
