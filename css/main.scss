@@ -276,6 +276,10 @@ blockquote {
   }
 }
 
+.index .footnotes {
+  display: none;
+}
+
 .quote-attribution {
   font-style: italic;
   margin-top: calc( .5 * var(--line-height));
