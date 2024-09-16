@@ -2,6 +2,7 @@
 Title: The Mouse House Redux
 Date: 2024-09-14 20:30
 Layout: post
+Social-media-image-url: /static/post-content/steamboat-willie.jpeg
 ---
 
 ![](/static/post-content/steamboat-willie.jpeg)
