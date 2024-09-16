@@ -6,7 +6,7 @@ social-media-image-url: /static/post-content/steamboat-willie.jpeg
 ---
 
 <figure>
-<img src="/static/post-content/steamboat-willie.jpeg")
+<img src="/static/post-content/steamboat-willie.jpeg">
 <figcaption>
 Steamboat Willie, 1928
 </figcaption>
