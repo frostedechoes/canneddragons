@@ -22,7 +22,7 @@
     <!-- OG metadata --> 
     <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    {% assign first_image = content | regex_first: '<img.+src=[\"|']([^\"|']+)[\"|']' %}
+    {% assign first_image = content | regex_first: '<img[^>]*src=["\']([^"\']+)["\']' %}
 <meta property="og:image" content="{% if first_image[1] %}{{ first_image[1] | relative_url }}{% else %}{{ site.url }}/static/about-pictures/dragonmap.jpeg{% endif %}" />
     <meta property="og:locale" content="{{ site.language }}">
     <meta property="og:type" content="{% if page.og-type %}{{page.og-type}}{% else %}website{% endif %}"/>
