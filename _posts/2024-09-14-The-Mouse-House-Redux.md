@@ -5,7 +5,12 @@ Layout: post
 social-media-image-url: /static/post-content/steamboat-willie.jpeg
 ---
 
-![](/static/post-content/steamboat-willie.jpeg)
+<figure>
+<img src="/static/post-content/steamboat-willie.jpeg")
+<figcaption>
+Steamboat Willie, 1928
+</figcaption>
+</figure>
 
 Some of my fondest memories are of times at the Disney World theme parks. In fact, some of the first memories I've retained are from my first trip to the parks. I was four, and sitting in between my parents in a car on Big Thunder Mountain Railroad, filled with a mixture of excitement, fear and familial comfort. I also remember the thrill of going on Space Mountain over and over again later at night as a teenager, the unfettered access to the ride that was so elusive earlier in the day becoming manifest. I can’t forget the luxurious dining experiences my wife and I had on our honeymoon, the kind of which we continue to talk and joke about. I still get a twinge of panic when I think about buying a bunch of Lego Star Wars sets and then almost feeling them slip out from underneath my legs on the lurching, fast-paced Aerosmith Rock ’n’ Roller Coaster. 
 

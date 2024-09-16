@@ -315,10 +315,16 @@ img {
   max-width: 100%;
 }
 
+figure {
+  width: 100%;
+  height: auto;
+  }
+
 figcaption {
   color: var(--light-text-color);
   margin-top: calc(.5 * var(--line-height));
-  text-align: center;
+  text-align: left;
+  margin-left: 15px;
 }
 
 aside, .callout {
