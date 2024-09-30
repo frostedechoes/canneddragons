@@ -42,12 +42,16 @@ $text-width: 600px;
 }
 
 html {
-  --box-background-color: #f8f9fa;
+  --box-background-color: #FFFEE3;
   --extra-light-text-color: hsl(240, 1%, 45%);
   --light-border-color: hsl(0, 0%, 90%);
   --light-text-color: hsl(240, 1%, 35%);
   --link-color: #fa5252;
+<<<<<<< HEAD
   --main-background-color: #ecf4f7;
+=======
+  --main-background-color: #FFFFF0;
+>>>>>>> 10952886aaeb0971e0e7b92238963afd7345d68a
   --main-text-color: #232323;
   --underline-color: hsl(0, 0%, 50%);
 }
@@ -276,6 +280,10 @@ blockquote {
   }
 }
 
+.index .footnotes {
+  display: none;
+}
+
 .quote-attribution {
   font-style: italic;
   margin-top: calc( .5 * var(--line-height));
@@ -308,13 +316,20 @@ img {
   display: block;
   height: auto;
   margin: 0 auto;
+  border-radius: 5px;
   max-width: 100%;
 }
+
+figure {
+  width: 100%;
+  height: auto;
+  }
 
 figcaption {
   color: var(--light-text-color);
   margin-top: calc(.5 * var(--line-height));
-  text-align: center;
+  text-align: left;
+  margin-left: 15px;
 }
 
 aside, .callout {
