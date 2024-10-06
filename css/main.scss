@@ -71,7 +71,7 @@ html {
 html {
   background-color: var(--main-background-color);
   color: var(--main-text-color); 
-  font-family: $body-typeface;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-feature-settings: "kern" on;
   font-variant-ligatures: common-ligatures;
   height: 100%;
