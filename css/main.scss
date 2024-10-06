@@ -288,6 +288,10 @@ blockquote {
   margin-top: calc( .5 * var(--line-height));
 }
 
+.accent {
+  color: var(--link-color);
+}
+
 a {
   color: var(--main-text-color);
   text-decoration-color: var(--underline-color);
