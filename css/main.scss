@@ -172,6 +172,7 @@ nav a[href='/feed.xml']::before {
 
 nav a[href='/feed.xml']::before {
   content: "\f09e";
+  color: var(--link-color);
 }
 
 nav a[href='/contact'] {
@@ -192,7 +193,8 @@ nav a[href='/contact']::before {
 }
 
 nav a[href='/contact']::before {
-  content: "\f1d8";
+  content: "\f1d8"
+  color: var(var(--link-color));
 }
 	
 nav .title {
