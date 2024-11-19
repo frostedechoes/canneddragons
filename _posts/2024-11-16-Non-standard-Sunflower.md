@@ -13,6 +13,8 @@ The election is, whether mercifully or unmercifully, in the rearview mirror. Lik
 
 This week I downloaded a collection from Emerson (which includes *Self Reliance*) and *The Imitation of Christ* by Thomas à Kempis. I haven’t started on Emerson yet, but I’ve found much enrichment in the latter book. Its short, focused chapters are a sort of balm in times when the world feels abrasive. 
 
+<!--more-->
+
 In the pages of this 500-year-old book, you will find the very things that speak to the rancor and division of contemporary American society.
 
 > True it is that every man willingly followeth his own bent, and is the more inclined to those who agree with him. But if Christ is amongst us, then it is necessary that we sometimes yield up our own opinion for the sake of peace. Who is so wise as to have perfect knowledge of all things? Therefore trust not too much to thine own opinion, but be ready also to hear the opinions of others. Though thine own opinion be good, yet if for the love of God thou foregoest it, and followest that of another, thou shalt the more profit thereby.
