@@ -16,4 +16,4 @@ I found the position Moore now takes on CDs interesting. 
 
 > Originally sticking to vinyl and cassettes, CDs have also made their way into his collection. At first he was apprehensive of the medium when it initially exploded in popularity, but now he thinks they aged well.
 
-This sounds a lot like the conclusion I have come to. With the right DAC, CDs can sound fantastic. The most recent CD I was looking at (an upcoming [Pains of Being Pure At Heart collection](https://slumberlandrecs.bandcamp.com/album/perfect-right-now-a-slumberland-collection-2008-2010)) was also a quarter of the price of the record. That’s hard to beat, especially if you’re on a budget.
+This sounds a lot like the conclusion I have come to. With the right DAC, CDs can sound fantastic. The most recent CD I was looking at (an upcoming [Pains of Being Pure At Heart collection](https://slumberlandrecs.bandcamp.com/album/perfect-right-now-a-slumberland-collection-2008-2010)) was also half the price of the record. That’s hard to beat, especially if you’re on a budget.
