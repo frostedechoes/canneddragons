@@ -6,7 +6,7 @@ Tags:
 - noise
 --- 
 
-Sam Tornow writes about [Thurston Moore and The Smell of Vinyl](https://www.discogs.com/digs/collecting/vinylogue-thurston-moore/) for Discogs. Moore is a famous vinyl aficionado who stuffs his apartment with records.
+Sam Tornow writes about [Thurston Moore and The Smell of Vinyl](https://www.discogs.com/digs/collecting/vinylogue-thurston-moore/) for *Discogs*. Moore is a famous vinyl aficionado who stuffs his apartment with records.
 
 > “I kind of have to draw some limitations with my responsibility toward my own budget. I can’t just be living, building furniture out of records. I [still] have a pretty healthy Wantlist on Discogs, though. I continue to buy records all the time. I’m always interested in going to record stores, and I get my Discogs alerts for records I want. I would say I purchase on Discogs at least two or three times a week.”
 
