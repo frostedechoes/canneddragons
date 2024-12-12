@@ -6,8 +6,6 @@ Date: 2024-12-08
 Layout: post
 ---
 
-# Like A Virgin
-
 Madonna's most well-known album, *Like A Virgin* just celebrated its 40th anniversary. 
 
 ![](/static/post-content/Like-A-Virgin.jpeg)
