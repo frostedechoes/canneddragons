@@ -12,6 +12,8 @@ Sam Tornow writes about [Thurston Moore and The Smell of Vinyl](https://www.disc
 
 This happened to a friend of mine, who was once named by *The News & Observer* as the biggest record collector in Raleigh. He eventually ran out of space for his collection and moved on to clothing.
 
+<!--more-->
+
 I found the position Moore now takes on CDs interesting. 
 
 > Originally sticking to vinyl and cassettes, CDs have also made their way into his collection. At first he was apprehensive of the medium when it initially exploded in popularity, but now he thinks they aged well.
