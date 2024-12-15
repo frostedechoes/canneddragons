@@ -16,7 +16,7 @@ Michael Caine and Sean Connery in <em>The Man Who Would Be King</em> (1975)
 
 
 
-One of my all-time favorite films is John Huston’s *The Man Who Would Be King*. I was first introduced to the movie adaptation of the [Rudyard Kipling short story](https://en.wikipedia.org/wiki/The_Man_Who_Would_Be_King) from 1888 by my English teacher in my senior year of high school. Kipling’s novel encapsulates some of the folly and hubris of the [British adventures in Afghanistan](https://en.wikipedia.org/wiki/1842_retreat_from_Kabul) in the 19th century by infusing its characters with the attitudes of empire. In the film, Michael Caine and Sean Connery play British ex-military who dream much and doubt little. They set their sites on bringing the martial prowess learned in their earlier days to a remote area of Afghanistan known as Kafiristan to form their own kingdom.
+One of my all-time favorite films is John Huston’s *The Man Who Would Be King*. I was first introduced to the movie adaptation of the [Rudyard Kipling short story](https://en.wikipedia.org/wiki/The_Man_Who_Would_Be_King) from 1888 by my English teacher in my senior year of high school. Kipling’s story encapsulates some of the folly and hubris of the [British adventures in Afghanistan](https://en.wikipedia.org/wiki/1842_retreat_from_Kabul) in the 19th century by infusing its characters with the attitudes of empire. In the film, Michael Caine and Sean Connery play British ex-military who dream much and doubt little. They set their sites on bringing the martial prowess learned in their earlier days to a remote area of Afghanistan known as Kafiristan to form their own kingdom.
 
 <!--more-->
 
