@@ -14,4 +14,4 @@ I love to get email. I still think it's one of the better forms of asynchronous 
 
 ## Social
 
-You can also find me on the socials. I'm [@minemono@mastodon.world](https://mastodon.world/@mineinmono) on the fediverse and [@canneddragons.bsky.social](https://bsky.app/profile/canneddragons.bsky.social) on Bluesky.
+You can also find me on the socials. I'm [@canneddragons.net](https://bsky.app/profile/canneddragons.net) on Bluesky.
