@@ -269,6 +269,7 @@ li + li, ul li ul, ul li ul li {
 blockquote {
   margin: var(--line-height) 0;
   padding: 0 1.5em;
+  border-left: 4px solid #aaa;
   p {
     font-size: var(--quote-font-size);
     hanging-punctuation: first;
