@@ -4,18 +4,10 @@ title: Why, As A Christian, I Can Sympathize With Some Prayer Shaming
 date: '2022-05-16 02:31:55'
 tags:
 - faith
-
-- 
-
-
-
-
-
-
-
 ---
 
-_This post was originally published on Medium — December 13, 2015. Unfortunately, due to the incapacity of US politicians to tackle the issue of gun violence, it remains an evergreen post._
+<aside>This post was originally published on Medium — December 13, 2015. Unfortunately, due to the incapacity of US politicians to tackle the issue of gun violence, it remains an evergreen post.
+</aside>
 
 A couple of weeks ago, the NY Daily News, after yet another mass shooting in the US, posted a provocative cover blasting politicians for offering prayers instead of concrete action.
 
