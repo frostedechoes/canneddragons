@@ -16,3 +16,5 @@ This site follows the [POSSE](https://indieweb.org/POSSE) "Publish (on your) Own
 This blog pulls in thoughts from other independent blogs as well as social media accounts and major publishers. The project is an effort to celebrate the earlier days of blogging. 
 
 Canned Dragons runs on a stack of plain text files, a git repo and <a href="https://jekyllrb.com">Jekyll</a>. Hosting is provided by [Netlify](https://www.netlify.com). 
+
+<aside>This site is still under construction. You may notice posts missing content, broken search, tags that go nowhere, etc.</aside>
