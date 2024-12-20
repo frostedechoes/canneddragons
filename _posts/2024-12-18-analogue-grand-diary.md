@@ -5,8 +5,6 @@ title: Analogue Grand Diary
 date: 2024-12-18
 ---
 
-# Analogue Grand Diary
-
 Maybe it's early to be making New Year's resolutions, or perhaps you don't even believe in setting stretch goals just because the calendar changes. It seems that many have eschewed this once formerly popular habit. I confess that I have waxed and waned in my observance of making annual resolutions. This year, though, I have something lined up that I think will actually improve my life in meaningful ways. 
 
 I'm trying to go more analogue after the Christmas holiday. My Christmas list consists of items to help me do that. Now, before I reveal what is on the list, I have to admit that I'm fudging the idea of analogue a bit. In this context, analogue may contain a bit of the digital, as long as it keeps me disconnected from the great network. I've been developing the idea that the internet is a place to go for a specific reason. 
