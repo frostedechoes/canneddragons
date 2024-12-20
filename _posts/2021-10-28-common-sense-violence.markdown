@@ -2,21 +2,13 @@
 layout: post
 title: Common Sense Violence
 date: '2021-10-28 23:45:00'
-tags:
-
-- 
-
-
-
-
-
-
-
+tags: culture
 ---
 
-⚠️
 
-Warning: This post contains spoilers for the Apple TV+ series Foundation, as well as some graphic depictions of violence, both real and fictional.
+<aside>
+⚠️ Warning: This post contains spoilers for the Apple TV+ series Foundation, as well as some graphic depictions of violence, both real and fictional.
+</aside>
 
 My wife and I started watching the new Apple TV+ sci-fi series _Foundation_ last weekend. The trailer for the show promised exciting visuals and an intriguing plot. The review from the site [Common Sense Media](https://www.commonsensemedia.org/tv-reviews/foundation) was mostly very positive. The write-up on the show focused quite a bit on the show's diverse cast and little on the violence. The quick summary on the site encapsulates their review well:
 
