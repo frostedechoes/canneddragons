@@ -20,8 +20,8 @@ $text-width: 600px;
   --h2-font-size: 1.2rem;
   --small-font-size: 1rem;
   --text-width: 600px;
-  --quote-font-size:.95rem
-  --nav-font: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --quote-font-size:.95rem;
+  --nav-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
 }
 
 
@@ -71,7 +71,7 @@ html {
 html {
   background-color: var(--main-background-color);
   color: var(--main-text-color); 
-  font-family: $body-typeface;
+  font-family: var(--nav-font);
   font-feature-settings: "kern" on;
   font-variant-ligatures: common-ligatures;
   height: 100%;
