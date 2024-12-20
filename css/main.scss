@@ -14,12 +14,12 @@ $text-width: 600px;
 }
 
 :root {
-  --body-font-size: 1.15rem;
+  --body-font-size: 1rem;
   --line-height: 2rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.2rem;
   --small-font-size: 1rem;
-  --text-width: 600px;
+  --text-width: 650px;
   --quote-font-size:.95rem;
   --nav-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
 }
@@ -27,12 +27,12 @@ $text-width: 600px;
 
 @media (max-width: 600px) {
   :root {
-    --body-font-size: 1.15rem;
+    --body-font-size: 1rem;
     --line-height: 1.575rem; 
     --h1-font-size: 1.625rem; 
     --h2-font-size: 1.375rem; 
-    --small-font-size: 1rem; 
-    --quote-font-size: 1rem;
+    --small-font-size: .9rem; 
+    --quote-font-size: .9rem;
   }
 
   .about-picture {
@@ -47,7 +47,7 @@ html {
   --light-border-color: hsl(0, 0%, 90%);
   --light-text-color: hsl(240, 1%, 35%);
   --link-color: #fa5252;
-  --main-background-color: #F8F9FA; /* #f3f9f9 */
+  --main-background-color: #fff; /* #f3f9f9 */
   --main-text-color: #232323;
   --underline-color: hsl(0, 0%, 50%);
 }
