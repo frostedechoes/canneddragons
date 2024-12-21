@@ -1,6 +1,9 @@
----
-layout: default
----
+{%- include head-matter.html -%}
+
+{%- include pretty-numbers.html -%}
+<main>
+{%- include header.html -%}
+<body>
 
 <h1>Posts tagged "{{ page.tag }}"</h1>
 <ul>
@@ -10,3 +13,6 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
+</main>
+{%- include footer.html -%}
+</body>
