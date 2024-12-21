@@ -20,12 +20,6 @@
 
 {{ content }}
 
-</article>
-
-{%- if page.categories contains "now" -%}
-	{%- include now-listing.html -%}
-{%- endif -%}
-
 {% if page.tags %}
   <p>Tags:
     {% for tag in page.tags %}
@@ -33,6 +27,14 @@
     {% endfor %}
   </p>
 {% endif %}
+
+</article>
+
+{%- if page.categories contains "now" -%}
+	{%- include now-listing.html -%}
+{%- endif -%}
+
+
 
 </main>
 
