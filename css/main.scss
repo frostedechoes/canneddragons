@@ -19,19 +19,9 @@ $text-width: 600px;
   --text-width: 650px;
   --quote-font-size:.95rem;
   --date-font-size: .8rem;
+  --caption-font-size: 8.5rem;
   --nav-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
 }
-
-
-@media (max-width: 600px) {
-  :root {
-    --body-font-size: 1rem;
-    --line-height: 1.575rem; 
-    --h1-font-size: 1.625rem; 
-    --h2-font-size: 1.375rem; 
-    --small-font-size: .9rem; 
-    --quote-font-size: .95rem;
-  }
 
   .about-picture {
     padding: 5%;
@@ -338,7 +328,7 @@ figcaption {
   margin-top: calc(.5 * var(--line-height));
   text-align: left;
   margin-left: 15px;
-  font-size: var(--small-font-size);
+  font-size: var(--caption-font-size);
 }
 
 aside, .callout {
