@@ -1,5 +1,5 @@
 ---
-tags: tech
+tags: [tech]
 layout: post
 title: Analogue Grand Diary
 date: 2024-12-18
