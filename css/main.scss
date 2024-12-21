@@ -104,10 +104,14 @@ p, li, details, summary {
 
 .avatar {
   display: block;
-	width: 45px;
-	height: 45px;
-	border-radius: 50%; 
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  transition: transform 0.3s ease; // Add transition for smooth effect
+}
 
+.avatar:hover {
+  transform: scale(1.2); // Scale up the avatar on hover
 }
 
 header {
