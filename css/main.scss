@@ -48,6 +48,7 @@ html {
   --dark-border-color: #495057;
   --light-text-color: hsl(240, 1%, 35%);
   --link-color: #fa5252;
+  --link-underline-color: #808080;
   --main-background-color: #fff; /* #f3f9f9 */
   --main-text-color: #111;
 }
@@ -295,7 +296,8 @@ blockquote {
 
 a {
   color: var(--main-text-color);
-  text-underline-offset: 4px;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--link-underline-color);
   }
  
 pre {
