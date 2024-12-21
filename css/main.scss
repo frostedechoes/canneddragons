@@ -299,6 +299,7 @@ a {
   color: var(--main-text-color);
   text-underline-offset: 2px;
   text-decoration-color: var(--link-underline-color);
+  transition: color .2s ease-in-out;
   }
  
 pre {
