@@ -14,6 +14,16 @@ custom-nav:
 {%- include search.html -%}
 </div>
 
+<h2 id="tags">Tags</h2>
+
+{% assign sortedTags = site.tags | sort %}
+
+<div class="tag-list">
+{% for tag in sortedTags %}
+    <a href="#{{tag[0]}}">{{ tag[0] }}&nbsp;({{ tag[1] | size }})</a>
+{% endfor %}
+</div>
+
 <h2>Archive Posts</h2>
 
 {% for post in site.posts %}
