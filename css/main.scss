@@ -240,8 +240,8 @@ h1 {
   color: var(--light-text-color);
 }
 
-h1.post-title {
-  margin-bottom: 20px;
+.note-entry h1 + p {
+  margin-bottom: 5px;
 }
 
 h1 a {
