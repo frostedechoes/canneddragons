@@ -206,6 +206,9 @@ nav .title {
     font-size: var(--small-font-size);
     }    
 
+.post-title {
+  margin: 20px 0 0;
+}
 
 time {
   color: var(--light-text-color);
@@ -631,11 +634,11 @@ sup {
 }
 
 .heading-date-line {
-  margin-top: -20px;
   color: var(--light-text-color);
   font-size: var(--date-font-size);
   letter-spacing: 2px;
   display: block;
+  margin-top: 0;
   }
 
 mark {

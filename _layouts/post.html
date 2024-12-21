@@ -9,7 +9,7 @@
 	<article>
 
 	<h1 class="post-title">{%- if page.nowPage -%}{{ site.categories.now[0].title }}{%- else -%}{{ page.title }}{%- endif -%}</h1>
-<p class="heading-date-line"><time datetime="{{ page.date | date: "%b %d %Y" | upcase }}">{{ post.date | date: "%b %d %Y" | upcase }}</time></p>
+<p class="heading-date-line"><time datetime="{{ page.date | date: "%b %d %Y" | upcase }}">{{ page.date | date: "%b %d %Y" | upcase }}</time></p>
 {%- if page.categories contains "now" -%}
 	{%- include now-blurb.html -%}
 {%- endif -%}
