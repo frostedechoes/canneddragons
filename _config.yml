@@ -11,10 +11,10 @@ language: en_US
 
 # social images
 
-favicon: /static/about-pictures/blue-dragon.png
+favicon: /static/about-pictures/stonecold-dragon.png
 social-media-image-url: /static/about-pictures/dragonmap.jpeg
 twitter-card-image: /static/about-pictures/dragonmap.jpeg
-iOS-icon: /static/about-pictures/blue-dragon.png
+iOS-icon: /static/about-pictures/stonecold-dragon.png
 
 # leave these unless you are more familiar with jekyll settings
 
