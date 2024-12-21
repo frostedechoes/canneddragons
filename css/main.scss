@@ -637,6 +637,12 @@ sup {
   }
 }
 
+.heading-date-line {
+  color: var(--light-text-color);
+  font-size: var(--small-font-size);
+  margin-bottom: 20px;
+  }
+
 mark {
   background-color: #FFE500;//hsl(60, 90%, 45%);
 }
