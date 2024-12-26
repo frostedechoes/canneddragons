@@ -44,6 +44,7 @@ html {
   font-family: var(--nav-font);
   font-variant-ligatures: common-ligatures;
   height: 100%;
+  max-width: var(--text-width);
   margin: 0;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
