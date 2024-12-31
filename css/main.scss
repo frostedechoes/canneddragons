@@ -4,31 +4,8 @@
 $body-typeface: "Source Serif 4", serif;
 $heading-typeface: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; 
 $mono-typeface: IBM Plex Mono, monospace;
-$text-width: 550px;
+$text-width: 600px;
 
-@font-face {
-  font-family: "Crimson Pro Roman";
-  src: url("/assets/fonts/crimsonpro-roman-vf.ttf") format("truetype");
-  font-style: normal;
-  font-variation-settings: 'wght' 400;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Crimson Pro Italic";
-  src: url("/assets/fonts/crimsonpro-italic-vf.ttf") format("truetype");
-  font-style: italic;
-  font-variation-settings: 'wght' 400;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Roboto Extremo";
-  src: url("/assets/fonts/roboto-extremo-vf.ttf") format("truetype");
-  font-style: normal;
-  font-variation-settings: 'wght' 400;
-  font-weight: 400;
-}
 
 :root {
   --body-font-size: 1rem;
@@ -41,6 +18,20 @@ $text-width: 550px;
   --date-font-size: .8rem;
   --caption-font-size: .85rem;
   --nav-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
+}
+
+  .about-picture {
+    padding: 5%;
+  }
+
+
+
+html {
+  --box-background-color: #e9ecef;
+  --extra-light-text-color: hsl(240, 1%, 45%);
+  --light-border-color: hsl(0, 0%, 90%);
+  --dark-border-color: #495057;
+  --light-text-color: hsl(240, 1%, 35%);
   --link-color: #3063a6;
   --link-underline-color: #808080;
   --main-background-color: #fff; /* #f3f9f9 */
@@ -53,31 +44,24 @@ html {
   font-family: var(--nav-font);
   font-variant-ligatures: common-ligatures;
   height: 100%;
-  max-width: var(--text-width);
   margin: 0;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-  align-items: center; // Center content horizontally
-  margin: 0;
+* {
+  margin: var(--line-height) 0 0 0;
   padding: 0;
-  height: 100%;
 }
 
-main {
-  flex: 1;
-  margin: 0 auto;
-  max-width: var(--text-width);
-  padding-bottom: 3rem;
-  width: 100%;
+body {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center; // Center content horizontally
+  height: 100%;
+  margin: 0;
+  padding: 0 7.5%;
 }
 
 p, li, details, summary {
@@ -93,16 +77,191 @@ p, li, details, summary {
   transition: transform 0.3s ease; // Add transition for smooth effect
 }
 
-nav .right-section {
-  text-align: right;
-  display: block;
+.avatar:hover {
+  transform: scale(1.2); // Scale up the avatar on hover
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+ align-items: center;
+  padding: 0; 
+  margin-bottom: 40px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+nav {
+  color: var(--light-text-color);
+  margin: 0 0;
+}
+
+nav a {
+    color: var(--light-text-color);
+    text-decoration: none;
+  }
+ 
+nav a:hover {
+    text-decoration: none;
+    }
+ 
+nav .left-section {
+    text-align: left;
+    margin: -10px 0 0;
+    display: block;
+       position: relative;
+    }
+    
+nav .right-section {
+    text-align: right;
+    display: block;
+    }
+
+main {
+  flex: 1;
+  margin: 0 auto;
+  max-width: var(--text-width);
+  padding-bottom: 3rem;
+  width: 100%;
+}
+
 
 nav a[href='/feed.xml'] {
   font-size: 0 !important;
 }
 
-margin-top: calc( .5 * var(--line-height));
+nav a[href='/feed.xml']::before {
+  font-family: "FontAwesome";
+  display: inline-block;
+  font-size: .85rem;
+  color: var(--light-text-color);
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  padding-left: 7px;
+  -webkit-font-smoothing: antialiased;
+}
+
+nav a[href='/feed.xml']::before {
+  content: "\f09e";
+}
+
+nav a[href='/contact'] {
+  font-size: 0 !important;
+}
+
+nav a[href='/contact']::before {
+  font-family: "FontAwesome";
+  display: inline-block;
+  font-size: .85rem;
+  color: var(--light-text-color);
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  padding-left: 7px;
+  -webkit-font-smoothing: antialiased;
+}
+
+nav a[href='/contact']::before {
+  content: "\f1d8";
+}
+    
+nav .title {
+    font-weight: 700;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: var(--h1-font-size);
+    }
+    
+.blogblurb {
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 0;
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--light-border-color);
+    line-height: 1.4rem;
+    font-size: var(--small-font-size);
+    }    
+
+.post-title {
+  margin: 20px 0 0;
+}
+
+time {
+  color: var(--light-text-color);
+  font-size: var(--date-font-size);
+  font-family: $heading-typeface;
+}
+
+.post-author-and-time {
+  color: var (--light-text-color);
+ /* margin-top: calc(.125 * var(--line-height)); */
+  font-family: $heading-typeface;
+}
+
+hr {
+  margin: 30px auto;
+  border: none;
+  height: 1px;
+  background: #ccc;
+}
+
+h1 {
+  font-family: $heading-typeface;
+  color: var(--light-text-color);
+}
+
+.note-entry h1 + p {
+  margin-top: 5px !important;
+}
+
+h1 a {
+  color: var(--light-text-color);
+}
+
+h2, h3 {
+  font-family: $heading-typeface;
+  font-size: var(--h2-font-size);
+  margin: calc(var(--line-height) * 1.5) 0 0 0;
+  font-weight: bold;
+}
+
+h2 + p, h3 + p {
+  margin-top: calc( var(--line-height) * .75);
+}
+
+ul, ol {
+  list-style-position: outside;
+  padding-left: var(--line-height);
+}
+
+li + li, ul li ul, ul li ul li {
+  margin: calc(.5 * var(--line-height)) 0 0 0;
+}
+
+blockquote {
+  margin: var(--line-height) 0;
+  padding: 0 1.5em;
+  border-left: 4px solid #ccc;
+  p {
+  
+    hanging-punctuation: first;  
+  }
+  li {
+    padding: 0;
+  }
+}
+
+.index .footnotes {
+  display: none;
+}
+
+.quote-attribution {
+  font-style: italic;
+  margin-top: calc( .5 * var(--line-height));
 }
 
 .accent {
@@ -170,7 +329,7 @@ aside, .callout {
     text-transform: none;
   }
   h2 + *, h3 + * {
-    margin-top: calc(.25 * var(--line-height));
+    margin-top: calc(.25 * var (--line-height));
   }
   p, li {
     font-size: var(--small-font-size);
@@ -376,7 +535,7 @@ sup {
 }
 
 .form-control::placeholder {
-	color: var(--light-text-color);
+    color: var(--light-text-color);
 }
 
 .btn-default {
@@ -538,4 +697,3 @@ text-align: center;
      position: relative;
       top: 0.2em;
   }
-   
