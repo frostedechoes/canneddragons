@@ -6,6 +6,16 @@ $heading-typeface: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,
 $mono-typeface: IBM Plex Mono, monospace;
 $text-width: 600px;
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
+.crimson-pro-font {
+  font-family: "Crimson Pro", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 
 :root {
   --body-font-size: 1rem;
@@ -17,6 +27,7 @@ $text-width: 600px;
   --quote-font-size:.95rem;
   --date-font-size: .8rem;
   --caption-font-size: .85rem;
+  --body-font: "Crimson Pro", serif;
   --nav-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
 }
 
@@ -41,7 +52,7 @@ html {
 html {
   background-color: var(--main-background-color);
   color: var(--main-text-color); 
-  font-family: var(--nav-font);
+  font-family: var(--body-font);
   font-variant-ligatures: common-ligatures;
   height: 100%;
   margin: 0;
@@ -87,7 +98,7 @@ header {
  align-items: center;
   padding: 0; 
   margin-bottom: 40px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: var(--nav-font);
 }
 
 
