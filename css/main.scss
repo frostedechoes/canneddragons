@@ -45,7 +45,7 @@ html {
   --dark-border-color: #495057;
   --light-text-color: hsl(240, 1%, 35%);
   --link-color: #3063a6;
-  --link-underline-color: #808080;
+  --link-underline-color: #aaa;
   --main-background-color: #fff; /* #f3f9f9 */
   --main-text-color: #111;
 }
@@ -101,14 +101,14 @@ header {
  align-items: center;
   padding: 0; 
   margin-bottom: 40px;
-  font-family: var(--nav-font);
-  font-size: var(--nav-font-size);
 }
 
 
 nav {
   color: var(--light-text-color);
   margin: 0 0;
+  font-family: var(--nav-font);
+  font-size: var(--nav-font-size);
 }
 
 nav a {
@@ -285,9 +285,13 @@ blockquote {
 
 a {
   color: var(--main-text-color);
-  text-underline-offset: 2px;
+  text-underline-offset: 2.5px;
   text-decoration-color: var(--link-underline-color);
-  transition: color .2s ease-in-out;
+  transition: all 120ms ease-in-out;
+  }
+  
+a:hover {
+  text-decoration-color: var(--main-text-color);
   }
  
 pre {
