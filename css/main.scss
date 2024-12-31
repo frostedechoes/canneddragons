@@ -644,16 +644,6 @@ mark {
   background-color: #FFE500;//hsl(60, 90%, 45%);
 }
 
-// link hover styles at the end so they apply to all links
-
-a:hover {
-  color: var(--link-color);
-  text-decoration: underline;
-  text-decoration-style: solid;
-  text-decoration-color: var(--link-color);
-}
-
-
 /* Footer */
 
 .footer {
