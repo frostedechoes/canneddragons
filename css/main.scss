@@ -99,7 +99,7 @@ nav .right-section {
 }
 
 nav a[href='/feed.xml'] {
-  font-size: 0 !important;
+  display: none; // Hides the element
 }
 
 margin-top: calc( .5 * var(--line-height));
