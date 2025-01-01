@@ -293,10 +293,10 @@ time {
 }
 
 hr {
-  margin: 30px auto;
-  border: none;
-  height: 1px;
-  background: #ccc;
+  margin: 40px 0;
+  border: 0;
+  height: 0;
+  border-top: 1px dashed var(--underline-color);
 }
 
 h1 {
