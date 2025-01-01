@@ -711,7 +711,7 @@ sup {
     font-size: var(--body-font-size);
   }
   h1 + p, h2 + p {
-    margin-top: calc( var(--line-height) * .25)
+    margin-top: 20px;
   }
 }
 
