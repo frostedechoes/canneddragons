@@ -1,6 +1,7 @@
 ---
 Title: Non-standard Sunflower
-Tags: faith, politics
+Tags: 
+- faith
 layout: post
 Date: 2024-11-16
 ---
