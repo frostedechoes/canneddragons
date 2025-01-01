@@ -301,7 +301,7 @@ hr {
 h1 {
   font-family: $heading-typeface;
   color: var(--light-text-color);
-  var(--h1-font-size);
+  font-size: var(--h1-font-size);
 }
 
 .note-entry h1 + p {
