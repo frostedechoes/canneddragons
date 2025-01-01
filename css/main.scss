@@ -95,7 +95,7 @@ $text-width: 600px;
   --line-height: 1.5rem;
   --h1-font-size: 1.2rem;
   --h2-font-size: 1.1rem;
-  --small-font-size: 1rem;
+  --small-font-size: .85rem;
   --text-width: 600px;
   --quote-font-size:.95rem;
   --date-font-size: .8rem;
@@ -271,6 +271,7 @@ nav .title {
   margin: 10px 5px;
   text-decoration: none;
   font-family: var(--nav-font);
+  font-size: var(--small-font-size);
   border-radius: 20px;
   color: var(--text-color);
   border: 1px solid var(--link-underline-color);
