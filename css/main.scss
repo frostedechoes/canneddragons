@@ -327,9 +327,6 @@ h1 {
   font-size: var(--h1-font-size);
 }
 
-.note-entry h1 + p {
-  margin-top: 5px !important;
-}
 
 h1 a {
   color: var(--light-text-color);
@@ -707,7 +704,7 @@ sup {
   padding: 20px 0;
   h1 {
     font-family: $heading-typeface;
-    margin: 20px 0 0;
+    margin: 20px 0;
   }
   h2 {
     font-family: $heading-typeface;
