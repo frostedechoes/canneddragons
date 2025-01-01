@@ -268,11 +268,12 @@ nav .title {
     }
     
 .bubble-tags {
-  padding: 6px 10ppx;
+  padding: 6px 10px;
   margin: 10px 5px;
   text-decoration: none;
   font-family: var(--nav-font);
-  font-size: 13px;
+  font-size: 12px;
+  font-weight: 500;
   border-radius: 20px;
   color: var(--text-color);
   border: 1px solid var(--link-underline-color);
