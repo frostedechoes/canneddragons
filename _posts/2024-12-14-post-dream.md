@@ -9,7 +9,7 @@ tags:
 
 Not too long ago, [I posted about](https://canneddragons.net/posts/like-a-virgin) a shoegaze cover of a music charts staple from decades ago and, well, I was sorely tempted to do it again. 
 
-I came across a YouTube channel for a service called [Musora](https://www.musora.com/) which bills itself as “the ultimate music lessons experience.” Musora offers a subscription which will help you learn to play an instrument and your favorite songs. For $20/month (with an annual subscription), you gain access to a suite of interactive practice tools and a community of like-minded students. 
+I came across a YouTube channel for a service called [Musora](https://www.musora.com/) which is billed as “the ultimate music lessons experience.” Musora offers a subscription which will help you learn to play an instrument and your favorite songs. For $20/month (with an annual subscription), you gain access to a suite of interactive practice tools and a community of like-minded students. 
 
 <!--more-->
 
