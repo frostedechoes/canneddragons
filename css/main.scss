@@ -509,7 +509,7 @@ a.more {
    display: inline-block;
     text-decoration: none; 
     border: none;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: var(--nav-font);
   }
   
   a.more:hover {
